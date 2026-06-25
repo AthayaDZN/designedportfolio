@@ -20,8 +20,8 @@
     "Visual Identity Systems"
   ],
   "formEnabled": true,
-  "formSubmissionMode": "mailto",
-  "formEndpointUrl": "",
+  "formSubmissionMode": "formspree",
+  "formEndpointUrl": "https://formspree.io/f/xykqeodz",
   "formFields": [
     {
       "label": "Name",

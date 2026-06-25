@@ -41,6 +41,7 @@ export function renderContactPage({ renderHeader, renderFooter, btn, label, disc
     .sort((a, b) => (Number(a.order || 0) || 0) - (Number(b.order || 0) || 0));
   const gridFields = fields.filter((field) => field.type !== "textarea");
   const messageFields = fields.filter((field) => field.type === "textarea");
+  const formAction = content.formSubmissionMode !== "mailto" && content.formEndpointUrl ? ` action="${content.formEndpointUrl}" method="POST"` : "";
 
   return `
     ${renderHeader()}
@@ -74,11 +75,12 @@ export function renderContactPage({ renderHeader, renderFooter, btn, label, disc
         </aside>
 
         ${content.formEnabled === false ? "" : `
-          <form class="contact-form" data-contact-form data-form-mode="${content.formSubmissionMode}" data-form-endpoint="${content.formEndpointUrl || ""}" data-contact-email="${content.email}">
+          <form class="contact-form" data-contact-form${formAction} data-form-mode="${content.formSubmissionMode}" data-form-endpoint="${content.formEndpointUrl || ""}" data-contact-email="${content.email}">
             <div class="form-grid">
               ${gridFields.map(renderField).join("")}
             </div>
             ${messageFields.map(renderField).join("")}
+            <p class="contact-form__status" data-contact-status role="status" aria-live="polite" hidden></p>
             <div class="contact-form__footer">
               <button class="editorial-button editorial-button--solid" type="submit"><span>Send Inquiry</span><svg class="inline-arrow" viewBox="0 0 40 24" aria-hidden="true" focusable="false"><path d="M7 12H30M23 5L30 12L23 19" /></svg></button>
             </div>

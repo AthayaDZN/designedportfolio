@@ -1736,7 +1736,7 @@ function bind() {
     };
   }
 
-  document.querySelector("[data-contact-form]")?.addEventListener("submit", (event) => {
+  document.querySelector("[data-contact-form]")?.addEventListener("submit", async (event) => {
     event.preventDefault();
     const form = event.currentTarget;
     const data = new FormData(form);
@@ -1747,15 +1747,40 @@ function bind() {
     const subject = encodeURIComponent(`Project inquiry from ${name || "ATHAYA DESIGNED site"}`);
     const lines = Array.from(data.entries()).map(([key, value]) => `${key}: ${value}`);
     const body = encodeURIComponent(lines.join("\n"));
+    const status = form.querySelector("[data-contact-status]");
+    const button = form.querySelector("button[type='submit']");
+    const buttonLabel = button?.querySelector("span");
+    const originalButtonText = buttonLabel?.textContent || "Send Inquiry";
+    const setStatus = (type, message) => {
+      if (!status) return;
+      status.hidden = false;
+      status.classList.toggle("is-success", type === "success");
+      status.classList.toggle("is-error", type === "error");
+      status.textContent = message;
+    };
 
     if (mode !== "mailto" && endpoint) {
-      fetch(endpoint, { method: "POST", body: data }).catch(() => {
+      try {
+        button?.setAttribute("disabled", "disabled");
+        if (buttonLabel) buttonLabel.textContent = "Sending";
+        setStatus("pending", "Sending your inquiry...");
+        data.set("_subject", decodeURIComponent(subject));
+        if (data.get("email")) data.set("_replyto", data.get("email"));
+        const response = await fetch(endpoint, { method: "POST", body: data, headers: { Accept: "application/json" } });
+        if (!response.ok) throw new Error("Form submission failed");
+        form.reset();
+        setStatus("success", "Inquiry sent. Thanks, I will get back to you soon.");
+      } catch {
+        setStatus("error", "Could not send directly. Opening your email app as a backup.");
         window.location.href = `mailto:${email}?subject=${subject}&body=${body}`;
-      });
-      form.reset();
+      } finally {
+        button?.removeAttribute("disabled");
+        if (buttonLabel) buttonLabel.textContent = originalButtonText;
+      }
       return;
     }
 
+    setStatus("pending", "Opening your email app...");
     window.location.href = `mailto:${email}?subject=${subject}&body=${body}`;
   });
 

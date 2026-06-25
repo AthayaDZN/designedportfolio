@@ -4649,6 +4649,32 @@ img {
   resize: vertical;
 }
 
+.contact-form__status {
+  margin: -4px 0 0;
+  border: 1px solid rgba(243, 238, 231, 0.16);
+  background: rgba(243, 238, 231, 0.045);
+  color: rgba(243, 238, 231, 0.72);
+  font-size: 14px;
+  line-height: 1.45;
+  padding: 12px 14px;
+}
+
+.contact-form__status[hidden] {
+  display: none;
+}
+
+.contact-form__status.is-success {
+  border-color: rgba(157, 232, 178, 0.42);
+  background: rgba(87, 180, 113, 0.09);
+  color: #c9f4d4;
+}
+
+.contact-form__status.is-error {
+  border-color: rgba(244, 148, 120, 0.42);
+  background: rgba(188, 70, 42, 0.09);
+  color: #ffd2c6;
+}
+
 .contact-form__footer {
   display: flex;
   gap: 18px;

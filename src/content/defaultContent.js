@@ -436,8 +436,8 @@ export const defaultContactContent = {
   contactOptions: [{ label: "Email Studio", url: "mailto:hello@athayadesigned.com" }],
   typicalProjects: ["Identity Marks", "Wordmarks & Brandmarks", "Mascot & Character Identities", "Athletic & School Branding", "Brand Strategies", "Brand Guidelines", "Visual Identity Systems"],
   formEnabled: true,
-  formSubmissionMode: "mailto",
-  formEndpointUrl: "",
+  formSubmissionMode: "formspree",
+  formEndpointUrl: "https://formspree.io/f/xykqeodz",
   formFields: [
     { label: "Name", name: "name", type: "text", required: true, options: [], enabled: true, order: 1 },
     { label: "Email", name: "email", type: "email", required: true, options: [], enabled: true, order: 2 },
