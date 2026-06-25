@@ -1,0 +1,146 @@
+{
+  "hero": {
+    "pageLabel": "Services",
+    "headline": "Identity Design Services",
+    "supportingCopy": "Premium identity design services for teams, schools, clubs, creators, and brands, including mascot logo design, athletic identity systems, school branding, lettermarks, apparel applications, and brand guidelines.",
+    "backgroundImage": "",
+    "ctaLabel": "Start a Project",
+    "ctaUrl": "/contact"
+  },
+  "items": [
+    {
+      "number": "01",
+      "title": "Identity Marks",
+      "slug": "identity-marks",
+      "shortDescription": "Logos, monograms, wordmarks, and brandmarks designed with character, clarity, and long-term use in mind.",
+      "longDescription": "Primary marks, secondary lockups, black-and-white versions, color versions, and export-ready assets for teams, schools, communities, and brands that need a distinctive identity mark built for real use.",
+      "includedItems": [
+        "Primary mark",
+        "Secondary lockup",
+        "Export files"
+      ],
+      "backgroundImage": "",
+      "featured": true,
+      "enabled": true,
+      "order": 1
+    },
+    {
+      "number": "02",
+      "title": "Wordmarks & Brandmarks",
+      "slug": "wordmarks-brandmarks",
+      "shortDescription": "Custom wordmarks, letterforms, and compact brand symbols built for strong recognition across identity systems.",
+      "longDescription": "Distinctive wordmarks, brandmarks, lettermarks, monograms, alternate lockups, spacing logic, and export-ready artwork for brands that need a clear verbal and visual signature across digital, apparel, print, and environmental use.",
+      "includedItems": [
+        "Custom wordmark",
+        "Brandmark system",
+        "Lockup variations"
+      ],
+      "backgroundImage": "",
+      "featured": true,
+      "enabled": true,
+      "order": 2
+    },
+    {
+      "number": "02",
+      "title": "Mascot & Character Identities",
+      "slug": "mascot-character-identities",
+      "shortDescription": "Character-driven marks for teams, creators, communities, and brands that need a stronger visual presence.",
+      "longDescription": "Mascot logos, character marks, typography lockups, avatar versions, color systems, and apparel or social previews shaped for recognition at every scale.",
+      "includedItems": [
+        "Mascot mark",
+        "Typography lockup",
+        "Application preview"
+      ],
+      "backgroundImage": "",
+      "featured": true,
+      "enabled": true,
+      "order": 2
+    },
+    {
+      "number": "03",
+      "title": "Athletic & School Branding",
+      "slug": "athletic-school-branding",
+      "shortDescription": "Identity systems for teams, schools, clubs, academies, and athletic programs built for recognition, consistency, apparel, signage, and school spirit.",
+      "longDescription": "Athletic branding and school branding systems that can include team marks, institutional marks, wordmarks, monograms, color direction, typography, apparel concepts, signage ideas, and rollout assets.",
+      "includedItems": [
+        "Logo system",
+        "Color and type direction",
+        "Application mockups"
+      ],
+      "backgroundImage": "",
+      "featured": false,
+      "enabled": true,
+      "order": 3
+    },
+    {
+      "number": "05",
+      "title": "Brand Strategies",
+      "slug": "brand-strategies",
+      "shortDescription": "Strategic direction for positioning, visual tone, audience clarity, and identity decisions before design production begins.",
+      "longDescription": "A focused strategy phase that can define brand positioning, audience context, creative direction, naming or messaging cues, visual references, identity opportunities, and practical rollout priorities so the final design system has a clear foundation.",
+      "includedItems": [
+        "Positioning direction",
+        "Visual strategy",
+        "Rollout priorities"
+      ],
+      "backgroundImage": "",
+      "featured": false,
+      "enabled": true,
+      "order": 5
+    },
+    {
+      "number": "04",
+      "title": "Brand Guidelines",
+      "slug": "brand-guidelines",
+      "shortDescription": "Practical identity guides that keep logos, colors, typography, and applications consistent after delivery.",
+      "longDescription": "Clear brand guidelines for logo usage, clearspace, incorrect usage, color codes, typography, file handling, apparel applications, and examples for teams, vendors, and collaborators.",
+      "includedItems": [
+        "Logo usage",
+        "Color and type rules",
+        "Application examples"
+      ],
+      "backgroundImage": "",
+      "featured": false,
+      "enabled": true,
+      "order": 4
+    }
+  ],
+  "processTeaser": {
+    "sectionLabel": "From Mark To System",
+    "headline": "A clear process for identity work that needs to last.",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Discover",
+        "description": "Brief, context, goals, and constraints.",
+        "imageLabel": "Brief",
+        "imagePath": "/uploads/images/chatgpt-image-jun-26-2026-03-41-00-am-1782416471954.webp",
+        "order": 1
+      },
+      {
+        "number": "02",
+        "title": "Explore",
+        "description": "Concepts, refinement, and identity direction.",
+        "imageLabel": "Sketch",
+        "imagePath": "/uploads/images/whatsapp-image-2026-06-26-at-03-22-24-1782415609588.jpeg",
+        "order": 2
+      },
+      {
+        "number": "03",
+        "title": "Design",
+        "description": "Translate the identity across real use cases.",
+        "imageLabel": "Outline",
+        "imagePath": "/uploads/images/artboard-1-1782415944399.png",
+        "order": 3
+      },
+      {
+        "number": "04",
+        "title": "Deliver",
+        "description": "Prepare files and guidance for rollout.",
+        "imageLabel": "Rollout",
+        "imagePath": "/uploads/images/whatsapp-image-2026-06-26-at-03-21-281-1782415582715.jpeg",
+        "order": 4
+      }
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "pages": {
+    "home": {
+      "title": "ATHAYA DESIGNED - Sports Identity & Mascot Logo Design Studio",
+      "description": "ATHAYA DESIGNED creates mascot logos, athletic identity systems, school branding, apparel applications, and complete visual identity systems for teams, schools, communities, and sports brands.",
+      "canonicalUrl": "/",
+      "ogImage": "/assets/athaya-brandmark.png",
+      "twitterImage": "/assets/athaya-brandmark.png",
+      "keywords": "identity design, mascot logo, athletic branding, school branding, logo design",
+      "jsonLdType": "ProfessionalService",
+      "noIndex": false
+    },
+    "work": {
+      "title": "Selected Work - Sports Identity, Mascot Logos & Athletic Branding | ATHAYA DESIGNED",
+      "description": "Explore selected identity work by ATHAYA DESIGNED, including mascot logos, athletic marks, lettermarks, typography, apparel applications, and visual systems for teams, schools, and brands.",
+      "canonicalUrl": "/work",
+      "ogImage": "/assets/athaya-brandmark.png",
+      "twitterImage": "/assets/athaya-brandmark.png",
+      "keywords": "",
+      "jsonLdType": "CreativeWork",
+      "noIndex": false
+    },
+    "fonts": {
+      "title": "ATHAYA DESIGNED Fonts - Display Typefaces for Sports Brands",
+      "description": "Explore ATHAYA DESIGNED display fonts, sports-inspired typefaces, and lettering systems for sports branding, apparel graphics, team identities, and visual systems.",
+      "canonicalUrl": "/fonts",
+      "ogImage": "/assets/athaya-brandmark.png",
+      "twitterImage": "/assets/athaya-brandmark.png",
+      "keywords": "",
+      "jsonLdType": "Product",
+      "noIndex": false
+    },
+    "services": {
+      "title": "Services - Mascot Logo, Athletic Identity & School Branding",
+      "description": "Premium identity design services for teams, schools, clubs, creators, and brands, including mascot marks, athletic identity systems, school branding, lettermarks, apparel applications, and brand guidelines.",
+      "canonicalUrl": "/services",
+      "ogImage": "/assets/athaya-brandmark.png",
+      "twitterImage": "/assets/athaya-brandmark.png",
+      "keywords": "",
+      "jsonLdType": "ProfessionalService",
+      "noIndex": false
+    },
+    "about": {
+      "title": "About ATHAYA DESIGNED - Independent Sports Identity Designer",
+      "description": "Learn about ATHAYA DESIGNED, the independent identity design practice of Ahmad Athaya Nurhani, focused on character-driven marks, mascot identities, athletic branding, and visual systems.",
+      "canonicalUrl": "/about",
+      "ogImage": "/assets/athaya-brandmark.png",
+      "twitterImage": "/assets/athaya-brandmark.png",
+      "keywords": "",
+      "jsonLdType": "Organization",
+      "noIndex": false
+    },
+    "contact": {
+      "title": "Start a Project - ATHAYA DESIGNED",
+      "description": "Start a project with ATHAYA DESIGNED for mascot logo design, athletic identity systems, school branding, lettermarks, or complete identity work.",
+      "canonicalUrl": "/contact",
+      "ogImage": "/assets/athaya-brandmark.png",
+      "twitterImage": "/assets/athaya-brandmark.png",
+      "keywords": "",
+      "jsonLdType": "ProfessionalService",
+      "noIndex": false
+    }
+  },
+  "workDetails": {},
+  "fontDetails": {}
+}

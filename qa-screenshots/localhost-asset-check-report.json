@@ -1,0 +1,273 @@
+{
+  "baseUrl": "http://127.0.0.1:5180",
+  "routeCount": 11,
+  "failedRouteCount": 0,
+  "assetReferenceCount": 164,
+  "failedAssetCount": 0,
+  "routeResults": [
+    {
+      "route": "/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "route": "/work",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "route": "/work/thenationsbest",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "route": "/work/dfdc-logofolio",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "route": "/work/quick-showcase",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "route": "/fonts",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "route": "/fonts/azn-knuckles",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "route": "/about",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "route": "/services",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "route": "/contact",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "route": "/admin",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=utf-8"
+    }
+  ],
+  "brokenAssets": [],
+  "seoImages": [
+    {
+      "page": "home",
+      "key": "ogImage",
+      "path": "/assets/athaya-brandmark.png",
+      "existsInRefs": true
+    },
+    {
+      "page": "home",
+      "key": "twitterImage",
+      "path": "/assets/athaya-brandmark.png",
+      "existsInRefs": true
+    },
+    {
+      "page": "work",
+      "key": "ogImage",
+      "path": "/assets/athaya-brandmark.png",
+      "existsInRefs": true
+    },
+    {
+      "page": "work",
+      "key": "twitterImage",
+      "path": "/assets/athaya-brandmark.png",
+      "existsInRefs": true
+    },
+    {
+      "page": "fonts",
+      "key": "ogImage",
+      "path": "/assets/athaya-brandmark.png",
+      "existsInRefs": true
+    },
+    {
+      "page": "fonts",
+      "key": "twitterImage",
+      "path": "/assets/athaya-brandmark.png",
+      "existsInRefs": true
+    },
+    {
+      "page": "services",
+      "key": "ogImage",
+      "path": "/assets/athaya-brandmark.png",
+      "existsInRefs": true
+    },
+    {
+      "page": "services",
+      "key": "twitterImage",
+      "path": "/assets/athaya-brandmark.png",
+      "existsInRefs": true
+    },
+    {
+      "page": "about",
+      "key": "ogImage",
+      "path": "/assets/athaya-brandmark.png",
+      "existsInRefs": true
+    },
+    {
+      "page": "about",
+      "key": "twitterImage",
+      "path": "/assets/athaya-brandmark.png",
+      "existsInRefs": true
+    },
+    {
+      "page": "contact",
+      "key": "ogImage",
+      "path": "/assets/athaya-brandmark.png",
+      "existsInRefs": true
+    },
+    {
+      "page": "contact",
+      "key": "twitterImage",
+      "path": "/assets/athaya-brandmark.png",
+      "existsInRefs": true
+    }
+  ],
+  "jsonLdImages": [
+    {
+      "type": "work",
+      "slug": "thenationsbest",
+      "path": "/projects/project 1/Hero.webp",
+      "existsInRefs": true
+    },
+    {
+      "type": "work",
+      "slug": "thenationsbest",
+      "path": "/projects/project 1/Hero.webp",
+      "existsInRefs": true
+    },
+    {
+      "type": "work",
+      "slug": "dfdc-logofolio",
+      "path": "/projects/project 2/Hero.webp",
+      "existsInRefs": true
+    },
+    {
+      "type": "work",
+      "slug": "dfdc-logofolio",
+      "path": "/projects/project 2/Hero.webp",
+      "existsInRefs": true
+    },
+    {
+      "type": "work",
+      "slug": "azn-draco",
+      "path": "/projects/project 3/Hero.webp",
+      "existsInRefs": true
+    },
+    {
+      "type": "work",
+      "slug": "azn-draco",
+      "path": "/projects/project 3/Hero.webp",
+      "existsInRefs": true
+    },
+    {
+      "type": "work",
+      "slug": "azn-unified",
+      "path": "/projects/project 4/hero.webp",
+      "existsInRefs": true
+    },
+    {
+      "type": "work",
+      "slug": "azn-unified",
+      "path": "/projects/project 4/hero.webp",
+      "existsInRefs": true
+    },
+    {
+      "type": "work",
+      "slug": "azn-knuckles",
+      "path": "/projects/project 5/Hero.webp",
+      "existsInRefs": true
+    },
+    {
+      "type": "work",
+      "slug": "azn-knuckles",
+      "path": "/projects/project 5/Hero.webp",
+      "existsInRefs": true
+    },
+    {
+      "type": "work",
+      "slug": "quick-showcase",
+      "path": "/projects/project 6/Hero.webp",
+      "existsInRefs": true
+    },
+    {
+      "type": "work",
+      "slug": "quick-showcase",
+      "path": "/projects/project 6/Hero.webp",
+      "existsInRefs": true
+    },
+    {
+      "type": "font",
+      "slug": "azn-knuckles",
+      "path": "/uploads/images/o-1fr52uvu41fpfffb12q4i6opu21-1782305972007.webp",
+      "existsInRefs": true
+    },
+    {
+      "type": "font",
+      "slug": "azn-knuckles",
+      "path": "/assets/athaya-brandmark.png",
+      "existsInRefs": true
+    },
+    {
+      "type": "font",
+      "slug": "aznunified",
+      "path": "/uploads/images/nzhvxsafue2eanid5emwzfnv-c7ac8b72b82a349afb0b9f3c76a09ba8-1782386740475.webp",
+      "existsInRefs": true
+    },
+    {
+      "type": "font",
+      "slug": "aznunified",
+      "path": "/assets/athaya-brandmark.png",
+      "existsInRefs": true
+    },
+    {
+      "type": "font",
+      "slug": "draco",
+      "path": "/uploads/images/dracoo-1782387011206.webp",
+      "existsInRefs": true
+    },
+    {
+      "type": "font",
+      "slug": "draco",
+      "path": "/assets/athaya-brandmark.png",
+      "existsInRefs": true
+    },
+    {
+      "type": "font",
+      "slug": "malibusunrise",
+      "path": "/uploads/images/1-o-1782387182736.webp",
+      "existsInRefs": true
+    },
+    {
+      "type": "font",
+      "slug": "malibusunrise",
+      "path": "/assets/athaya-brandmark.png",
+      "existsInRefs": true
+    }
+  ],
+  "generatedAt": "2026-06-25T20:31:16.384Z"
+}

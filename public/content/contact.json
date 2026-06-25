@@ -1,0 +1,103 @@
+{
+  "pageLabel": "Contact",
+  "headline": "Start a Project",
+  "supportingCopy": "Tell me about your team, school, brand, or identity project. I will review the details and follow up with the best next step.",
+  "backgroundImage": "/uploads/backgrounds/texturelabs-grunge-319l-1782376591901.webp",
+  "bookingUrl": "https://calendly.com/athayadzn/30min",
+  "email": "hello@athayadesigned.com",
+  "responseTime": "Usually within 1-2 business days.",
+  "contactOptions": [
+    {
+      "label": "Email Studio",
+      "url": "mailto:hello@athayadesigned.com"
+    }
+  ],
+  "typicalProjects": [
+    "Identity Marks",
+    "Mascot & Character Identities",
+    "Athletic & School Branding",
+    "Brand Guidelines",
+    "Visual Identity Systems"
+  ],
+  "formEnabled": true,
+  "formSubmissionMode": "mailto",
+  "formEndpointUrl": "",
+  "formFields": [
+    {
+      "label": "Name",
+      "name": "name",
+      "type": "text",
+      "required": true,
+      "options": [],
+      "enabled": true,
+      "order": 1
+    },
+    {
+      "label": "Email",
+      "name": "email",
+      "type": "email",
+      "required": true,
+      "options": [],
+      "enabled": true,
+      "order": 2
+    },
+    {
+      "label": "Organization / Team / School",
+      "name": "organization",
+      "type": "text",
+      "required": false,
+      "options": [],
+      "enabled": true,
+      "order": 3
+    },
+    {
+      "label": "Project Type",
+      "name": "projectType",
+      "type": "select",
+      "required": true,
+      "options": [
+        "Identity Mark",
+        "Mascot / Character Identity",
+        "Athletic & School Branding",
+        "Brand Guidelines",
+        "Full Identity System",
+        "Other"
+      ],
+      "enabled": true,
+      "order": 4
+    },
+    {
+      "label": "Budget Range",
+      "name": "budget",
+      "type": "select",
+      "required": false,
+      "options": [
+        "$750-$1,500",
+        "$1,500-$2,500",
+        "$2,500-$5,000",
+        "$5,000+",
+        "Not sure yet"
+      ],
+      "enabled": true,
+      "order": 5
+    },
+    {
+      "label": "Timeline",
+      "name": "timeline",
+      "type": "text",
+      "required": false,
+      "options": [],
+      "enabled": true,
+      "order": 6
+    },
+    {
+      "label": "Project Details",
+      "name": "details",
+      "type": "textarea",
+      "required": true,
+      "options": [],
+      "enabled": true,
+      "order": 7
+    }
+  ]
+}

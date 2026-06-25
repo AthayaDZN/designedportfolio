@@ -1,0 +1,20 @@
+{
+  "name": "athaya-designed-homepage",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "dev:build": "node scripts/build-site.mjs && node scripts/admin-server.mjs",
+    "build": "node scripts/generate-sitemap.mjs && node scripts/build-site.mjs",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "framer-motion": "^11.18.2",
+    "lenis": "^1.3.23",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "vite": "^5.4.11"
+  }
+}

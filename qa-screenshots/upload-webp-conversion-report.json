@@ -1,0 +1,189 @@
+{
+  "converted_count": 12,
+  "skipped_count": 2,
+  "total_original_bytes": 26292692,
+  "total_webp_bytes": 3543042,
+  "converted": [
+    {
+      "public_source": "/uploads/backgrounds/athaya-1782388819562.png",
+      "public_webp": "/uploads/backgrounds/athaya-1782388819562.webp",
+      "source": "public\\uploads\\backgrounds\\athaya-1782388819562.png",
+      "webp": "public\\uploads\\backgrounds\\athaya-1782388819562.webp",
+      "quality": 90,
+      "original_size": 1880829,
+      "webp_size": 355300,
+      "savings_bytes": 1525529,
+      "savings_percent": 81.11,
+      "psnr": 42.32655700860798
+    },
+    {
+      "public_source": "/uploads/backgrounds/texturelabs-grunge-319l-1782376591901.jpg",
+      "public_webp": "/uploads/backgrounds/texturelabs-grunge-319l-1782376591901.webp",
+      "source": "public\\uploads\\backgrounds\\texturelabs-grunge-319l-1782376591901.jpg",
+      "webp": "public\\uploads\\backgrounds\\texturelabs-grunge-319l-1782376591901.webp",
+      "quality": 90,
+      "original_size": 3311359,
+      "webp_size": 523130,
+      "savings_bytes": 2788229,
+      "savings_percent": 84.2,
+      "psnr": 46.528570379749574
+    },
+    {
+      "public_source": "/uploads/images/1-o-1782387182736.png",
+      "public_webp": "/uploads/images/1-o-1782387182736.webp",
+      "source": "public\\uploads\\images\\1-o-1782387182736.png",
+      "webp": "public\\uploads\\images\\1-o-1782387182736.webp",
+      "quality": 88,
+      "original_size": 760507,
+      "webp_size": 329262,
+      "savings_bytes": 431245,
+      "savings_percent": 56.7,
+      "psnr": 41.80060529141012
+    },
+    {
+      "public_source": "/uploads/images/19-1-1782413241896.png",
+      "public_webp": "/uploads/images/19-1-1782413241896.webp",
+      "source": "public\\uploads\\images\\19-1-1782413241896.png",
+      "webp": "public\\uploads\\images\\19-1-1782413241896.webp",
+      "quality": 88,
+      "original_size": 3549626,
+      "webp_size": 260838,
+      "savings_bytes": 3288788,
+      "savings_percent": 92.65,
+      "psnr": 37.49437826734146
+    },
+    {
+      "public_source": "/uploads/images/21-1782413338618.png",
+      "public_webp": "/uploads/images/21-1782413338618.webp",
+      "source": "public\\uploads\\images\\21-1782413338618.png",
+      "webp": "public\\uploads\\images\\21-1782413338618.webp",
+      "quality": 88,
+      "original_size": 2984796,
+      "webp_size": 194046,
+      "savings_bytes": 2790750,
+      "savings_percent": 93.5,
+      "psnr": 37.05649605961503
+    },
+    {
+      "public_source": "/uploads/images/chatgpt-image-jun-26-2026-03-08-57-am-1782414576289.png",
+      "public_webp": "/uploads/images/chatgpt-image-jun-26-2026-03-08-57-am-1782414576289.webp",
+      "source": "public\\uploads\\images\\chatgpt-image-jun-26-2026-03-08-57-am-1782414576289.png",
+      "webp": "public\\uploads\\images\\chatgpt-image-jun-26-2026-03-08-57-am-1782414576289.webp",
+      "quality": 88,
+      "original_size": 2461239,
+      "webp_size": 253168,
+      "savings_bytes": 2208071,
+      "savings_percent": 89.71,
+      "psnr": 38.4643826833559
+    },
+    {
+      "public_source": "/uploads/images/chatgpt-image-jun-26-2026-03-41-00-am-1782416471954.png",
+      "public_webp": "/uploads/images/chatgpt-image-jun-26-2026-03-41-00-am-1782416471954.webp",
+      "source": "public\\uploads\\images\\chatgpt-image-jun-26-2026-03-41-00-am-1782416471954.png",
+      "webp": "public\\uploads\\images\\chatgpt-image-jun-26-2026-03-41-00-am-1782416471954.webp",
+      "quality": 88,
+      "original_size": 3046823,
+      "webp_size": 391984,
+      "savings_bytes": 2654839,
+      "savings_percent": 87.13,
+      "psnr": 41.42287092624818
+    },
+    {
+      "public_source": "/uploads/images/dracoo-1782387011206.png",
+      "public_webp": "/uploads/images/dracoo-1782387011206.webp",
+      "source": "public\\uploads\\images\\dracoo-1782387011206.png",
+      "webp": "public\\uploads\\images\\dracoo-1782387011206.webp",
+      "quality": 88,
+      "original_size": 2359745,
+      "webp_size": 251630,
+      "savings_bytes": 2108115,
+      "savings_percent": 89.34,
+      "psnr": 41.81117569574838
+    },
+    {
+      "public_source": "/uploads/images/nzhvxsafue2eanid5emwzfnv-c7ac8b72b82a349afb0b9f3c76a09ba8-1782386740475.png",
+      "public_webp": "/uploads/images/nzhvxsafue2eanid5emwzfnv-c7ac8b72b82a349afb0b9f3c76a09ba8-1782386740475.webp",
+      "source": "public\\uploads\\images\\nzhvxsafue2eanid5emwzfnv-c7ac8b72b82a349afb0b9f3c76a09ba8-1782386740475.png",
+      "webp": "public\\uploads\\images\\nzhvxsafue2eanid5emwzfnv-c7ac8b72b82a349afb0b9f3c76a09ba8-1782386740475.webp",
+      "quality": 88,
+      "original_size": 726913,
+      "webp_size": 61920,
+      "savings_bytes": 664993,
+      "savings_percent": 91.48,
+      "psnr": 44.544812022343365
+    },
+    {
+      "public_source": "/uploads/images/o-1fr52uvu41fpfffb12q4i6opu21-1782305972007.png",
+      "public_webp": "/uploads/images/o-1fr52uvu41fpfffb12q4i6opu21-1782305972007.webp",
+      "source": "public\\uploads\\images\\o-1fr52uvu41fpfffb12q4i6opu21-1782305972007.png",
+      "webp": "public\\uploads\\images\\o-1fr52uvu41fpfffb12q4i6opu21-1782305972007.webp",
+      "quality": 88,
+      "original_size": 2691409,
+      "webp_size": 420576,
+      "savings_bytes": 2270833,
+      "savings_percent": 84.37,
+      "psnr": 38.01411446905051
+    },
+    {
+      "public_source": "/uploads/images/skets-1782412831183.png",
+      "public_webp": "/uploads/images/skets-1782412831183.webp",
+      "source": "public\\uploads\\images\\skets-1782412831183.png",
+      "webp": "public\\uploads\\images\\skets-1782412831183.webp",
+      "quality": 88,
+      "original_size": 1230368,
+      "webp_size": 158074,
+      "savings_bytes": 1072294,
+      "savings_percent": 87.15,
+      "psnr": 42.488555947362556
+    },
+    {
+      "public_source": "/uploads/images/tba-1782384915797.jpg",
+      "public_webp": "/uploads/images/tba-1782384915797.webp",
+      "source": "public\\uploads\\images\\tba-1782384915797.jpg",
+      "webp": "public\\uploads\\images\\tba-1782384915797.webp",
+      "quality": 88,
+      "original_size": 1289078,
+      "webp_size": 343114,
+      "savings_bytes": 945964,
+      "savings_percent": 73.38,
+      "psnr": 45.044463908422344
+    }
+  ],
+  "skipped": [
+    {
+      "public_source": "/uploads/images/1c-1782375581212.jpg",
+      "public_webp": "/uploads/images/1c-1782375581212.webp",
+      "source": "public\\uploads\\images\\1c-1782375581212.jpg",
+      "webp": "public\\uploads\\images\\1c-1782375581212.webp",
+      "quality": 88,
+      "original_size": 1795389,
+      "webp_size": 508182,
+      "savings_bytes": 1287207,
+      "savings_percent": 71.7,
+      "psnr": 30.666566727828272
+    },
+    {
+      "public_source": "/uploads/images/tnb-1782385010620.jpg",
+      "public_webp": "/uploads/images/tnb-1782385010620.webp",
+      "source": "public\\uploads\\images\\tnb-1782385010620.jpg",
+      "webp": "public\\uploads\\images\\tnb-1782385010620.webp",
+      "quality": 88,
+      "original_size": 2731207,
+      "webp_size": 799478,
+      "savings_bytes": 1931729,
+      "savings_percent": 70.73,
+      "psnr": 31.945552254356215
+    }
+  ],
+  "json_files_checked": [
+    "public\\content\\about.json",
+    "public\\content\\assets.json",
+    "public\\content\\contact.json",
+    "public\\content\\fonts.json",
+    "public\\content\\home.json",
+    "public\\content\\seo.json",
+    "public\\content\\services.json",
+    "public\\content\\site.json",
+    "public\\content\\works.json"
+  ]
+}

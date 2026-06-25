@@ -1,0 +1,454 @@
+{
+  "heroFeaturedProjects": [
+    {
+      "number": "01",
+      "title": "iShowspeed",
+      "category": "Brand Identity",
+      "year": "2026",
+      "slug": "ishowspeed",
+      "description": "Logo Design / Mascot Design / Brand Identity",
+      "image": "/uploads/images/1c-1782375581212.jpg",
+      "coverPath": "/projects/project 1/Hero.webp",
+      "enabled": true,
+      "order": 1,
+      "accentColor": "#8d2424",
+      "heroImages": {
+        "center": "/projects/project 1/Hero.webp"
+      }
+    },
+    {
+      "number": "02",
+      "title": "DFDC Lettermark Logofolio",
+      "category": "Lettermark",
+      "year": "2026",
+      "slug": "dfdc-logofolio",
+      "description": "Logo Design / Lettermark / Brand Identity",
+      "image": "/projects/project 2/Hero.webp",
+      "coverPath": "/projects/project 2/Hero.webp",
+      "enabled": true,
+      "order": 2,
+      "accentColor": "#8d2424"
+    },
+    {
+      "number": "03",
+      "title": "AZN Draco Font",
+      "category": "Typography",
+      "year": "2022",
+      "slug": "azn-draco",
+      "description": "Font Design / Typography / 3 Corners",
+      "image": "/projects/project 3/Hero.webp",
+      "coverPath": "/projects/project 3/Hero.webp",
+      "enabled": true,
+      "order": 3,
+      "accentColor": "#8d2424"
+    },
+    {
+      "number": "04",
+      "title": "Texoma Basketball Academy",
+      "category": "Brand Identity",
+      "year": "2024",
+      "slug": "tba",
+      "description": "Logo Design / Mascot Design / Brand Identity",
+      "image": "/uploads/images/tba-1782384915797.webp",
+      "coverPath": "/uploads/images/tba-1782384915797.webp",
+      "enabled": true,
+      "order": 4,
+      "accentColor": "#8d2424",
+      "heroImages": {
+        "center": "/uploads/images/tba-1782384915797.webp"
+      }
+    },
+    {
+      "number": "05",
+      "title": "The Nations Best",
+      "category": "Brand Identity",
+      "year": "2026",
+      "slug": "tnb",
+      "description": "Logo Design / Mascot Design / Brand Identity",
+      "image": "/uploads/images/tnb-1782385010620.jpg",
+      "coverPath": "/uploads/images/tnb-1782385010620.jpg",
+      "enabled": true,
+      "order": 5,
+      "accentColor": "#8d2424",
+      "heroImages": {
+        "center": "/uploads/images/tnb-1782385010620.jpg"
+      }
+    },
+    {
+      "number": "06",
+      "title": "AZN Knuckles Font",
+      "category": "Typography",
+      "year": "2023",
+      "slug": "azn-knuckles",
+      "description": "Font Design / Typography",
+      "image": "/projects/project 5/Hero.webp",
+      "coverPath": "/projects/project 5/Hero.webp",
+      "enabled": true,
+      "order": 6,
+      "accentColor": "#8d2424"
+    },
+    {
+      "number": "07",
+      "title": "Mascotfolio",
+      "category": "Mascot Logo",
+      "year": "2022-2026",
+      "slug": "quick-showcase",
+      "description": "Mascot logo / Brand Identity / Mascot Logo",
+      "image": "/projects/project 6/Hero.webp",
+      "coverPath": "/projects/project 6/Hero.webp",
+      "enabled": true,
+      "order": 7,
+      "accentColor": "#8d2424"
+    }
+  ],
+  "headline": {
+    "line1": "Identity Marks With Character,",
+    "line2": "Craft, And Presence.",
+    "supportingParagraph": "Athaya Designed crafts distinctive logos, mascot identities, and visual systems for teams, schools, communities, and brands that need to look established, recognizable, and built to last.",
+    "primaryCtaLabel": "Start a Project",
+    "primaryCtaUrl": "/contact",
+    "secondaryCtaLabel": "View Selected Work",
+    "secondaryCtaUrl": "/work"
+  },
+  "whatWeDo": {
+    "items": [
+      {
+        "label": "Identity Marks",
+        "enabled": true,
+        "order": 1
+      },
+      {
+        "label": "Mascot & Character Identities",
+        "enabled": true,
+        "order": 2
+      },
+      {
+        "label": "Athletic & School Branding",
+        "enabled": true,
+        "order": 3
+      },
+      {
+        "label": "Brand Guidelines",
+        "enabled": true,
+        "order": 4
+      },
+      {
+        "label": "Wordmarks & Brandmarks",
+        "enabled": true,
+        "order": 5
+      },
+      {
+        "label": "Brand Strategies",
+        "enabled": true,
+        "order": 6
+      }
+    ]
+  },
+  "featuredCaseStudy": {
+    "selectedWorkSlug": "thenationsbest",
+    "title": "The Nations Best",
+    "category": "Gaming Clan Rebrand",
+    "paragraph": "A complete rebrand for TNB, reshaping the clan from its previous Bengal Tiger mark into a royal lion identity built for presence across court graphics, apparel, and community touchpoints.",
+    "stats": [
+      {
+        "value": "1",
+        "label": "Main Mascot"
+      },
+      {
+        "value": "4+",
+        "label": "Core Assets"
+      },
+      {
+        "value": "2023",
+        "label": "Brand Launch"
+      }
+    ],
+    "chapters": [
+      {
+        "number": "01",
+        "title": "Overview",
+        "label": "Featured Case Study",
+        "heading": "The Nations Best",
+        "category": "Overview / Previous TNB Identity",
+        "paragraph": "The project started from TNB's previous logo, a Bengal Tiger identity that already had recognition in the NBA2K community but needed a stronger, more ownable direction for the next era of the clan.",
+        "stats": [
+          {
+            "value": "TNB",
+            "label": "Gaming Clan"
+          },
+          {
+            "value": "NBA2K",
+            "label": "Community"
+          },
+          {
+            "value": "2023",
+            "label": "Rebrand"
+          }
+        ],
+        "images": [
+          {
+            "type": "custom",
+            "label": "TNB previous logo",
+            "imagePath": "/uploads/images/3-1782412590252.png"
+          }
+        ]
+      },
+      {
+        "number": "02",
+        "title": "Challenge",
+        "label": "Featured Case Study",
+        "heading": "The Nations Best",
+        "category": "Challenge / Finding A New Symbol",
+        "paragraph": "The challenge was to move beyond the old mascot without losing the competitive attitude of the brand. Early sketches explored a more royal, dominant animal direction that could better match the name The Nations Best.",
+        "stats": [
+          {
+            "value": "1",
+            "label": "Core Direction"
+          },
+          {
+            "value": "Lion",
+            "label": "Mascot Shift"
+          },
+          {
+            "value": "Royal",
+            "label": "Visual Tone"
+          }
+        ],
+        "images": [
+          {
+            "type": "custom",
+            "label": "TNB early sketch",
+            "imagePath": "/uploads/images/skets-1782412831183.webp"
+          }
+        ]
+      },
+      {
+        "number": "03",
+        "title": "Solution",
+        "label": "Featured Case Study",
+        "heading": "The Nations Best",
+        "category": "Solution / Lion Mascot Identity",
+        "paragraph": "The final main logo turns TNB into a lion-led identity with a crown and castle-inspired structure, giving the clan a mark that feels fierce, royal, and built around the idea of a nation.",
+        "stats": [
+          {
+            "value": "1",
+            "label": "Main Logo"
+          },
+          {
+            "value": "Crown",
+            "label": "Royal Cue"
+          },
+          {
+            "value": "Lion",
+            "label": "Mascot Mark"
+          }
+        ],
+        "images": [
+          {
+            "type": "custom",
+            "label": "TNB main logo",
+            "imagePath": "/uploads/images/5-1782412881881.png"
+          }
+        ]
+      },
+      {
+        "number": "04",
+        "title": "The System",
+        "label": "Featured Case Study",
+        "heading": "The Nations Best",
+        "category": "System / Mascot, Brandmark, Wordmark",
+        "paragraph": "The identity system extends the main mascot into a compact brandmark and a wordmark, giving TNB flexible assets for profile use, apparel, graphics, and branded moments beyond the full crest.",
+        "stats": [
+          {
+            "value": "3",
+            "label": "Core Marks"
+          },
+          {
+            "value": "Mascot",
+            "label": "Brandmark"
+          },
+          {
+            "value": "Wordmark",
+            "label": "Type Asset"
+          }
+        ],
+        "images": [
+          {
+            "type": "custom",
+            "label": "TNB mascot brandmark and wordmark",
+            "imagePath": "/uploads/images/chatgpt-image-jun-26-2026-03-08-57-am-1782414576289.webp"
+          }
+        ]
+      },
+      {
+        "number": "05",
+        "title": "Applications",
+        "label": "Featured Case Study",
+        "heading": "The Nations Best",
+        "category": "Application / Apparel With The New Logo",
+        "paragraph": "The new logo was tested on apparel so the identity could feel strong outside a static logo presentation, keeping the mark readable and impactful in merch-focused layouts.",
+        "stats": [
+          {
+            "value": "1",
+            "label": "Apparel System"
+          },
+          {
+            "value": "Logo",
+            "label": "Front Focus"
+          },
+          {
+            "value": "Merch",
+            "label": "Use Case"
+          }
+        ],
+        "images": [
+          {
+            "type": "custom",
+            "label": "TNB apparel application",
+            "imagePath": "/uploads/images/19-1-1782413241896.webp"
+          }
+        ]
+      },
+      {
+        "number": "06",
+        "title": "Results",
+        "label": "Featured Case Study",
+        "heading": "The Nations Best",
+        "category": "Result / New Branding On Court",
+        "paragraph": "The finished branding gives TNB a larger presence in the basketball environment, with the new identity carrying across the court and reinforcing the clan's competitive, royal visual language.",
+        "stats": [
+          {
+            "value": "Court",
+            "label": "Brand Moment"
+          },
+          {
+            "value": "TNB",
+            "label": "Unified Look"
+          },
+          {
+            "value": "New",
+            "label": "Identity Era"
+          }
+        ],
+        "images": [
+          {
+            "type": "custom",
+            "label": "TNB branding on basketball court",
+            "imagePath": "/uploads/images/21-1782413338618.webp"
+          }
+        ]
+      }
+    ]
+  },
+  "selectedWork": {
+    "sectionTitle": "Selected Work",
+    "viewAllLabel": "View Selected Work",
+    "viewAllUrl": "/work",
+    "items": [
+      "thenationsbest",
+      "dfdc-logofolio",
+      "azn-draco",
+      "quick-showcase"
+    ]
+  },
+  "testimonials": {
+    "label": "TESTIMONIALS",
+    "headline": "TRUSTED BY TEAMS, BRANDS, AND CREATORS",
+    "supportingCopy": "Words from clients, collaborators, and organizations I’ve worked with across identity, mascot, typography, and brand systems.",
+    "items": [
+      {
+        "id": "ozone",
+        "quote": "Been working with Athaya since early 2019 and never been disappointed or let down. Always working to get you exactly what we are looking for, fast and reliable while being able to work to a tight schedule. Sends you updates during the design phase so you can make changes if required. Would highly recommend working with Athaya.",
+        "name": "Ozone Group Branding",
+        "role": "CEO",
+        "organization": "Ozone Group LLC",
+        "category": "Brand Identity",
+        "logo": "/uploads/testimonials/ozone-group-logo-white.png",
+        "featured": true,
+        "order": 1
+      },
+      {
+        "id": "athletic-program",
+        "quote": "Athaya has been nothing short of AMAZING! He is the most skilled and Professional person i've ever had the pleasure of doing business with. I admire his communication and just how he kept me in the loop with how the project was going as he worked on my logo. Athaya will ALWAYS have my love and support.. This man is a W!",
+        "name": "Achillies Arcadian",
+        "role": "Online Content Creator",
+        "organization": "Self Employed",
+        "category": "Mascot design",
+        "logo": "/uploads/testimonials/achilies-arcadian-logo-white.png",
+        "featured": true,
+        "order": 2
+      },
+      {
+        "id": "creator-brand",
+        "quote": "Athaya has been nothing short of AMAZING! He is the most skilled and Professional person i've ever had the pleasure of doing business with. I admire his communication and just how he kept me in the loop with how the project was going as he worked on my logo. Athaya will ALWAYS have my love and support.. This man is a W!",
+        "name": "PowerGotNow",
+        "role": "Gaming Clan Leader, Online Content Creator",
+        "organization": "DF Clan",
+        "category": "Brand Identity",
+        "logo": "/uploads/testimonials/powergotnow-logo.png",
+        "featured": true,
+        "order": 3
+      },
+      {
+        "id": "agency-collaboration",
+        "quote": "I loved working with Athaya. He were incredibly receptive of any idea I had and also offered your own experience and expertise on how to improve those ideas. There is no doubt in my mind that we will work together again in the future.",
+        "name": "Dylan \"Dilly\"",
+        "role": "Team Leader",
+        "organization": "RIOT Paintball Team",
+        "category": "Identity Mark",
+        "logo": "/uploads/testimonials/dylan-dilly-logo.png",
+        "featured": true,
+        "order": 4
+      }
+    ],
+    "logos": [
+      {
+        "id": "ozone",
+        "name": "Ozone Group LLC",
+        "logo": "/uploads/testimonials/ozone-group-logo-white.png",
+        "alt": "Ozone Group LLC logo",
+        "order": 1
+      },
+      {
+        "id": "athletic-program",
+        "name": "Achillies Arcadian",
+        "logo": "/uploads/testimonials/achilies-arcadian-logo-white.png",
+        "alt": "Achillies Arcadian logo",
+        "order": 2
+      },
+      {
+        "id": "creator-brand",
+        "name": "PowerGotNow",
+        "logo": "/uploads/testimonials/powergotnow-logo.png",
+        "alt": "PowerGotNow logo",
+        "order": 3
+      },
+      {
+        "id": "agency-collaboration",
+        "name": "Dylan Dilly",
+        "logo": "/uploads/testimonials/dylan-dilly-logo.png",
+        "alt": "Dylan Dilly logo",
+        "order": 4
+      }
+    ]
+  },
+  "approach": {
+    "label": "Process",
+    "headline": "Character.\nCraft. Presence.",
+    "paragraph": "Athaya Designed creates marks and identity systems with clear structure, polished craft, and enough character to feel recognizable across apparel, signage, social media, and long-term brand use.",
+    "ctaLabel": "About The Practice",
+    "ctaUrl": "/about",
+    "images": [
+      "/uploads/images/cloud-1782386837010.jpeg",
+      "/projects/project 2/Hero.webp",
+      "/uploads/images/bull-logo1-1782386932241.jpg",
+      "/uploads/images/tn-1782386849344.jpeg"
+    ]
+  },
+  "footerCta": {
+    "headline": "Let's Build An Identity\nWith Character.",
+    "paragraph": "Tell me about your team, school, community, or brand and let's create an identity that feels established, recognizable, and built to last.",
+    "ctaLabel": "Start a Project",
+    "ctaUrl": "/contact"
+  }
+}

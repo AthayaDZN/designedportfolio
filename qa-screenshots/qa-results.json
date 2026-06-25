@@ -1,0 +1,2117 @@
+{
+  "desktop": [
+    {
+      "path": "/",
+      "title": "ATHAYA DESIGNED - Sports Identity & Mascot Logo Design Studio",
+      "metaDescription": "ATHAYA DESIGNED creates mascot logos, athletic identity systems, school branding, apparel applications, and complete visual identity systems for teams, schools, communities, and sports brands.",
+      "canonical": "https://athayadesigned.com/",
+      "robots": "index,follow",
+      "ogTitle": "ATHAYA DESIGNED - Sports Identity & Mascot Logo Design Studio",
+      "twitterCard": "summary_large_image",
+      "jsonLdOk": true,
+      "scrollWidth": 1440,
+      "innerWidth": 1440,
+      "bodyClasses": "",
+      "h1": "Identity Marks With Character,Craft, And Presence.",
+      "imageCount": 17,
+      "brokenImages": [],
+      "oversized": [
+        {
+          "tag": "DIV",
+          "cls": "hero-slide hero-slide--next",
+          "text": "",
+          "left": 942,
+          "right": 2244,
+          "width": 1302,
+          "height": 939
+        },
+        {
+          "tag": "IMG",
+          "cls": "",
+          "text": "",
+          "left": 942,
+          "right": 2244,
+          "width": 1302,
+          "height": 939
+        },
+        {
+          "tag": "DIV",
+          "cls": "hero-slide hero-slide--previous",
+          "text": "",
+          "left": -804,
+          "right": 498,
+          "width": 1302,
+          "height": 939
+        },
+        {
+          "tag": "IMG",
+          "cls": "",
+          "text": "",
+          "left": -804,
+          "right": 498,
+          "width": 1302,
+          "height": 939
+        },
+        {
+          "tag": "DIV",
+          "cls": "capability-track",
+          "text": "Identity Marks/Mascot & Character Identities/Athletic & Scho",
+          "left": 238,
+          "right": 2015,
+          "width": 1777,
+          "height": 14
+        },
+        {
+          "tag": "DIV",
+          "cls": "capability-group",
+          "text": "Identity Marks/Mascot & Character Identities/Athletic & Scho",
+          "left": 1126,
+          "right": 2015,
+          "width": 889,
+          "height": 14
+        },
+        {
+          "tag": "SPAN",
+          "cls": "capability-item",
+          "text": "Mascot & Character Identities",
+          "left": 1288,
+          "right": 1525,
+          "width": 238,
+          "height": 14
+        },
+        {
+          "tag": "SPAN",
+          "cls": "capability-separator",
+          "text": "/",
+          "left": 1547,
+          "right": 1551,
+          "width": 4,
+          "height": 14
+        },
+        {
+          "tag": "SPAN",
+          "cls": "capability-item",
+          "text": "Athletic & School Branding",
+          "left": 1573,
+          "right": 1787,
+          "width": 214,
+          "height": 14
+        },
+        {
+          "tag": "SPAN",
+          "cls": "capability-separator",
+          "text": "/",
+          "left": 1808,
+          "right": 1812,
+          "width": 4,
+          "height": 14
+        },
+        {
+          "tag": "SPAN",
+          "cls": "capability-item",
+          "text": "Brand Guidelines",
+          "left": 1834,
+          "right": 1967,
+          "width": 133,
+          "height": 14
+        },
+        {
+          "tag": "SPAN",
+          "cls": "capability-separator",
+          "text": "/",
+          "left": 1989,
+          "right": 1993,
+          "width": 4,
+          "height": 14
+        }
+      ],
+      "approachLinks": [],
+      "ctaLinks": [
+        {
+          "text": "BOOK A DISCOVERY CALL",
+          "href": "https://calendly.com/athayadzn/30min",
+          "target": null,
+          "rel": null
+        },
+        {
+          "text": "05Contact",
+          "href": "/contact",
+          "target": null,
+          "rel": null
+        },
+        {
+          "text": "BOOK A DISCOVERY CALL",
+          "href": "https://calendly.com/athayadzn/30min",
+          "target": null,
+          "rel": null
+        },
+        {
+          "text": "Contact",
+          "href": "/contact",
+          "target": null,
+          "rel": null
+        }
+      ],
+      "workCards": 4,
+      "fontCards": 0,
+      "inputs": [
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "Close",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "Show featured project 1: The Nations Best",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "Show featured project 2: DFDC Lettermark Logofolio",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "Show featured project 3: AZN Draco Font",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "Show featured project 4: AZN Unified Font",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "Show featured project 5: AZN Knuckles Font",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "Show featured project 6: Quick Showcase",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "01Overview",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "02Challenge",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "03Solution",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "04The System",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "05Applications",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "06Results",
+          "disabled": false
+        }
+      ],
+      "screenshot": "C:\\Users\\ADVAN\\Desktop\\Athaya Designed 2\\qa-screenshots\\desktop-home.png"
+    },
+    {
+      "path": "/work",
+      "title": "Selected Work - Sports Identity, Mascot Logos & Athletic Branding | ATHAYA DESIGNED",
+      "metaDescription": "Explore selected identity work by ATHAYA DESIGNED, including mascot logos, athletic marks, lettermarks, typography, apparel applications, and visual systems for teams, schools, and brands.",
+      "canonical": "https://athayadesigned.com/work",
+      "robots": "index,follow",
+      "ogTitle": "Selected Work - Sports Identity, Mascot Logos & Athletic Branding | ATHAYA DESIGNED",
+      "twitterCard": "summary_large_image",
+      "jsonLdOk": true,
+      "scrollWidth": 1440,
+      "innerWidth": 1440,
+      "bodyClasses": "",
+      "h1": "Selected Identity Work.",
+      "imageCount": 9,
+      "brokenImages": [],
+      "oversized": [],
+      "approachLinks": [],
+      "ctaLinks": [
+        {
+          "text": "BOOK A DISCOVERY CALL",
+          "href": "https://calendly.com/athayadzn/30min",
+          "target": null,
+          "rel": null
+        },
+        {
+          "text": "05Contact",
+          "href": "/contact",
+          "target": null,
+          "rel": null
+        },
+        {
+          "text": "BOOK A DISCOVERY CALL",
+          "href": "https://calendly.com/athayadzn/30min",
+          "target": null,
+          "rel": null
+        },
+        {
+          "text": "Contact",
+          "href": "/contact",
+          "target": null,
+          "rel": null
+        }
+      ],
+      "workCards": 6,
+      "fontCards": 0,
+      "inputs": [
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "Close",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "All",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "Brand Identity",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "Mascot Logo",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "Typography",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "Lettermark",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "Apparel",
+          "disabled": false
+        }
+      ],
+      "screenshot": "C:\\Users\\ADVAN\\Desktop\\Athaya Designed 2\\qa-screenshots\\desktop-work.png"
+    },
+    {
+      "path": "/work/thenationsbest",
+      "title": "The Nations Best - Brand Identity Case Study | ATHAYA DESIGNED",
+      "metaDescription": "A powerful mascot logo design for a professional esports team featuring aggressive typography and bold iconography.",
+      "canonical": "https://athayadesigned.com/work/thenationsbest",
+      "robots": "index,follow",
+      "ogTitle": "The Nations Best - Brand Identity Case Study | ATHAYA DESIGNED",
+      "twitterCard": "summary_large_image",
+      "jsonLdOk": true,
+      "scrollWidth": 1440,
+      "innerWidth": 1440,
+      "bodyClasses": "",
+      "h1": "The Nations Best",
+      "imageCount": 26,
+      "brokenImages": [],
+      "oversized": [],
+      "approachLinks": [],
+      "ctaLinks": [
+        {
+          "text": "BOOK A DISCOVERY CALL",
+          "href": "https://calendly.com/athayadzn/30min",
+          "target": null,
+          "rel": null
+        },
+        {
+          "text": "05Contact",
+          "href": "/contact",
+          "target": null,
+          "rel": null
+        },
+        {
+          "text": "BOOK A DISCOVERY CALL",
+          "href": "https://calendly.com/athayadzn/30min",
+          "target": null,
+          "rel": null
+        },
+        {
+          "text": "Contact",
+          "href": "/contact",
+          "target": null,
+          "rel": null
+        }
+      ],
+      "workCards": 0,
+      "fontCards": 0,
+      "inputs": [
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "Close",
+          "disabled": false
+        }
+      ],
+      "screenshot": "C:\\Users\\ADVAN\\Desktop\\Athaya Designed 2\\qa-screenshots\\desktop-work-thenationsbest.png"
+    },
+    {
+      "path": "/work/dfdc-logofolio",
+      "title": "DFDC Lettermark Logofolio - Lettermark Case Study | ATHAYA DESIGNED",
+      "metaDescription": "A collection of freestyle lettermark designs created for the Dedicated Forever design contest.",
+      "canonical": "https://athayadesigned.com/work/dfdc-logofolio",
+      "robots": "index,follow",
+      "ogTitle": "DFDC Lettermark Logofolio - Lettermark Case Study | ATHAYA DESIGNED",
+      "twitterCard": "summary_large_image",
+      "jsonLdOk": true,
+      "scrollWidth": 1440,
+      "innerWidth": 1440,
+      "bodyClasses": "",
+      "h1": "DFDC Lettermark Logofolio",
+      "imageCount": 37,
+      "brokenImages": [],
+      "oversized": [],
+      "approachLinks": [],
+      "ctaLinks": [
+        {
+          "text": "BOOK A DISCOVERY CALL",
+          "href": "https://calendly.com/athayadzn/30min",
+          "target": null,
+          "rel": null
+        },
+        {
+          "text": "05Contact",
+          "href": "/contact",
+          "target": null,
+          "rel": null
+        },
+        {
+          "text": "BOOK A DISCOVERY CALL",
+          "href": "https://calendly.com/athayadzn/30min",
+          "target": null,
+          "rel": null
+        },
+        {
+          "text": "Contact",
+          "href": "/contact",
+          "target": null,
+          "rel": null
+        }
+      ],
+      "workCards": 0,
+      "fontCards": 0,
+      "inputs": [
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "Close",
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "path": "/work/azn-draco",
+      "title": "AZN Draco Font - Typography Case Study | ATHAYA DESIGNED",
+      "metaDescription": "A bold racing/sports font designed with speed and unique edge geometry in mind.",
+      "canonical": "https://athayadesigned.com/work/azn-draco",
+      "robots": "index,follow",
+      "ogTitle": "AZN Draco Font - Typography Case Study | ATHAYA DESIGNED",
+      "twitterCard": "summary_large_image",
+      "jsonLdOk": true,
+      "scrollWidth": 1440,
+      "innerWidth": 1440,
+      "bodyClasses": "",
+      "h1": "AZN Draco Font",
+      "imageCount": 9,
+      "brokenImages": [],
+      "oversized": [],
+      "approachLinks": [],
+      "ctaLinks": [
+        {
+          "text": "BOOK A DISCOVERY CALL",
+          "href": "https://calendly.com/athayadzn/30min",
+          "target": null,
+          "rel": null
+        },
+        {
+          "text": "05Contact",
+          "href": "/contact",
+          "target": null,
+          "rel": null
+        },
+        {
+          "text": "BOOK A DISCOVERY CALL",
+          "href": "https://calendly.com/athayadzn/30min",
+          "target": null,
+          "rel": null
+        },
+        {
+          "text": "Contact",
+          "href": "/contact",
+          "target": null,
+          "rel": null
+        }
+      ],
+      "workCards": 0,
+      "fontCards": 0,
+      "inputs": [
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "Close",
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "path": "/fonts",
+      "title": "ATHAYA DESIGNED Fonts - Display Typefaces for Sports Brands",
+      "metaDescription": "Explore ATHAYA DESIGNED display fonts, sports-inspired typefaces, and lettering systems for sports branding, apparel graphics, team identities, and visual systems.",
+      "canonical": "https://athayadesigned.com/fonts",
+      "robots": "index,follow",
+      "ogTitle": "ATHAYA DESIGNED Fonts - Display Typefaces for Sports Brands",
+      "twitterCard": "summary_large_image",
+      "jsonLdOk": true,
+      "scrollWidth": 1440,
+      "innerWidth": 1440,
+      "bodyClasses": "",
+      "h1": "ATHAYA DESIGNED Fonts.",
+      "imageCount": 7,
+      "brokenImages": [],
+      "oversized": [],
+      "approachLinks": [],
+      "ctaLinks": [
+        {
+          "text": "BOOK A DISCOVERY CALL",
+          "href": "https://calendly.com/athayadzn/30min",
+          "target": null,
+          "rel": null
+        },
+        {
+          "text": "05Contact",
+          "href": "/contact",
+          "target": null,
+          "rel": null
+        },
+        {
+          "text": "BOOK A DISCOVERY CALL",
+          "href": "https://calendly.com/athayadzn/30min",
+          "target": null,
+          "rel": null
+        },
+        {
+          "text": "Get Font",
+          "href": "https://payhip.com/athayadesigned",
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "text": "Get Font",
+          "href": "https://payhip.com/athayadesigned",
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "text": "Get Font",
+          "href": "https://payhip.com/athayadesigned",
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "text": "Get Font",
+          "href": "https://payhip.com/athayadesigned",
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact",
+          "target": null,
+          "rel": null
+        }
+      ],
+      "workCards": 4,
+      "fontCards": 12,
+      "inputs": [
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "Close",
+          "disabled": false
+        }
+      ],
+      "screenshot": "C:\\Users\\ADVAN\\Desktop\\Athaya Designed 2\\qa-screenshots\\desktop-fonts.png"
+    },
+    {
+      "path": "/fonts/azn-knuckles",
+      "title": "AZN Knuckles - Display Typeface for Sports Graphics | ATHAYA DESIGNED",
+      "metaDescription": "Ironline Display is shaped for athletic identities that need weight, pace, and a strong first read.",
+      "canonical": "https://athayadesigned.com/fonts/azn-knuckles",
+      "robots": "index,follow",
+      "ogTitle": "AZN Knuckles - Display Typeface for Sports Graphics | ATHAYA DESIGNED",
+      "twitterCard": "summary_large_image",
+      "jsonLdOk": true,
+      "scrollWidth": 1440,
+      "innerWidth": 1440,
+      "bodyClasses": "",
+      "h1": "AZN Knuckles",
+      "imageCount": 3,
+      "brokenImages": [],
+      "oversized": [],
+      "approachLinks": [],
+      "ctaLinks": [
+        {
+          "text": "BOOK A DISCOVERY CALL",
+          "href": "https://calendly.com/athayadzn/30min",
+          "target": null,
+          "rel": null
+        },
+        {
+          "text": "05Contact",
+          "href": "/contact",
+          "target": null,
+          "rel": null
+        },
+        {
+          "text": "BOOK A DISCOVERY CALL",
+          "href": "https://calendly.com/athayadzn/30min",
+          "target": null,
+          "rel": null
+        },
+        {
+          "text": "Get Font",
+          "href": "https://payhip.com/athayadesigned",
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact",
+          "target": null,
+          "rel": null
+        }
+      ],
+      "workCards": 3,
+      "fontCards": 3,
+      "inputs": [
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "Close",
+          "disabled": false
+        }
+      ],
+      "screenshot": "C:\\Users\\ADVAN\\Desktop\\Athaya Designed 2\\qa-screenshots\\desktop-fonts-azn-knuckles.png"
+    },
+    {
+      "path": "/about",
+      "title": "About ATHAYA DESIGNED - Independent Sports Identity Designer",
+      "metaDescription": "Learn about ATHAYA DESIGNED, the independent identity design practice of Ahmad Athaya Nurhani, focused on character-driven marks, mascot identities, athletic branding, and visual systems.",
+      "canonical": "https://athayadesigned.com/about",
+      "robots": "index,follow",
+      "ogTitle": "About ATHAYA DESIGNED - Independent Sports Identity Designer",
+      "twitterCard": "summary_large_image",
+      "jsonLdOk": true,
+      "scrollWidth": 1440,
+      "innerWidth": 1440,
+      "bodyClasses": "",
+      "h1": "Independent Identity Design Practice",
+      "imageCount": 4,
+      "brokenImages": [],
+      "oversized": [],
+      "approachLinks": [],
+      "ctaLinks": [
+        {
+          "text": "BOOK A DISCOVERY CALL",
+          "href": "https://calendly.com/athayadzn/30min",
+          "target": null,
+          "rel": null
+        },
+        {
+          "text": "05Contact",
+          "href": "/contact",
+          "target": null,
+          "rel": null
+        },
+        {
+          "text": "BOOK A DISCOVERY CALL",
+          "href": "https://calendly.com/athayadzn/30min",
+          "target": null,
+          "rel": null
+        },
+        {
+          "text": "BOOK A DISCOVERY CALL",
+          "href": "https://calendly.com/athayadzn/30min",
+          "target": null,
+          "rel": null
+        },
+        {
+          "text": "Contact",
+          "href": "/contact",
+          "target": null,
+          "rel": null
+        }
+      ],
+      "workCards": 0,
+      "fontCards": 0,
+      "inputs": [
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "Close",
+          "disabled": false
+        }
+      ],
+      "screenshot": "C:\\Users\\ADVAN\\Desktop\\Athaya Designed 2\\qa-screenshots\\desktop-about.png"
+    },
+    {
+      "path": "/services",
+      "title": "Services - Mascot Logo, Athletic Identity & School Branding",
+      "metaDescription": "Premium identity design services for teams, schools, clubs, creators, and brands, including mascot marks, athletic identity systems, school branding, lettermarks, apparel applications, and brand guidelines.",
+      "canonical": "https://athayadesigned.com/services",
+      "robots": "index,follow",
+      "ogTitle": "Services - Mascot Logo, Athletic Identity & School Branding",
+      "twitterCard": "summary_large_image",
+      "jsonLdOk": true,
+      "scrollWidth": 1440,
+      "innerWidth": 1440,
+      "bodyClasses": "",
+      "h1": "Identity Design Services",
+      "imageCount": 3,
+      "brokenImages": [],
+      "oversized": [],
+      "approachLinks": [],
+      "ctaLinks": [
+        {
+          "text": "BOOK A DISCOVERY CALL",
+          "href": "https://calendly.com/athayadzn/30min",
+          "target": null,
+          "rel": null
+        },
+        {
+          "text": "05Contact",
+          "href": "/contact",
+          "target": null,
+          "rel": null
+        },
+        {
+          "text": "BOOK A DISCOVERY CALL",
+          "href": "https://calendly.com/athayadzn/30min",
+          "target": null,
+          "rel": null
+        },
+        {
+          "text": "Contact",
+          "href": "/contact",
+          "target": null,
+          "rel": null
+        }
+      ],
+      "workCards": 0,
+      "fontCards": 0,
+      "inputs": [
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "Close",
+          "disabled": false
+        }
+      ],
+      "screenshot": "C:\\Users\\ADVAN\\Desktop\\Athaya Designed 2\\qa-screenshots\\desktop-services.png"
+    },
+    {
+      "path": "/contact",
+      "title": "Start a Project - ATHAYA DESIGNED",
+      "metaDescription": "Start a project with ATHAYA DESIGNED for mascot logo design, athletic identity systems, school branding, lettermarks, or complete identity work.",
+      "canonical": "https://athayadesigned.com/contact",
+      "robots": "index,follow",
+      "ogTitle": "Start a Project - ATHAYA DESIGNED",
+      "twitterCard": "summary_large_image",
+      "jsonLdOk": true,
+      "scrollWidth": 1440,
+      "innerWidth": 1440,
+      "bodyClasses": "",
+      "h1": "Start a Project",
+      "imageCount": 3,
+      "brokenImages": [],
+      "oversized": [],
+      "approachLinks": [],
+      "ctaLinks": [
+        {
+          "text": "BOOK A DISCOVERY CALL",
+          "href": "https://calendly.com/athayadzn/30min",
+          "target": null,
+          "rel": null
+        },
+        {
+          "text": "05Contact",
+          "href": "/contact",
+          "target": null,
+          "rel": null
+        },
+        {
+          "text": "BOOK A DISCOVERY CALL",
+          "href": "https://calendly.com/athayadzn/30min",
+          "target": null,
+          "rel": null
+        },
+        {
+          "text": "BOOK A DISCOVERY CALL",
+          "href": "https://calendly.com/athayadzn/30min",
+          "target": null,
+          "rel": null
+        },
+        {
+          "text": "Contact",
+          "href": "/contact",
+          "target": null,
+          "rel": null
+        }
+      ],
+      "workCards": 0,
+      "fontCards": 0,
+      "inputs": [
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "Close",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "text": "",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "email",
+          "text": "",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "text": "",
+          "disabled": false
+        },
+        {
+          "tag": "SELECT",
+          "type": null,
+          "text": "Select an option\n          Identity MarkMascot / Character I",
+          "disabled": false
+        },
+        {
+          "tag": "SELECT",
+          "type": null,
+          "text": "Select an option\n          $750-$1,500$1,500-$2,500$2,500-$5",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "text": "",
+          "disabled": false
+        },
+        {
+          "tag": "TEXTAREA",
+          "type": null,
+          "text": "Tell me about the identity, audience, deliverables, and what",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "type": "submit",
+          "text": "Send Inquiry",
+          "disabled": false
+        }
+      ],
+      "screenshot": "C:\\Users\\ADVAN\\Desktop\\Athaya Designed 2\\qa-screenshots\\desktop-contact.png"
+    },
+    {
+      "path": "/admin",
+      "title": "ATHAYA DESIGNED - Sports Identity & Mascot Logo Design Studio",
+      "metaDescription": "ATHAYA DESIGNED creates mascot logos, athletic identity systems, school branding, apparel applications, and complete visual identity systems for teams, schools, communities, and sports brands.",
+      "canonical": "https://athayadesigned.com/",
+      "robots": "index,follow",
+      "ogTitle": "ATHAYA DESIGNED - Sports Identity & Mascot Logo Design Studio",
+      "twitterCard": "summary_large_image",
+      "jsonLdOk": true,
+      "scrollWidth": 1440,
+      "innerWidth": 1440,
+      "bodyClasses": "",
+      "h1": "ATHAYA DESIGNED",
+      "imageCount": 0,
+      "brokenImages": [],
+      "oversized": [],
+      "approachLinks": [],
+      "ctaLinks": [],
+      "workCards": 0,
+      "fontCards": 0,
+      "inputs": [
+        {
+          "tag": "INPUT",
+          "type": "password",
+          "text": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "type": "submit",
+          "text": "Enter Admin",
+          "disabled": false
+        }
+      ],
+      "screenshot": "C:\\Users\\ADVAN\\Desktop\\Athaya Designed 2\\qa-screenshots\\desktop-admin.png"
+    }
+  ],
+  "mobile": [
+    {
+      "path": "/",
+      "title": "ATHAYA DESIGNED - Sports Identity & Mascot Logo Design Studio",
+      "metaDescription": "ATHAYA DESIGNED creates mascot logos, athletic identity systems, school branding, apparel applications, and complete visual identity systems for teams, schools, communities, and sports brands.",
+      "canonical": "https://athayadesigned.com/",
+      "robots": "index,follow",
+      "ogTitle": "ATHAYA DESIGNED - Sports Identity & Mascot Logo Design Studio",
+      "twitterCard": "summary_large_image",
+      "jsonLdOk": true,
+      "scrollWidth": 464,
+      "innerWidth": 390,
+      "bodyClasses": "",
+      "h1": "Identity Marks With Character,Craft, And Presence.",
+      "imageCount": 17,
+      "brokenImages": [],
+      "oversized": [
+        {
+          "tag": "DIV",
+          "cls": "",
+          "text": "Identity Marks With Character,Craft, And Presence. Start a P",
+          "left": 24,
+          "right": 464,
+          "width": 440,
+          "height": 431
+        },
+        {
+          "tag": "H1",
+          "cls": "",
+          "text": "Identity Marks With Character,Craft, And Presence.",
+          "left": 24,
+          "right": 464,
+          "width": 440,
+          "height": 281
+        },
+        {
+          "tag": "DIV",
+          "cls": "button-row",
+          "text": "Start a ProjectView Selected Work",
+          "left": 24,
+          "right": 464,
+          "width": 440,
+          "height": 102
+        },
+        {
+          "tag": "A",
+          "cls": "editorial-button editorial-button--solid ",
+          "text": "Start a Project",
+          "left": 24,
+          "right": 464,
+          "width": 440,
+          "height": 44
+        },
+        {
+          "tag": "A",
+          "cls": "editorial-button editorial-button--outline ",
+          "text": "View Selected Work",
+          "left": 24,
+          "right": 464,
+          "width": 440,
+          "height": 44
+        },
+        {
+          "tag": "DIV",
+          "cls": "headline-copy",
+          "text": "Athaya Designed crafts distinctive logos, mascot identities,",
+          "left": 24,
+          "right": 464,
+          "width": 440,
+          "height": 97
+        },
+        {
+          "tag": "P",
+          "cls": "",
+          "text": "Athaya Designed crafts distinctive logos, mascot identities,",
+          "left": 24,
+          "right": 404,
+          "width": 380,
+          "height": 97
+        },
+        {
+          "tag": "DIV",
+          "cls": "capability-track",
+          "text": "Identity Marks/Mascot & Character Identities/Athletic & Scho",
+          "left": 24,
+          "right": 1680,
+          "width": 1656,
+          "height": 14
+        },
+        {
+          "tag": "DIV",
+          "cls": "capability-group",
+          "text": "Identity Marks/Mascot & Character Identities/Athletic & Scho",
+          "left": 24,
+          "right": 852,
+          "width": 828,
+          "height": 14
+        },
+        {
+          "tag": "SPAN",
+          "cls": "capability-item",
+          "text": "Mascot & Character Identities",
+          "left": 170,
+          "right": 408,
+          "width": 238,
+          "height": 14
+        },
+        {
+          "tag": "SPAN",
+          "cls": "capability-separator",
+          "text": "/",
+          "left": 422,
+          "right": 426,
+          "width": 4,
+          "height": 14
+        },
+        {
+          "tag": "SPAN",
+          "cls": "capability-item",
+          "text": "Athletic & School Branding",
+          "left": 440,
+          "right": 654,
+          "width": 214,
+          "height": 14
+        }
+      ],
+      "approachLinks": [],
+      "ctaLinks": [
+        {
+          "text": "BOOK A DISCOVERY CALL",
+          "href": "https://calendly.com/athayadzn/30min",
+          "target": null,
+          "rel": null
+        },
+        {
+          "text": "05Contact",
+          "href": "/contact",
+          "target": null,
+          "rel": null
+        },
+        {
+          "text": "BOOK A DISCOVERY CALL",
+          "href": "https://calendly.com/athayadzn/30min",
+          "target": null,
+          "rel": null
+        },
+        {
+          "text": "Contact",
+          "href": "/contact",
+          "target": null,
+          "rel": null
+        }
+      ],
+      "workCards": 4,
+      "fontCards": 0,
+      "inputs": [
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "Close",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "Show featured project 1: The Nations Best",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "Show featured project 2: DFDC Lettermark Logofolio",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "Show featured project 3: AZN Draco Font",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "Show featured project 4: AZN Unified Font",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "Show featured project 5: AZN Knuckles Font",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "Show featured project 6: Quick Showcase",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "01Overview",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "02Challenge",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "03Solution",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "04The System",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "05Applications",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "06Results",
+          "disabled": false
+        }
+      ],
+      "screenshot": "C:\\Users\\ADVAN\\Desktop\\Athaya Designed 2\\qa-screenshots\\mobile-home.png"
+    },
+    {
+      "path": "/work",
+      "title": "Selected Work - Sports Identity, Mascot Logos & Athletic Branding | ATHAYA DESIGNED",
+      "metaDescription": "Explore selected identity work by ATHAYA DESIGNED, including mascot logos, athletic marks, lettermarks, typography, apparel applications, and visual systems for teams, schools, and brands.",
+      "canonical": "https://athayadesigned.com/work",
+      "robots": "index,follow",
+      "ogTitle": "Selected Work - Sports Identity, Mascot Logos & Athletic Branding | ATHAYA DESIGNED",
+      "twitterCard": "summary_large_image",
+      "jsonLdOk": true,
+      "scrollWidth": 424,
+      "innerWidth": 390,
+      "bodyClasses": "",
+      "h1": "Selected Identity Work.",
+      "imageCount": 9,
+      "brokenImages": [],
+      "oversized": [
+        {
+          "tag": "DIV",
+          "cls": "section-label",
+          "text": "Selected Work",
+          "left": 24,
+          "right": 424,
+          "width": 400,
+          "height": 12
+        },
+        {
+          "tag": "H1",
+          "cls": "",
+          "text": "Selected Identity Work.",
+          "left": 24,
+          "right": 424,
+          "width": 400,
+          "height": 181
+        },
+        {
+          "tag": "P",
+          "cls": "",
+          "text": "A collection of mascot marks, athletic identities, school br",
+          "left": 24,
+          "right": 424,
+          "width": 400,
+          "height": 79
+        },
+        {
+          "tag": "BUTTON",
+          "cls": "",
+          "text": "Typography",
+          "left": 366,
+          "right": 481,
+          "width": 115,
+          "height": 38
+        },
+        {
+          "tag": "BUTTON",
+          "cls": "",
+          "text": "Lettermark",
+          "left": 491,
+          "right": 605,
+          "width": 114,
+          "height": 38
+        },
+        {
+          "tag": "BUTTON",
+          "cls": "",
+          "text": "Apparel",
+          "left": 615,
+          "right": 704,
+          "width": 89,
+          "height": 38
+        }
+      ],
+      "approachLinks": [],
+      "ctaLinks": [
+        {
+          "text": "BOOK A DISCOVERY CALL",
+          "href": "https://calendly.com/athayadzn/30min",
+          "target": null,
+          "rel": null
+        },
+        {
+          "text": "05Contact",
+          "href": "/contact",
+          "target": null,
+          "rel": null
+        },
+        {
+          "text": "BOOK A DISCOVERY CALL",
+          "href": "https://calendly.com/athayadzn/30min",
+          "target": null,
+          "rel": null
+        },
+        {
+          "text": "Contact",
+          "href": "/contact",
+          "target": null,
+          "rel": null
+        }
+      ],
+      "workCards": 6,
+      "fontCards": 0,
+      "inputs": [
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "Close",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "All",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "Brand Identity",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "Mascot Logo",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "Typography",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "Lettermark",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "Apparel",
+          "disabled": false
+        }
+      ],
+      "screenshot": "C:\\Users\\ADVAN\\Desktop\\Athaya Designed 2\\qa-screenshots\\mobile-work.png"
+    },
+    {
+      "path": "/work/thenationsbest",
+      "title": "The Nations Best - Brand Identity Case Study | ATHAYA DESIGNED",
+      "metaDescription": "A powerful mascot logo design for a professional esports team featuring aggressive typography and bold iconography.",
+      "canonical": "https://athayadesigned.com/work/thenationsbest",
+      "robots": "index,follow",
+      "ogTitle": "The Nations Best - Brand Identity Case Study | ATHAYA DESIGNED",
+      "twitterCard": "summary_large_image",
+      "jsonLdOk": true,
+      "scrollWidth": 390,
+      "innerWidth": 390,
+      "bodyClasses": "",
+      "h1": "The Nations Best",
+      "imageCount": 26,
+      "brokenImages": [],
+      "oversized": [],
+      "approachLinks": [],
+      "ctaLinks": [
+        {
+          "text": "BOOK A DISCOVERY CALL",
+          "href": "https://calendly.com/athayadzn/30min",
+          "target": null,
+          "rel": null
+        },
+        {
+          "text": "05Contact",
+          "href": "/contact",
+          "target": null,
+          "rel": null
+        },
+        {
+          "text": "BOOK A DISCOVERY CALL",
+          "href": "https://calendly.com/athayadzn/30min",
+          "target": null,
+          "rel": null
+        },
+        {
+          "text": "Contact",
+          "href": "/contact",
+          "target": null,
+          "rel": null
+        }
+      ],
+      "workCards": 0,
+      "fontCards": 0,
+      "inputs": [
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "Close",
+          "disabled": false
+        }
+      ],
+      "screenshot": "C:\\Users\\ADVAN\\Desktop\\Athaya Designed 2\\qa-screenshots\\mobile-work-thenationsbest.png"
+    },
+    {
+      "path": "/fonts",
+      "title": "ATHAYA DESIGNED Fonts - Display Typefaces for Sports Brands",
+      "metaDescription": "Explore ATHAYA DESIGNED display fonts, sports-inspired typefaces, and lettering systems for sports branding, apparel graphics, team identities, and visual systems.",
+      "canonical": "https://athayadesigned.com/fonts",
+      "robots": "index,follow",
+      "ogTitle": "ATHAYA DESIGNED Fonts - Display Typefaces for Sports Brands",
+      "twitterCard": "summary_large_image",
+      "jsonLdOk": true,
+      "scrollWidth": 390,
+      "innerWidth": 390,
+      "bodyClasses": "",
+      "h1": "ATHAYA DESIGNED Fonts.",
+      "imageCount": 7,
+      "brokenImages": [],
+      "oversized": [],
+      "approachLinks": [],
+      "ctaLinks": [
+        {
+          "text": "BOOK A DISCOVERY CALL",
+          "href": "https://calendly.com/athayadzn/30min",
+          "target": null,
+          "rel": null
+        },
+        {
+          "text": "05Contact",
+          "href": "/contact",
+          "target": null,
+          "rel": null
+        },
+        {
+          "text": "BOOK A DISCOVERY CALL",
+          "href": "https://calendly.com/athayadzn/30min",
+          "target": null,
+          "rel": null
+        },
+        {
+          "text": "Get Font",
+          "href": "https://payhip.com/athayadesigned",
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "text": "Get Font",
+          "href": "https://payhip.com/athayadesigned",
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "text": "Get Font",
+          "href": "https://payhip.com/athayadesigned",
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "text": "Get Font",
+          "href": "https://payhip.com/athayadesigned",
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact",
+          "target": null,
+          "rel": null
+        }
+      ],
+      "workCards": 4,
+      "fontCards": 12,
+      "inputs": [
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "Close",
+          "disabled": false
+        }
+      ],
+      "screenshot": "C:\\Users\\ADVAN\\Desktop\\Athaya Designed 2\\qa-screenshots\\mobile-fonts.png"
+    },
+    {
+      "path": "/fonts/azn-knuckles",
+      "title": "AZN Knuckles - Display Typeface for Sports Graphics | ATHAYA DESIGNED",
+      "metaDescription": "Ironline Display is shaped for athletic identities that need weight, pace, and a strong first read.",
+      "canonical": "https://athayadesigned.com/fonts/azn-knuckles",
+      "robots": "index,follow",
+      "ogTitle": "AZN Knuckles - Display Typeface for Sports Graphics | ATHAYA DESIGNED",
+      "twitterCard": "summary_large_image",
+      "jsonLdOk": true,
+      "scrollWidth": 390,
+      "innerWidth": 390,
+      "bodyClasses": "",
+      "h1": "AZN Knuckles",
+      "imageCount": 3,
+      "brokenImages": [],
+      "oversized": [],
+      "approachLinks": [],
+      "ctaLinks": [
+        {
+          "text": "BOOK A DISCOVERY CALL",
+          "href": "https://calendly.com/athayadzn/30min",
+          "target": null,
+          "rel": null
+        },
+        {
+          "text": "05Contact",
+          "href": "/contact",
+          "target": null,
+          "rel": null
+        },
+        {
+          "text": "BOOK A DISCOVERY CALL",
+          "href": "https://calendly.com/athayadzn/30min",
+          "target": null,
+          "rel": null
+        },
+        {
+          "text": "Get Font",
+          "href": "https://payhip.com/athayadesigned",
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact",
+          "target": null,
+          "rel": null
+        }
+      ],
+      "workCards": 3,
+      "fontCards": 3,
+      "inputs": [
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "Close",
+          "disabled": false
+        }
+      ],
+      "screenshot": "C:\\Users\\ADVAN\\Desktop\\Athaya Designed 2\\qa-screenshots\\mobile-fonts-azn-knuckles.png"
+    },
+    {
+      "path": "/about",
+      "title": "About ATHAYA DESIGNED - Independent Sports Identity Designer",
+      "metaDescription": "Learn about ATHAYA DESIGNED, the independent identity design practice of Ahmad Athaya Nurhani, focused on character-driven marks, mascot identities, athletic branding, and visual systems.",
+      "canonical": "https://athayadesigned.com/about",
+      "robots": "index,follow",
+      "ogTitle": "About ATHAYA DESIGNED - Independent Sports Identity Designer",
+      "twitterCard": "summary_large_image",
+      "jsonLdOk": true,
+      "scrollWidth": 390,
+      "innerWidth": 390,
+      "bodyClasses": "",
+      "h1": "Independent Identity Design Practice",
+      "imageCount": 4,
+      "brokenImages": [],
+      "oversized": [],
+      "approachLinks": [],
+      "ctaLinks": [
+        {
+          "text": "BOOK A DISCOVERY CALL",
+          "href": "https://calendly.com/athayadzn/30min",
+          "target": null,
+          "rel": null
+        },
+        {
+          "text": "05Contact",
+          "href": "/contact",
+          "target": null,
+          "rel": null
+        },
+        {
+          "text": "BOOK A DISCOVERY CALL",
+          "href": "https://calendly.com/athayadzn/30min",
+          "target": null,
+          "rel": null
+        },
+        {
+          "text": "BOOK A DISCOVERY CALL",
+          "href": "https://calendly.com/athayadzn/30min",
+          "target": null,
+          "rel": null
+        },
+        {
+          "text": "Contact",
+          "href": "/contact",
+          "target": null,
+          "rel": null
+        }
+      ],
+      "workCards": 0,
+      "fontCards": 0,
+      "inputs": [
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "Close",
+          "disabled": false
+        }
+      ],
+      "screenshot": "C:\\Users\\ADVAN\\Desktop\\Athaya Designed 2\\qa-screenshots\\mobile-about.png"
+    },
+    {
+      "path": "/services",
+      "title": "Services - Mascot Logo, Athletic Identity & School Branding",
+      "metaDescription": "Premium identity design services for teams, schools, clubs, creators, and brands, including mascot marks, athletic identity systems, school branding, lettermarks, apparel applications, and brand guidelines.",
+      "canonical": "https://athayadesigned.com/services",
+      "robots": "index,follow",
+      "ogTitle": "Services - Mascot Logo, Athletic Identity & School Branding",
+      "twitterCard": "summary_large_image",
+      "jsonLdOk": true,
+      "scrollWidth": 390,
+      "innerWidth": 390,
+      "bodyClasses": "",
+      "h1": "Identity Design Services",
+      "imageCount": 3,
+      "brokenImages": [],
+      "oversized": [],
+      "approachLinks": [],
+      "ctaLinks": [
+        {
+          "text": "BOOK A DISCOVERY CALL",
+          "href": "https://calendly.com/athayadzn/30min",
+          "target": null,
+          "rel": null
+        },
+        {
+          "text": "05Contact",
+          "href": "/contact",
+          "target": null,
+          "rel": null
+        },
+        {
+          "text": "BOOK A DISCOVERY CALL",
+          "href": "https://calendly.com/athayadzn/30min",
+          "target": null,
+          "rel": null
+        },
+        {
+          "text": "Contact",
+          "href": "/contact",
+          "target": null,
+          "rel": null
+        }
+      ],
+      "workCards": 0,
+      "fontCards": 0,
+      "inputs": [
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "Close",
+          "disabled": false
+        }
+      ],
+      "screenshot": "C:\\Users\\ADVAN\\Desktop\\Athaya Designed 2\\qa-screenshots\\mobile-services.png"
+    },
+    {
+      "path": "/contact",
+      "title": "Start a Project - ATHAYA DESIGNED",
+      "metaDescription": "Start a project with ATHAYA DESIGNED for mascot logo design, athletic identity systems, school branding, lettermarks, or complete identity work.",
+      "canonical": "https://athayadesigned.com/contact",
+      "robots": "index,follow",
+      "ogTitle": "Start a Project - ATHAYA DESIGNED",
+      "twitterCard": "summary_large_image",
+      "jsonLdOk": true,
+      "scrollWidth": 390,
+      "innerWidth": 390,
+      "bodyClasses": "",
+      "h1": "Start a Project",
+      "imageCount": 3,
+      "brokenImages": [],
+      "oversized": [],
+      "approachLinks": [],
+      "ctaLinks": [
+        {
+          "text": "BOOK A DISCOVERY CALL",
+          "href": "https://calendly.com/athayadzn/30min",
+          "target": null,
+          "rel": null
+        },
+        {
+          "text": "05Contact",
+          "href": "/contact",
+          "target": null,
+          "rel": null
+        },
+        {
+          "text": "BOOK A DISCOVERY CALL",
+          "href": "https://calendly.com/athayadzn/30min",
+          "target": null,
+          "rel": null
+        },
+        {
+          "text": "BOOK A DISCOVERY CALL",
+          "href": "https://calendly.com/athayadzn/30min",
+          "target": null,
+          "rel": null
+        },
+        {
+          "text": "Contact",
+          "href": "/contact",
+          "target": null,
+          "rel": null
+        }
+      ],
+      "workCards": 0,
+      "fontCards": 0,
+      "inputs": [
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "Close",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "text": "",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "email",
+          "text": "",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "text": "",
+          "disabled": false
+        },
+        {
+          "tag": "SELECT",
+          "type": null,
+          "text": "Select an option\n          Identity MarkMascot / Character I",
+          "disabled": false
+        },
+        {
+          "tag": "SELECT",
+          "type": null,
+          "text": "Select an option\n          $750-$1,500$1,500-$2,500$2,500-$5",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "text": "",
+          "disabled": false
+        },
+        {
+          "tag": "TEXTAREA",
+          "type": null,
+          "text": "Tell me about the identity, audience, deliverables, and what",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "type": "submit",
+          "text": "Send Inquiry",
+          "disabled": false
+        }
+      ],
+      "screenshot": "C:\\Users\\ADVAN\\Desktop\\Athaya Designed 2\\qa-screenshots\\mobile-contact.png"
+    }
+  ],
+  "menu": {
+    "before": {
+      "scrollWidth": 464,
+      "bodyClass": ""
+    },
+    "open": {
+      "overlayHidden": false,
+      "toggleExpanded": "true",
+      "bodyLocked": true,
+      "links": [
+        {
+          "text": "01Work",
+          "href": "/work"
+        },
+        {
+          "text": "02Fonts",
+          "href": "/fonts"
+        },
+        {
+          "text": "03Services",
+          "href": "/services"
+        },
+        {
+          "text": "04About",
+          "href": "/about"
+        },
+        {
+          "text": "05Contact",
+          "href": "/contact"
+        }
+      ],
+      "closeFocused": true,
+      "scrollWidth": 464
+    },
+    "afterEsc": {
+      "overlayHidden": true,
+      "toggleExpanded": "false",
+      "bodyLocked": false
+    },
+    "afterCloseButton": {
+      "overlayHidden": true,
+      "toggleExpanded": "false",
+      "bodyLocked": false
+    }
+  },
+  "loader": {
+    "initialLoader": true,
+    "afterWait": false,
+    "afterInternalNav": {
+      "path": "/work",
+      "loader": false
+    }
+  },
+  "fontExternal": [
+    {
+      "text": "Get Font",
+      "href": "https://payhip.com/athayadesigned",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  ],
+  "consoleEvents": [
+    {
+      "route": "http://127.0.0.1:5173/",
+      "type": "error",
+      "text": "Failed to load resource: net::ERR_NETWORK_ACCESS_DENIED"
+    },
+    {
+      "route": "http://127.0.0.1:5173/work",
+      "type": "error",
+      "text": "Failed to load resource: net::ERR_NETWORK_ACCESS_DENIED"
+    },
+    {
+      "route": "http://127.0.0.1:5173/work/thenationsbest",
+      "type": "error",
+      "text": "Failed to load resource: net::ERR_NETWORK_ACCESS_DENIED"
+    },
+    {
+      "route": "http://127.0.0.1:5173/work/dfdc-logofolio",
+      "type": "error",
+      "text": "Failed to load resource: net::ERR_NETWORK_ACCESS_DENIED"
+    },
+    {
+      "route": "http://127.0.0.1:5173/work/azn-draco",
+      "type": "error",
+      "text": "Failed to load resource: net::ERR_NETWORK_ACCESS_DENIED"
+    },
+    {
+      "route": "http://127.0.0.1:5173/fonts",
+      "type": "error",
+      "text": "Failed to load resource: net::ERR_NETWORK_ACCESS_DENIED"
+    },
+    {
+      "route": "http://127.0.0.1:5173/fonts/azn-knuckles",
+      "type": "error",
+      "text": "Failed to load resource: net::ERR_NETWORK_ACCESS_DENIED"
+    },
+    {
+      "route": "http://127.0.0.1:5173/about",
+      "type": "error",
+      "text": "Failed to load resource: net::ERR_NETWORK_ACCESS_DENIED"
+    },
+    {
+      "route": "http://127.0.0.1:5173/services",
+      "type": "error",
+      "text": "Failed to load resource: net::ERR_NETWORK_ACCESS_DENIED"
+    },
+    {
+      "route": "http://127.0.0.1:5173/contact",
+      "type": "error",
+      "text": "Failed to load resource: net::ERR_NETWORK_ACCESS_DENIED"
+    },
+    {
+      "route": "http://127.0.0.1:5173/admin",
+      "type": "error",
+      "text": "Failed to load resource: net::ERR_NETWORK_ACCESS_DENIED"
+    },
+    {
+      "route": "http://127.0.0.1:5173/",
+      "type": "error",
+      "text": "Failed to load resource: net::ERR_NETWORK_ACCESS_DENIED"
+    },
+    {
+      "route": "http://127.0.0.1:5173/work",
+      "type": "error",
+      "text": "Failed to load resource: net::ERR_NETWORK_ACCESS_DENIED"
+    },
+    {
+      "route": "http://127.0.0.1:5173/work/thenationsbest",
+      "type": "error",
+      "text": "Failed to load resource: net::ERR_NETWORK_ACCESS_DENIED"
+    },
+    {
+      "route": "http://127.0.0.1:5173/fonts",
+      "type": "error",
+      "text": "Failed to load resource: net::ERR_NETWORK_ACCESS_DENIED"
+    },
+    {
+      "route": "http://127.0.0.1:5173/fonts/azn-knuckles",
+      "type": "error",
+      "text": "Failed to load resource: net::ERR_NETWORK_ACCESS_DENIED"
+    },
+    {
+      "route": "http://127.0.0.1:5173/about",
+      "type": "error",
+      "text": "Failed to load resource: net::ERR_NETWORK_ACCESS_DENIED"
+    },
+    {
+      "route": "http://127.0.0.1:5173/services",
+      "type": "error",
+      "text": "Failed to load resource: net::ERR_NETWORK_ACCESS_DENIED"
+    },
+    {
+      "route": "http://127.0.0.1:5173/contact",
+      "type": "error",
+      "text": "Failed to load resource: net::ERR_NETWORK_ACCESS_DENIED"
+    },
+    {
+      "route": "http://127.0.0.1:5173/",
+      "type": "error",
+      "text": "Failed to load resource: net::ERR_NETWORK_ACCESS_DENIED"
+    },
+    {
+      "route": "http://127.0.0.1:5173/",
+      "type": "error",
+      "text": "Failed to load resource: net::ERR_NETWORK_ACCESS_DENIED"
+    },
+    {
+      "route": "http://127.0.0.1:5173/fonts/azn-knuckles",
+      "type": "error",
+      "text": "Failed to load resource: net::ERR_NETWORK_ACCESS_DENIED"
+    }
+  ],
+  "pageErrors": [],
+  "requestProblems": [
+    {
+      "route": "http://127.0.0.1:5173/",
+      "url": "https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;500;600&family=DM+Sans:wght@400;500;600;700&family=Inter:wght@500&display=swap",
+      "failure": "net::ERR_NETWORK_ACCESS_DENIED"
+    },
+    {
+      "route": "http://127.0.0.1:5173/work",
+      "url": "https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;500;600&family=DM+Sans:wght@400;500;600;700&family=Inter:wght@500&display=swap",
+      "failure": "net::ERR_NETWORK_ACCESS_DENIED"
+    },
+    {
+      "route": "http://127.0.0.1:5173/work/thenationsbest",
+      "url": "https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;500;600&family=DM+Sans:wght@400;500;600;700&family=Inter:wght@500&display=swap",
+      "failure": "net::ERR_NETWORK_ACCESS_DENIED"
+    },
+    {
+      "route": "http://127.0.0.1:5173/work/dfdc-logofolio",
+      "url": "https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;500;600&family=DM+Sans:wght@400;500;600;700&family=Inter:wght@500&display=swap",
+      "failure": "net::ERR_NETWORK_ACCESS_DENIED"
+    },
+    {
+      "route": "http://127.0.0.1:5173/work/azn-draco",
+      "url": "https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;500;600&family=DM+Sans:wght@400;500;600;700&family=Inter:wght@500&display=swap",
+      "failure": "net::ERR_NETWORK_ACCESS_DENIED"
+    },
+    {
+      "route": "http://127.0.0.1:5173/fonts",
+      "url": "https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;500;600&family=DM+Sans:wght@400;500;600;700&family=Inter:wght@500&display=swap",
+      "failure": "net::ERR_NETWORK_ACCESS_DENIED"
+    },
+    {
+      "route": "http://127.0.0.1:5173/fonts/azn-knuckles",
+      "url": "https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;500;600&family=DM+Sans:wght@400;500;600;700&family=Inter:wght@500&display=swap",
+      "failure": "net::ERR_NETWORK_ACCESS_DENIED"
+    },
+    {
+      "route": "http://127.0.0.1:5173/about",
+      "url": "https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;500;600&family=DM+Sans:wght@400;500;600;700&family=Inter:wght@500&display=swap",
+      "failure": "net::ERR_NETWORK_ACCESS_DENIED"
+    },
+    {
+      "route": "http://127.0.0.1:5173/services",
+      "url": "https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;500;600&family=DM+Sans:wght@400;500;600;700&family=Inter:wght@500&display=swap",
+      "failure": "net::ERR_NETWORK_ACCESS_DENIED"
+    },
+    {
+      "route": "http://127.0.0.1:5173/contact",
+      "url": "https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;500;600&family=DM+Sans:wght@400;500;600;700&family=Inter:wght@500&display=swap",
+      "failure": "net::ERR_NETWORK_ACCESS_DENIED"
+    },
+    {
+      "route": "http://127.0.0.1:5173/admin",
+      "url": "https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;500;600&family=DM+Sans:wght@400;500;600;700&family=Inter:wght@500&display=swap",
+      "failure": "net::ERR_NETWORK_ACCESS_DENIED"
+    },
+    {
+      "route": "http://127.0.0.1:5173/",
+      "url": "https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;500;600&family=DM+Sans:wght@400;500;600;700&family=Inter:wght@500&display=swap",
+      "failure": "net::ERR_NETWORK_ACCESS_DENIED"
+    },
+    {
+      "route": "http://127.0.0.1:5173/work",
+      "url": "https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;500;600&family=DM+Sans:wght@400;500;600;700&family=Inter:wght@500&display=swap",
+      "failure": "net::ERR_NETWORK_ACCESS_DENIED"
+    },
+    {
+      "route": "http://127.0.0.1:5173/work/thenationsbest",
+      "url": "https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;500;600&family=DM+Sans:wght@400;500;600;700&family=Inter:wght@500&display=swap",
+      "failure": "net::ERR_NETWORK_ACCESS_DENIED"
+    },
+    {
+      "route": "http://127.0.0.1:5173/fonts",
+      "url": "https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;500;600&family=DM+Sans:wght@400;500;600;700&family=Inter:wght@500&display=swap",
+      "failure": "net::ERR_NETWORK_ACCESS_DENIED"
+    },
+    {
+      "route": "http://127.0.0.1:5173/fonts/azn-knuckles",
+      "url": "https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;500;600&family=DM+Sans:wght@400;500;600;700&family=Inter:wght@500&display=swap",
+      "failure": "net::ERR_NETWORK_ACCESS_DENIED"
+    },
+    {
+      "route": "http://127.0.0.1:5173/about",
+      "url": "https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;500;600&family=DM+Sans:wght@400;500;600;700&family=Inter:wght@500&display=swap",
+      "failure": "net::ERR_NETWORK_ACCESS_DENIED"
+    },
+    {
+      "route": "http://127.0.0.1:5173/services",
+      "url": "https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;500;600&family=DM+Sans:wght@400;500;600;700&family=Inter:wght@500&display=swap",
+      "failure": "net::ERR_NETWORK_ACCESS_DENIED"
+    },
+    {
+      "route": "http://127.0.0.1:5173/contact",
+      "url": "https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;500;600&family=DM+Sans:wght@400;500;600;700&family=Inter:wght@500&display=swap",
+      "failure": "net::ERR_NETWORK_ACCESS_DENIED"
+    },
+    {
+      "route": "http://127.0.0.1:5173/",
+      "url": "https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;500;600&family=DM+Sans:wght@400;500;600;700&family=Inter:wght@500&display=swap",
+      "failure": "net::ERR_NETWORK_ACCESS_DENIED"
+    },
+    {
+      "route": "http://127.0.0.1:5173/",
+      "url": "https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;500;600&family=DM+Sans:wght@400;500;600;700&family=Inter:wght@500&display=swap",
+      "failure": "net::ERR_NETWORK_ACCESS_DENIED"
+    },
+    {
+      "route": "http://127.0.0.1:5173/fonts/azn-knuckles",
+      "url": "https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;500;600&family=DM+Sans:wght@400;500;600;700&family=Inter:wght@500&display=swap",
+      "failure": "net::ERR_NETWORK_ACCESS_DENIED"
+    }
+  ]
+}

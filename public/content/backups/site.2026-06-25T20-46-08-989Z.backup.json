@@ -1,0 +1,51 @@
+{
+  "studioName": "ATHAYA DESIGNED",
+  "studioSublabel": "Independent Sports Identity Practice",
+  "primaryCtaLabel": "BOOK A DISCOVERY CALL",
+  "primaryCtaUrl": "https://calendly.com/athayadzn/30min",
+  "bookingUrl": "https://calendly.com/athayadzn/30min",
+  "email": "hello@athayadesigned.com",
+  "instagramUrl": "https://www.instagram.com/athayadesigned/",
+  "linkedinUrl": "https://www.linkedin.com/in/athayadesigned/",
+  "behanceUrl": "https://www.behance.net/athayadzn",
+  "footerCopyright": "(c) {year} ATHAYA DESIGNED. All rights reserved.",
+  "logoHorizontalPath": "/assets/athaya-horizontal.png",
+  "brandmarkPath": "/assets/athaya-brandmark.png",
+  "defaultOgImagePath": "/assets/athaya-brandmark.png",
+  "globalBackgroundImagePath": "",
+  "themeModeNote": "Dark editorial identity system.",
+  "overlayMenuLinks": [
+    {
+      "label": "Work",
+      "url": "/work",
+      "order": 1,
+      "enabled": true
+    },
+    {
+      "label": "Fonts",
+      "url": "/fonts",
+      "order": 2,
+      "enabled": true
+    },
+    {
+      "label": "About",
+      "url": "/about",
+      "order": 3,
+      "enabled": true
+    },
+    {
+      "label": "Services",
+      "url": "/services",
+      "order": 4,
+      "enabled": true
+    },
+    {
+      "label": "Contact",
+      "url": "/contact",
+      "order": 5,
+      "enabled": true
+    }
+  ],
+  "lastSavedAt": "2026-06-25T20:45:22.352Z",
+  "draftUpdatedAt": "2026-06-25T20:43:28.739Z"
+}

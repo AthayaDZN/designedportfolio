@@ -1,0 +1,118 @@
+[
+  {
+    "name": "AZN Knuckles",
+    "slug": "azn-knuckles",
+    "category": "Sports Lettering Font",
+    "shortDescription": "AZN Knuckles is a slab serif font that was evolved to fit with the modern scene, mainly inspired by the collage youth art direction, variety shapes and athleticism.",
+    "description": "Ironline Display is shaped for athletic identities that need weight, pace, and a strong first read.",
+    "longDescription": "Built for mascot lockups, oversized apparel graphics, stadium language, and headline systems where presence matters.",
+    "priceLabel": "From $19",
+    "payhipUrl": "https://payhip.com/b/YRsDi",
+    "previewText": "TIMELESS CLASSIC",
+    "featuredWords": [
+      "PANTHERS",
+      "WILDCATS",
+      "CARDINALS",
+      "IRONWOOD"
+    ],
+    "useCases": [
+      "Athletic identities",
+      "Team apparel",
+      "Mascot lockups",
+      "Campaign headlines"
+    ],
+    "fontFileUrl": "/uploads/fonts/aznknuckles-regular-trial-1782306561763.otf",
+    "previewImage": "/uploads/images/o-1fr52uvu41fpfffb12q4i6opu21-1782305972007.webp",
+    "specimenImage": "/assets/athaya-brandmark.png",
+    "backgroundImage": "",
+    "published": true,
+    "order": 1
+  },
+  {
+    "name": "AZN Unified",
+    "slug": "aznunified",
+    "category": "Sports Lettering Font",
+    "shortDescription": "AZN Unified is inspired by the evolving sports world that recently just expanded into the digital-verse.",
+    "description": "Varsity Forge brings a crafted athletic voice to team branding, campus merchandise, and matchday graphics.",
+    "longDescription": "It has a strong collegiate character while staying flexible enough for modern identity work.",
+    "priceLabel": "From $19",
+    "payhipUrl": "https://payhip.com/b/W6XNY",
+    "previewText": "RACING CHAMPIONS",
+    "featuredWords": [
+      "NORTHRIDGE",
+      "WESTHAVEN",
+      "UNITED FC",
+      "ATHLETICS"
+    ],
+    "useCases": [
+      "School branding",
+      "Jersey typography",
+      "Fanwear graphics",
+      "Event posters"
+    ],
+    "fontFileUrl": "/uploads/fonts/aznunified-1782386407961.otf",
+    "previewImage": "/uploads/images/nzhvxsafue2eanid5emwzfnv-c7ac8b72b82a349afb0b9f3c76a09ba8-1782386740475.webp",
+    "specimenImage": "/assets/athaya-brandmark.png",
+    "backgroundImage": "",
+    "published": true,
+    "order": 2
+  },
+  {
+    "name": "Draco",
+    "slug": "draco",
+    "category": "Racing Display Typeface",
+    "shortDescription": "A compressed headline face for fast-moving identity systems and high-impact sports graphics.",
+    "description": "Sideline Condensed is made for narrow spaces, loud headlines, and layered brand applications.",
+    "longDescription": "It carries sideline urgency without sacrificing clarity across posters, locker room graphics, and social systems.",
+    "priceLabel": "Free",
+    "payhipUrl": "https://payhip.com/b/j6y9w",
+    "previewText": "Ram!",
+    "featuredWords": [
+      "LOCKER ROOM",
+      "MASCOT MARKS",
+      "TEAM IDENTITY",
+      "JERSEY TYPE"
+    ],
+    "useCases": [
+      "Locker room graphics",
+      "Social headlines",
+      "Narrow lockups",
+      "Facility signage"
+    ],
+    "fontFileUrl": "/uploads/fonts/draco-1782386111199.otf",
+    "previewImage": "/uploads/images/dracoo-1782387011206.webp",
+    "specimenImage": "/assets/athaya-brandmark.png",
+    "backgroundImage": "",
+    "published": true,
+    "order": 3
+  },
+  {
+    "name": "Malibu Sunrise",
+    "slug": "malibusunrise",
+    "category": "Bold Identity Typeface",
+    "shortDescription": "A bold gothic display style with character-forward shapes for team and mascot storytelling.",
+    "description": "Mascot Gothic is built for identities that need a recognizable voice before the mascot even appears.",
+    "longDescription": "Its bold structure suits marks, merch, editorial systems, and team campaigns with a dramatic edge.",
+    "priceLabel": "From $25",
+    "payhipUrl": "https://payhip.com/b/j6y9w",
+    "previewText": "Ocean Avenue",
+    "featuredWords": [
+      "BEARS",
+      "PANTHERS",
+      "WOLVES",
+      "FALCONS"
+    ],
+    "useCases": [
+      "Mascot branding",
+      "Editorial headlines",
+      "Merchandise",
+      "Team campaigns"
+    ],
+    "fontFileUrl": "/uploads/fonts/aznmalibusunrise-1782386445016.otf",
+    "previewImage": "/uploads/images/1-o-1782387182736.webp",
+    "specimenImage": "/assets/athaya-brandmark.png",
+    "backgroundImage": "",
+    "published": true,
+    "order": 4
+  }
+]
