@@ -879,7 +879,9 @@ function render() {
     window.clearTimeout(chapterChangeTimer);
     chapterChangeTimer = null;
   }
+  document.documentElement.classList.remove("menu-lock");
   document.body.classList.remove("menu-lock");
+  document.body.style.top = "";
   const route = getRoute();
 
   if (route.name === "admin") {
@@ -1531,19 +1533,35 @@ function bind() {
   const overlay = document.querySelector("[data-overlay]");
   const toggle = document.querySelector("[data-menu-toggle]");
   let lastMenuTrigger = null;
+  let lockedScrollY = 0;
+  const setScrollLock = (locked) => {
+    if (locked) {
+      lockedScrollY = window.scrollY || document.documentElement.scrollTop || 0;
+      document.documentElement.classList.add("menu-lock");
+      document.body.classList.add("menu-lock");
+      document.body.style.top = `-${lockedScrollY}px`;
+      return;
+    }
+
+    document.documentElement.classList.remove("menu-lock");
+    document.body.classList.remove("menu-lock");
+    document.body.style.top = "";
+    window.scrollTo(0, lockedScrollY);
+  };
   const setMenu = async (open) => {
     if (!overlay || !toggle) return;
     toggle.classList.toggle("is-open", open);
     toggle.setAttribute("aria-expanded", open ? "true" : "false");
-    document.body.classList.toggle("menu-lock", open);
     if (open) {
       lastMenuTrigger = document.activeElement;
+      setScrollLock(true);
       openMenuMotion(overlay);
       window.requestAnimationFrame(() => {
         overlay.querySelector("[data-menu-close]")?.focus();
       });
     } else {
       await closeMenuMotion(overlay);
+      setScrollLock(false);
       if (lastMenuTrigger && typeof lastMenuTrigger.focus === "function") {
         lastMenuTrigger.focus();
       }

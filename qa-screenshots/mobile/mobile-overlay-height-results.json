@@ -1,0 +1,170 @@
+[
+  {
+    "viewport": "360x800",
+    "beforeScrollY": 700,
+    "audit": {
+      "viewport": {
+        "width": 360,
+        "height": 800
+      },
+      "scrollWidth": 360,
+      "clientWidth": 360,
+      "horizontalOverflow": false,
+      "overlayHidden": false,
+      "overlayRect": {
+        "x": 0,
+        "y": 0,
+        "width": 360,
+        "height": 800,
+        "bottom": 800
+      },
+      "panelRect": {
+        "x": 0,
+        "y": 0,
+        "width": 360,
+        "height": 800,
+        "bottom": 800
+      },
+      "htmlLocked": true,
+      "bodyLocked": true,
+      "htmlOverflow": "hidden",
+      "bodyOverflow": "hidden",
+      "bodyPosition": "fixed",
+      "bodyTouchAction": "none",
+      "overlayPosition": "fixed",
+      "overlayHeight": "800px",
+      "overlayMinHeight": "800px",
+      "overlayOverflow": "hidden",
+      "panelOverflowY": "auto",
+      "panelWebkitOverflowScrolling": "",
+      "duringScrollY": 0,
+      "afterAttemptScrollY": 0
+    }
+  },
+  {
+    "viewport": "390x844",
+    "beforeScrollY": 700,
+    "audit": {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "scrollWidth": 390,
+      "clientWidth": 390,
+      "horizontalOverflow": false,
+      "overlayHidden": false,
+      "overlayRect": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844,
+        "bottom": 844
+      },
+      "panelRect": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844,
+        "bottom": 844
+      },
+      "htmlLocked": true,
+      "bodyLocked": true,
+      "htmlOverflow": "hidden",
+      "bodyOverflow": "hidden",
+      "bodyPosition": "fixed",
+      "bodyTouchAction": "none",
+      "overlayPosition": "fixed",
+      "overlayHeight": "844px",
+      "overlayMinHeight": "844px",
+      "overlayOverflow": "hidden",
+      "panelOverflowY": "auto",
+      "panelWebkitOverflowScrolling": "",
+      "duringScrollY": 0,
+      "afterAttemptScrollY": 0
+    }
+  },
+  {
+    "viewport": "430x932",
+    "beforeScrollY": 700,
+    "audit": {
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "scrollWidth": 430,
+      "clientWidth": 430,
+      "horizontalOverflow": false,
+      "overlayHidden": false,
+      "overlayRect": {
+        "x": 0,
+        "y": 0,
+        "width": 430,
+        "height": 932,
+        "bottom": 932
+      },
+      "panelRect": {
+        "x": 0,
+        "y": 0,
+        "width": 430,
+        "height": 932,
+        "bottom": 932
+      },
+      "htmlLocked": true,
+      "bodyLocked": true,
+      "htmlOverflow": "hidden",
+      "bodyOverflow": "hidden",
+      "bodyPosition": "fixed",
+      "bodyTouchAction": "none",
+      "overlayPosition": "fixed",
+      "overlayHeight": "932px",
+      "overlayMinHeight": "932px",
+      "overlayOverflow": "hidden",
+      "panelOverflowY": "auto",
+      "panelWebkitOverflowScrolling": "",
+      "duringScrollY": 0,
+      "afterAttemptScrollY": 0
+    }
+  },
+  {
+    "viewport": "480x900",
+    "beforeScrollY": 700,
+    "audit": {
+      "viewport": {
+        "width": 480,
+        "height": 900
+      },
+      "scrollWidth": 480,
+      "clientWidth": 480,
+      "horizontalOverflow": false,
+      "overlayHidden": false,
+      "overlayRect": {
+        "x": 0,
+        "y": 0,
+        "width": 480,
+        "height": 900,
+        "bottom": 900
+      },
+      "panelRect": {
+        "x": 0,
+        "y": 0,
+        "width": 480,
+        "height": 900,
+        "bottom": 900
+      },
+      "htmlLocked": true,
+      "bodyLocked": true,
+      "htmlOverflow": "hidden",
+      "bodyOverflow": "hidden",
+      "bodyPosition": "fixed",
+      "bodyTouchAction": "none",
+      "overlayPosition": "fixed",
+      "overlayHeight": "900px",
+      "overlayMinHeight": "900px",
+      "overlayOverflow": "hidden",
+      "panelOverflowY": "auto",
+      "panelWebkitOverflowScrolling": "",
+      "duringScrollY": 0,
+      "afterAttemptScrollY": 0
+    }
+  }
+]

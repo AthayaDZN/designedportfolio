@@ -1,0 +1,762 @@
+[
+  {
+    "viewport": "360x800",
+    "route": "/",
+    "status": 200,
+    "failed": [],
+    "audit": {
+      "horizontalOverflow": false,
+      "scrollWidth": 360,
+      "clientWidth": 360,
+      "overlayHeight": 800,
+      "overlayWidth": 360,
+      "panelHeight": 800,
+      "bodyLocked": true,
+      "aboutRuleDisplay": null,
+      "aboutRuleWidth": null,
+      "viewportHeight": 800,
+      "viewportWidth": 360
+    }
+  },
+  {
+    "viewport": "360x800",
+    "route": "/about",
+    "status": 200,
+    "failed": [],
+    "audit": {
+      "horizontalOverflow": false,
+      "scrollWidth": 360,
+      "clientWidth": 360,
+      "overlayHeight": 800,
+      "overlayWidth": 360,
+      "panelHeight": 800,
+      "bodyLocked": true,
+      "aboutRuleDisplay": "none",
+      "aboutRuleWidth": "42px",
+      "viewportHeight": 800,
+      "viewportWidth": 360
+    }
+  },
+  {
+    "viewport": "360x800",
+    "route": "/work",
+    "status": 200,
+    "failed": [],
+    "audit": {
+      "horizontalOverflow": false,
+      "scrollWidth": 360,
+      "clientWidth": 360,
+      "overlayHeight": 800,
+      "overlayWidth": 360,
+      "panelHeight": 800,
+      "bodyLocked": true,
+      "aboutRuleDisplay": null,
+      "aboutRuleWidth": null,
+      "viewportHeight": 800,
+      "viewportWidth": 360
+    }
+  },
+  {
+    "viewport": "360x800",
+    "route": "/work/thenationsbest",
+    "status": 200,
+    "failed": [],
+    "audit": {
+      "horizontalOverflow": false,
+      "scrollWidth": 360,
+      "clientWidth": 360,
+      "overlayHeight": 800,
+      "overlayWidth": 360,
+      "panelHeight": 800,
+      "bodyLocked": true,
+      "aboutRuleDisplay": null,
+      "aboutRuleWidth": null,
+      "viewportHeight": 800,
+      "viewportWidth": 360
+    }
+  },
+  {
+    "viewport": "360x800",
+    "route": "/work/dfdc-logofolio",
+    "status": 200,
+    "failed": [],
+    "audit": {
+      "horizontalOverflow": false,
+      "scrollWidth": 360,
+      "clientWidth": 360,
+      "overlayHeight": 800,
+      "overlayWidth": 360,
+      "panelHeight": 800,
+      "bodyLocked": true,
+      "aboutRuleDisplay": null,
+      "aboutRuleWidth": null,
+      "viewportHeight": 800,
+      "viewportWidth": 360
+    }
+  },
+  {
+    "viewport": "360x800",
+    "route": "/work/quick-showcase",
+    "status": 200,
+    "failed": [],
+    "audit": {
+      "horizontalOverflow": false,
+      "scrollWidth": 360,
+      "clientWidth": 360,
+      "overlayHeight": 800,
+      "overlayWidth": 360,
+      "panelHeight": 800,
+      "bodyLocked": true,
+      "aboutRuleDisplay": null,
+      "aboutRuleWidth": null,
+      "viewportHeight": 800,
+      "viewportWidth": 360
+    }
+  },
+  {
+    "viewport": "360x800",
+    "route": "/fonts",
+    "status": 200,
+    "failed": [],
+    "audit": {
+      "horizontalOverflow": false,
+      "scrollWidth": 360,
+      "clientWidth": 360,
+      "overlayHeight": 800,
+      "overlayWidth": 360,
+      "panelHeight": 800,
+      "bodyLocked": true,
+      "aboutRuleDisplay": null,
+      "aboutRuleWidth": null,
+      "viewportHeight": 800,
+      "viewportWidth": 360
+    }
+  },
+  {
+    "viewport": "360x800",
+    "route": "/contact",
+    "status": 200,
+    "failed": [],
+    "audit": {
+      "horizontalOverflow": false,
+      "scrollWidth": 360,
+      "clientWidth": 360,
+      "overlayHeight": 800,
+      "overlayWidth": 360,
+      "panelHeight": 800,
+      "bodyLocked": true,
+      "aboutRuleDisplay": null,
+      "aboutRuleWidth": null,
+      "viewportHeight": 800,
+      "viewportWidth": 360
+    }
+  },
+  {
+    "viewport": "390x844",
+    "route": "/",
+    "status": 200,
+    "failed": [],
+    "audit": {
+      "horizontalOverflow": false,
+      "scrollWidth": 390,
+      "clientWidth": 390,
+      "overlayHeight": 844,
+      "overlayWidth": 390,
+      "panelHeight": 844,
+      "bodyLocked": true,
+      "aboutRuleDisplay": null,
+      "aboutRuleWidth": null,
+      "viewportHeight": 844,
+      "viewportWidth": 390
+    }
+  },
+  {
+    "viewport": "390x844",
+    "route": "/about",
+    "status": 200,
+    "failed": [],
+    "audit": {
+      "horizontalOverflow": false,
+      "scrollWidth": 390,
+      "clientWidth": 390,
+      "overlayHeight": 844,
+      "overlayWidth": 390,
+      "panelHeight": 844,
+      "bodyLocked": true,
+      "aboutRuleDisplay": "none",
+      "aboutRuleWidth": "42px",
+      "viewportHeight": 844,
+      "viewportWidth": 390
+    }
+  },
+  {
+    "viewport": "390x844",
+    "route": "/work",
+    "status": 200,
+    "failed": [],
+    "audit": {
+      "horizontalOverflow": false,
+      "scrollWidth": 390,
+      "clientWidth": 390,
+      "overlayHeight": 844,
+      "overlayWidth": 390,
+      "panelHeight": 844,
+      "bodyLocked": true,
+      "aboutRuleDisplay": null,
+      "aboutRuleWidth": null,
+      "viewportHeight": 844,
+      "viewportWidth": 390
+    }
+  },
+  {
+    "viewport": "390x844",
+    "route": "/work/thenationsbest",
+    "status": 200,
+    "failed": [],
+    "audit": {
+      "horizontalOverflow": false,
+      "scrollWidth": 390,
+      "clientWidth": 390,
+      "overlayHeight": 844,
+      "overlayWidth": 390,
+      "panelHeight": 844,
+      "bodyLocked": true,
+      "aboutRuleDisplay": null,
+      "aboutRuleWidth": null,
+      "viewportHeight": 844,
+      "viewportWidth": 390
+    }
+  },
+  {
+    "viewport": "390x844",
+    "route": "/work/dfdc-logofolio",
+    "status": 200,
+    "failed": [],
+    "audit": {
+      "horizontalOverflow": false,
+      "scrollWidth": 390,
+      "clientWidth": 390,
+      "overlayHeight": 844,
+      "overlayWidth": 390,
+      "panelHeight": 844,
+      "bodyLocked": true,
+      "aboutRuleDisplay": null,
+      "aboutRuleWidth": null,
+      "viewportHeight": 844,
+      "viewportWidth": 390
+    }
+  },
+  {
+    "viewport": "390x844",
+    "route": "/work/quick-showcase",
+    "status": 200,
+    "failed": [],
+    "audit": {
+      "horizontalOverflow": false,
+      "scrollWidth": 390,
+      "clientWidth": 390,
+      "overlayHeight": 844,
+      "overlayWidth": 390,
+      "panelHeight": 844,
+      "bodyLocked": true,
+      "aboutRuleDisplay": null,
+      "aboutRuleWidth": null,
+      "viewportHeight": 844,
+      "viewportWidth": 390
+    }
+  },
+  {
+    "viewport": "390x844",
+    "route": "/fonts",
+    "status": 200,
+    "failed": [],
+    "audit": {
+      "horizontalOverflow": false,
+      "scrollWidth": 390,
+      "clientWidth": 390,
+      "overlayHeight": 844,
+      "overlayWidth": 390,
+      "panelHeight": 844,
+      "bodyLocked": true,
+      "aboutRuleDisplay": null,
+      "aboutRuleWidth": null,
+      "viewportHeight": 844,
+      "viewportWidth": 390
+    }
+  },
+  {
+    "viewport": "390x844",
+    "route": "/contact",
+    "status": 200,
+    "failed": [],
+    "audit": {
+      "horizontalOverflow": false,
+      "scrollWidth": 390,
+      "clientWidth": 390,
+      "overlayHeight": 844,
+      "overlayWidth": 390,
+      "panelHeight": 844,
+      "bodyLocked": true,
+      "aboutRuleDisplay": null,
+      "aboutRuleWidth": null,
+      "viewportHeight": 844,
+      "viewportWidth": 390
+    }
+  },
+  {
+    "viewport": "430x932",
+    "route": "/",
+    "status": 200,
+    "failed": [],
+    "audit": {
+      "horizontalOverflow": false,
+      "scrollWidth": 430,
+      "clientWidth": 430,
+      "overlayHeight": 932,
+      "overlayWidth": 430,
+      "panelHeight": 932,
+      "bodyLocked": true,
+      "aboutRuleDisplay": null,
+      "aboutRuleWidth": null,
+      "viewportHeight": 932,
+      "viewportWidth": 430
+    }
+  },
+  {
+    "viewport": "430x932",
+    "route": "/about",
+    "status": 200,
+    "failed": [],
+    "audit": {
+      "horizontalOverflow": false,
+      "scrollWidth": 430,
+      "clientWidth": 430,
+      "overlayHeight": 932,
+      "overlayWidth": 430,
+      "panelHeight": 932,
+      "bodyLocked": true,
+      "aboutRuleDisplay": "none",
+      "aboutRuleWidth": "42px",
+      "viewportHeight": 932,
+      "viewportWidth": 430
+    }
+  },
+  {
+    "viewport": "430x932",
+    "route": "/work",
+    "status": 200,
+    "failed": [],
+    "audit": {
+      "horizontalOverflow": false,
+      "scrollWidth": 430,
+      "clientWidth": 430,
+      "overlayHeight": 932,
+      "overlayWidth": 430,
+      "panelHeight": 932,
+      "bodyLocked": true,
+      "aboutRuleDisplay": null,
+      "aboutRuleWidth": null,
+      "viewportHeight": 932,
+      "viewportWidth": 430
+    }
+  },
+  {
+    "viewport": "430x932",
+    "route": "/work/thenationsbest",
+    "status": 200,
+    "failed": [],
+    "audit": {
+      "horizontalOverflow": false,
+      "scrollWidth": 430,
+      "clientWidth": 430,
+      "overlayHeight": 932,
+      "overlayWidth": 430,
+      "panelHeight": 932,
+      "bodyLocked": true,
+      "aboutRuleDisplay": null,
+      "aboutRuleWidth": null,
+      "viewportHeight": 932,
+      "viewportWidth": 430
+    }
+  },
+  {
+    "viewport": "430x932",
+    "route": "/work/dfdc-logofolio",
+    "status": 200,
+    "failed": [],
+    "audit": {
+      "horizontalOverflow": false,
+      "scrollWidth": 430,
+      "clientWidth": 430,
+      "overlayHeight": 932,
+      "overlayWidth": 430,
+      "panelHeight": 932,
+      "bodyLocked": true,
+      "aboutRuleDisplay": null,
+      "aboutRuleWidth": null,
+      "viewportHeight": 932,
+      "viewportWidth": 430
+    }
+  },
+  {
+    "viewport": "430x932",
+    "route": "/work/quick-showcase",
+    "status": 200,
+    "failed": [],
+    "audit": {
+      "horizontalOverflow": false,
+      "scrollWidth": 430,
+      "clientWidth": 430,
+      "overlayHeight": 932,
+      "overlayWidth": 430,
+      "panelHeight": 932,
+      "bodyLocked": true,
+      "aboutRuleDisplay": null,
+      "aboutRuleWidth": null,
+      "viewportHeight": 932,
+      "viewportWidth": 430
+    }
+  },
+  {
+    "viewport": "430x932",
+    "route": "/fonts",
+    "status": 200,
+    "failed": [],
+    "audit": {
+      "horizontalOverflow": false,
+      "scrollWidth": 430,
+      "clientWidth": 430,
+      "overlayHeight": 932,
+      "overlayWidth": 430,
+      "panelHeight": 932,
+      "bodyLocked": true,
+      "aboutRuleDisplay": null,
+      "aboutRuleWidth": null,
+      "viewportHeight": 932,
+      "viewportWidth": 430
+    }
+  },
+  {
+    "viewport": "430x932",
+    "route": "/contact",
+    "status": 200,
+    "failed": [],
+    "audit": {
+      "horizontalOverflow": false,
+      "scrollWidth": 430,
+      "clientWidth": 430,
+      "overlayHeight": 932,
+      "overlayWidth": 430,
+      "panelHeight": 932,
+      "bodyLocked": true,
+      "aboutRuleDisplay": null,
+      "aboutRuleWidth": null,
+      "viewportHeight": 932,
+      "viewportWidth": 430
+    }
+  },
+  {
+    "viewport": "480x900",
+    "route": "/",
+    "status": 200,
+    "failed": [],
+    "audit": {
+      "horizontalOverflow": false,
+      "scrollWidth": 480,
+      "clientWidth": 480,
+      "overlayHeight": 900,
+      "overlayWidth": 480,
+      "panelHeight": 900,
+      "bodyLocked": true,
+      "aboutRuleDisplay": null,
+      "aboutRuleWidth": null,
+      "viewportHeight": 900,
+      "viewportWidth": 480
+    }
+  },
+  {
+    "viewport": "480x900",
+    "route": "/about",
+    "status": 200,
+    "failed": [],
+    "audit": {
+      "horizontalOverflow": false,
+      "scrollWidth": 480,
+      "clientWidth": 480,
+      "overlayHeight": 900,
+      "overlayWidth": 480,
+      "panelHeight": 900,
+      "bodyLocked": true,
+      "aboutRuleDisplay": "block",
+      "aboutRuleWidth": "42px",
+      "viewportHeight": 900,
+      "viewportWidth": 480
+    }
+  },
+  {
+    "viewport": "480x900",
+    "route": "/work",
+    "status": 200,
+    "failed": [],
+    "audit": {
+      "horizontalOverflow": false,
+      "scrollWidth": 480,
+      "clientWidth": 480,
+      "overlayHeight": 900,
+      "overlayWidth": 480,
+      "panelHeight": 900,
+      "bodyLocked": true,
+      "aboutRuleDisplay": null,
+      "aboutRuleWidth": null,
+      "viewportHeight": 900,
+      "viewportWidth": 480
+    }
+  },
+  {
+    "viewport": "480x900",
+    "route": "/work/thenationsbest",
+    "status": 200,
+    "failed": [],
+    "audit": {
+      "horizontalOverflow": false,
+      "scrollWidth": 480,
+      "clientWidth": 480,
+      "overlayHeight": 900,
+      "overlayWidth": 480,
+      "panelHeight": 900,
+      "bodyLocked": true,
+      "aboutRuleDisplay": null,
+      "aboutRuleWidth": null,
+      "viewportHeight": 900,
+      "viewportWidth": 480
+    }
+  },
+  {
+    "viewport": "480x900",
+    "route": "/work/dfdc-logofolio",
+    "status": 200,
+    "failed": [],
+    "audit": {
+      "horizontalOverflow": false,
+      "scrollWidth": 480,
+      "clientWidth": 480,
+      "overlayHeight": 900,
+      "overlayWidth": 480,
+      "panelHeight": 900,
+      "bodyLocked": true,
+      "aboutRuleDisplay": null,
+      "aboutRuleWidth": null,
+      "viewportHeight": 900,
+      "viewportWidth": 480
+    }
+  },
+  {
+    "viewport": "480x900",
+    "route": "/work/quick-showcase",
+    "status": 200,
+    "failed": [],
+    "audit": {
+      "horizontalOverflow": false,
+      "scrollWidth": 480,
+      "clientWidth": 480,
+      "overlayHeight": 900,
+      "overlayWidth": 480,
+      "panelHeight": 900,
+      "bodyLocked": true,
+      "aboutRuleDisplay": null,
+      "aboutRuleWidth": null,
+      "viewportHeight": 900,
+      "viewportWidth": 480
+    }
+  },
+  {
+    "viewport": "480x900",
+    "route": "/fonts",
+    "status": 200,
+    "failed": [],
+    "audit": {
+      "horizontalOverflow": false,
+      "scrollWidth": 480,
+      "clientWidth": 480,
+      "overlayHeight": 900,
+      "overlayWidth": 480,
+      "panelHeight": 900,
+      "bodyLocked": true,
+      "aboutRuleDisplay": null,
+      "aboutRuleWidth": null,
+      "viewportHeight": 900,
+      "viewportWidth": 480
+    }
+  },
+  {
+    "viewport": "480x900",
+    "route": "/contact",
+    "status": 200,
+    "failed": [],
+    "audit": {
+      "horizontalOverflow": false,
+      "scrollWidth": 480,
+      "clientWidth": 480,
+      "overlayHeight": 900,
+      "overlayWidth": 480,
+      "panelHeight": 900,
+      "bodyLocked": true,
+      "aboutRuleDisplay": null,
+      "aboutRuleWidth": null,
+      "viewportHeight": 900,
+      "viewportWidth": 480
+    }
+  },
+  {
+    "viewport": "768x1024",
+    "route": "/",
+    "status": 200,
+    "failed": [],
+    "audit": {
+      "horizontalOverflow": false,
+      "scrollWidth": 768,
+      "clientWidth": 768,
+      "overlayHeight": 1024,
+      "overlayWidth": 768,
+      "panelHeight": 1024,
+      "bodyLocked": true,
+      "aboutRuleDisplay": null,
+      "aboutRuleWidth": null,
+      "viewportHeight": 1024,
+      "viewportWidth": 768
+    }
+  },
+  {
+    "viewport": "768x1024",
+    "route": "/about",
+    "status": 200,
+    "failed": [],
+    "audit": {
+      "horizontalOverflow": false,
+      "scrollWidth": 768,
+      "clientWidth": 768,
+      "overlayHeight": 1024,
+      "overlayWidth": 768,
+      "panelHeight": 1024,
+      "bodyLocked": true,
+      "aboutRuleDisplay": "block",
+      "aboutRuleWidth": "42px",
+      "viewportHeight": 1024,
+      "viewportWidth": 768
+    }
+  },
+  {
+    "viewport": "768x1024",
+    "route": "/work",
+    "status": 200,
+    "failed": [],
+    "audit": {
+      "horizontalOverflow": false,
+      "scrollWidth": 768,
+      "clientWidth": 768,
+      "overlayHeight": 1024,
+      "overlayWidth": 768,
+      "panelHeight": 1024,
+      "bodyLocked": true,
+      "aboutRuleDisplay": null,
+      "aboutRuleWidth": null,
+      "viewportHeight": 1024,
+      "viewportWidth": 768
+    }
+  },
+  {
+    "viewport": "768x1024",
+    "route": "/work/thenationsbest",
+    "status": 200,
+    "failed": [],
+    "audit": {
+      "horizontalOverflow": false,
+      "scrollWidth": 768,
+      "clientWidth": 768,
+      "overlayHeight": 1024,
+      "overlayWidth": 768,
+      "panelHeight": 1024,
+      "bodyLocked": true,
+      "aboutRuleDisplay": null,
+      "aboutRuleWidth": null,
+      "viewportHeight": 1024,
+      "viewportWidth": 768
+    }
+  },
+  {
+    "viewport": "768x1024",
+    "route": "/work/dfdc-logofolio",
+    "status": 200,
+    "failed": [],
+    "audit": {
+      "horizontalOverflow": false,
+      "scrollWidth": 768,
+      "clientWidth": 768,
+      "overlayHeight": 1024,
+      "overlayWidth": 768,
+      "panelHeight": 1024,
+      "bodyLocked": true,
+      "aboutRuleDisplay": null,
+      "aboutRuleWidth": null,
+      "viewportHeight": 1024,
+      "viewportWidth": 768
+    }
+  },
+  {
+    "viewport": "768x1024",
+    "route": "/work/quick-showcase",
+    "status": 200,
+    "failed": [],
+    "audit": {
+      "horizontalOverflow": false,
+      "scrollWidth": 768,
+      "clientWidth": 768,
+      "overlayHeight": 1024,
+      "overlayWidth": 768,
+      "panelHeight": 1024,
+      "bodyLocked": true,
+      "aboutRuleDisplay": null,
+      "aboutRuleWidth": null,
+      "viewportHeight": 1024,
+      "viewportWidth": 768
+    }
+  },
+  {
+    "viewport": "768x1024",
+    "route": "/fonts",
+    "status": 200,
+    "failed": [],
+    "audit": {
+      "horizontalOverflow": false,
+      "scrollWidth": 768,
+      "clientWidth": 768,
+      "overlayHeight": 1024,
+      "overlayWidth": 768,
+      "panelHeight": 1024,
+      "bodyLocked": true,
+      "aboutRuleDisplay": null,
+      "aboutRuleWidth": null,
+      "viewportHeight": 1024,
+      "viewportWidth": 768
+    }
+  },
+  {
+    "viewport": "768x1024",
+    "route": "/contact",
+    "status": 200,
+    "failed": [],
+    "audit": {
+      "horizontalOverflow": false,
+      "scrollWidth": 768,
+      "clientWidth": 768,
+      "overlayHeight": 1024,
+      "overlayWidth": 768,
+      "panelHeight": 1024,
+      "bodyLocked": true,
+      "aboutRuleDisplay": null,
+      "aboutRuleWidth": null,
+      "viewportHeight": 1024,
+      "viewportWidth": 768
+    }
+  }
+]
