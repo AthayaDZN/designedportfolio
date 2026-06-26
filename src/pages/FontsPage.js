@@ -42,7 +42,7 @@ export function renderFontsPage({ arrowIcon, label, imageAttrs }) {
               <article class="font-card work-card" data-reveal>
                 <a class="font-card__main" href="/fonts/${font.slug}" data-router-link aria-label="View ${font.name} details">
                   <figure class="font-card__media">
-                    <img ${imageAttrs(font.previewImage, `${font.name} display typeface preview for sports branding`, { loading: index < 2 ? "eager" : "lazy", fetchPriority: index === 0 ? "high" : undefined })} />
+                    <img ${imageAttrs(font.previewImage, `${font.name} display typeface preview for sports branding`, { loading: "eager", fetchPriority: index === 0 ? "high" : undefined })} />
                   </figure>
                   <div class="font-card__topline">
                     <span>${String(index + 1).padStart(2, "0")}</span>

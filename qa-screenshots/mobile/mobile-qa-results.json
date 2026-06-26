@@ -1,0 +1,5733 @@
+[
+  {
+    "route": "/",
+    "viewport": "360x800",
+    "screenshot": "qa-screenshots/mobile/360x800__home.png",
+    "status": 200,
+    "durationMs": 3925,
+    "title": "ATHAYA DESIGNED - Sports Identity & Mascot Logo Design Studio",
+    "issues": [
+      {
+        "type": "clipped text",
+        "severity": "medium",
+        "message": "2 visible text element(s) appear clipped",
+        "details": {
+          "elements": [
+            {
+              "element": "div.capability-marquee [IDENTITY MARKS / MASCOT & CHARACTER IDENTITIES / ATHLETIC & SCHOOL BRANDING / BRAND GUIDEL]",
+              "rect": {
+                "x": 19,
+                "y": 1143,
+                "width": 321,
+                "height": 16,
+                "right": 341,
+                "bottom": 1159
+              },
+              "scrollWidth": 2368,
+              "clientWidth": 321,
+              "scrollHeight": 16,
+              "clientHeight": 16
+            },
+            {
+              "element": "figcaption. [TNB previous logo]",
+              "rect": {
+                "x": 20,
+                "y": 2113,
+                "width": 1,
+                "height": 1,
+                "right": 21,
+                "bottom": 2114
+              },
+              "scrollWidth": 63,
+              "clientWidth": 1,
+              "scrollHeight": 63,
+              "clientHeight": 1
+            }
+          ]
+        }
+      },
+      {
+        "type": "overlapping navbar/header",
+        "severity": "medium",
+        "message": "1 possible header overlap(s)",
+        "details": {
+          "overlaps": [
+            {
+              "header": "header.navbar",
+              "content": "main. [01 / 07 ISHOWSPEED IDENTITY MARKS WITH CHARACTER, CRAFT, AND PRESENCE. START A PROJECT VIE]",
+              "headerRect": {
+                "x": 0,
+                "y": 0,
+                "width": 360,
+                "height": 68,
+                "right": 360,
+                "bottom": 68
+              },
+              "contentRect": {
+                "x": 0,
+                "y": 0,
+                "width": 360,
+                "height": 8802,
+                "right": 360,
+                "bottom": 8802
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "broken selected work cards",
+        "severity": "medium",
+        "message": "2 work/project card candidate(s) look broken",
+        "details": {
+          "elements": [
+            {
+              "element": "div.project-kicker [ISHOWSPEED]",
+              "rect": {
+                "x": 39,
+                "y": 501,
+                "width": 85,
+                "height": 15,
+                "right": 124,
+                "bottom": 516
+              }
+            },
+            {
+              "element": "div.project-dashes",
+              "rect": {
+                "x": 39,
+                "y": 528,
+                "width": 150,
+                "height": 2,
+                "right": 189,
+                "bottom": 530
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "audit": {
+      "title": "ATHAYA DESIGNED - Sports Identity & Mascot Logo Design Studio",
+      "url": "http://127.0.0.1:5173/",
+      "viewport": {
+        "width": 360,
+        "height": 800
+      },
+      "pageSize": {
+        "scrollWidth": 360,
+        "clientWidth": 360,
+        "scrollHeight": 9086
+      },
+      "horizontalOverflow": false,
+      "overflowingElements": [],
+      "clippedText": [
+        {
+          "element": "div.capability-marquee [IDENTITY MARKS / MASCOT & CHARACTER IDENTITIES / ATHLETIC & SCHOOL BRANDING / BRAND GUIDEL]",
+          "rect": {
+            "x": 19,
+            "y": 1143,
+            "width": 321,
+            "height": 16,
+            "right": 341,
+            "bottom": 1159
+          },
+          "scrollWidth": 2368,
+          "clientWidth": 321,
+          "scrollHeight": 16,
+          "clientHeight": 16
+        },
+        {
+          "element": "figcaption. [TNB previous logo]",
+          "rect": {
+            "x": 20,
+            "y": 2113,
+            "width": 1,
+            "height": 1,
+            "right": 21,
+            "bottom": 2114
+          },
+          "scrollWidth": 63,
+          "clientWidth": 1,
+          "scrollHeight": 63,
+          "clientHeight": 1
+        }
+      ],
+      "brokenImages": [],
+      "headerOverlap": [
+        {
+          "header": "header.navbar",
+          "content": "main. [01 / 07 ISHOWSPEED IDENTITY MARKS WITH CHARACTER, CRAFT, AND PRESENCE. START A PROJECT VIE]",
+          "headerRect": {
+            "x": 0,
+            "y": 0,
+            "width": 360,
+            "height": 68,
+            "right": 360,
+            "bottom": 68
+          },
+          "contentRect": {
+            "x": 0,
+            "y": 0,
+            "width": 360,
+            "height": 8802,
+            "right": 360,
+            "bottom": 8802
+          }
+        }
+      ],
+      "ctaOverflow": [],
+      "carouselOverflow": [],
+      "brokenWorkCards": [
+        {
+          "element": "div.project-kicker [ISHOWSPEED]",
+          "rect": {
+            "x": 39,
+            "y": 501,
+            "width": 85,
+            "height": 15,
+            "right": 124,
+            "bottom": 516
+          }
+        },
+        {
+          "element": "div.project-dashes",
+          "rect": {
+            "x": 39,
+            "y": 528,
+            "width": 150,
+            "height": 2,
+            "right": 189,
+            "bottom": 530
+          }
+        }
+      ],
+      "brokenGalleries": [],
+      "pinnedIssues": [],
+      "footerOverflow": []
+    }
+  },
+  {
+    "route": "/work",
+    "viewport": "360x800",
+    "screenshot": "qa-screenshots/mobile/360x800__work.png",
+    "status": 200,
+    "durationMs": 2324,
+    "title": "Selected Work - Sports Identity, Mascot Logos & Athletic Branding | ATHAYA DESIGNED",
+    "issues": [
+      {
+        "type": "overlapping navbar/header",
+        "severity": "medium",
+        "message": "1 possible header overlap(s)",
+        "details": {
+          "overlaps": [
+            {
+              "header": "header.navbar",
+              "content": "main.work-page [SELECTED WORK SELECTED IDENTITY WORK. A collection of mascot marks, athletic identities, s]",
+              "headerRect": {
+                "x": 0,
+                "y": 0,
+                "width": 360,
+                "height": 68,
+                "right": 360,
+                "bottom": 68
+              },
+              "contentRect": {
+                "x": 0,
+                "y": 0,
+                "width": 360,
+                "height": 2908,
+                "right": 360,
+                "bottom": 2908
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "audit": {
+      "title": "Selected Work - Sports Identity, Mascot Logos & Athletic Branding | ATHAYA DESIGNED",
+      "url": "http://127.0.0.1:5173/work",
+      "viewport": {
+        "width": 360,
+        "height": 800
+      },
+      "pageSize": {
+        "scrollWidth": 360,
+        "clientWidth": 360,
+        "scrollHeight": 3192
+      },
+      "horizontalOverflow": false,
+      "overflowingElements": [],
+      "clippedText": [],
+      "brokenImages": [],
+      "headerOverlap": [
+        {
+          "header": "header.navbar",
+          "content": "main.work-page [SELECTED WORK SELECTED IDENTITY WORK. A collection of mascot marks, athletic identities, s]",
+          "headerRect": {
+            "x": 0,
+            "y": 0,
+            "width": 360,
+            "height": 68,
+            "right": 360,
+            "bottom": 68
+          },
+          "contentRect": {
+            "x": 0,
+            "y": 0,
+            "width": 360,
+            "height": 2908,
+            "right": 360,
+            "bottom": 2908
+          }
+        }
+      ],
+      "ctaOverflow": [],
+      "carouselOverflow": [],
+      "brokenWorkCards": [],
+      "brokenGalleries": [],
+      "pinnedIssues": [],
+      "footerOverflow": []
+    }
+  },
+  {
+    "route": "/work/thenationsbest",
+    "viewport": "360x800",
+    "screenshot": "qa-screenshots/mobile/360x800__work__thenationsbest.png",
+    "status": 200,
+    "durationMs": 3641,
+    "title": "The Nations Best - Brand Identity Case Study | ATHAYA DESIGNED",
+    "issues": [
+      {
+        "type": "overlapping navbar/header",
+        "severity": "medium",
+        "message": "1 possible header overlap(s)",
+        "details": {
+          "overlaps": [
+            {
+              "header": "header.navbar",
+              "content": "main.work-page.work-detail-page [BACK TO WORK BRAND IDENTITY / 2022 THE NATIONS BEST A complete esports identity for The Na]",
+              "headerRect": {
+                "x": 0,
+                "y": 0,
+                "width": 360,
+                "height": 68,
+                "right": 360,
+                "bottom": 68
+              },
+              "contentRect": {
+                "x": 0,
+                "y": 0,
+                "width": 360,
+                "height": 9687,
+                "right": 360,
+                "bottom": 9687
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "audit": {
+      "title": "The Nations Best - Brand Identity Case Study | ATHAYA DESIGNED",
+      "url": "http://127.0.0.1:5173/work/thenationsbest",
+      "viewport": {
+        "width": 360,
+        "height": 800
+      },
+      "pageSize": {
+        "scrollWidth": 360,
+        "clientWidth": 360,
+        "scrollHeight": 9971
+      },
+      "horizontalOverflow": false,
+      "overflowingElements": [],
+      "clippedText": [],
+      "brokenImages": [],
+      "headerOverlap": [
+        {
+          "header": "header.navbar",
+          "content": "main.work-page.work-detail-page [BACK TO WORK BRAND IDENTITY / 2022 THE NATIONS BEST A complete esports identity for The Na]",
+          "headerRect": {
+            "x": 0,
+            "y": 0,
+            "width": 360,
+            "height": 68,
+            "right": 360,
+            "bottom": 68
+          },
+          "contentRect": {
+            "x": 0,
+            "y": 0,
+            "width": 360,
+            "height": 9687,
+            "right": 360,
+            "bottom": 9687
+          }
+        }
+      ],
+      "ctaOverflow": [],
+      "carouselOverflow": [],
+      "brokenWorkCards": [],
+      "brokenGalleries": [],
+      "pinnedIssues": [],
+      "footerOverflow": []
+    }
+  },
+  {
+    "route": "/work/dfdc-logofolio",
+    "viewport": "360x800",
+    "screenshot": "qa-screenshots/mobile/360x800__work__dfdc-logofolio.png",
+    "status": 200,
+    "durationMs": 4294,
+    "title": "DFDC Lettermark Logofolio - Lettermark Case Study | ATHAYA DESIGNED",
+    "issues": [
+      {
+        "type": "overlapping navbar/header",
+        "severity": "medium",
+        "message": "1 possible header overlap(s)",
+        "details": {
+          "overlaps": [
+            {
+              "header": "header.navbar",
+              "content": "main.work-page.work-detail-page [BACK TO WORK LETTERMARK / 2026 DFDC LETTERMARK LOGOFOLIO A collection of custom lettermark]",
+              "headerRect": {
+                "x": 0,
+                "y": 0,
+                "width": 360,
+                "height": 68,
+                "right": 360,
+                "bottom": 68
+              },
+              "contentRect": {
+                "x": 0,
+                "y": 0,
+                "width": 360,
+                "height": 12449,
+                "right": 360,
+                "bottom": 12449
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "audit": {
+      "title": "DFDC Lettermark Logofolio - Lettermark Case Study | ATHAYA DESIGNED",
+      "url": "http://127.0.0.1:5173/work/dfdc-logofolio",
+      "viewport": {
+        "width": 360,
+        "height": 800
+      },
+      "pageSize": {
+        "scrollWidth": 360,
+        "clientWidth": 360,
+        "scrollHeight": 12733
+      },
+      "horizontalOverflow": false,
+      "overflowingElements": [],
+      "clippedText": [],
+      "brokenImages": [],
+      "headerOverlap": [
+        {
+          "header": "header.navbar",
+          "content": "main.work-page.work-detail-page [BACK TO WORK LETTERMARK / 2026 DFDC LETTERMARK LOGOFOLIO A collection of custom lettermark]",
+          "headerRect": {
+            "x": 0,
+            "y": 0,
+            "width": 360,
+            "height": 68,
+            "right": 360,
+            "bottom": 68
+          },
+          "contentRect": {
+            "x": 0,
+            "y": 0,
+            "width": 360,
+            "height": 12449,
+            "right": 360,
+            "bottom": 12449
+          }
+        }
+      ],
+      "ctaOverflow": [],
+      "carouselOverflow": [],
+      "brokenWorkCards": [],
+      "brokenGalleries": [],
+      "pinnedIssues": [],
+      "footerOverflow": []
+    }
+  },
+  {
+    "route": "/work/quick-showcase",
+    "viewport": "360x800",
+    "screenshot": "qa-screenshots/mobile/360x800__work__quick-showcase.png",
+    "status": 200,
+    "durationMs": 4721,
+    "title": "Quick Showcase - Mascot Logo Case Study | ATHAYA DESIGNED",
+    "issues": [
+      {
+        "type": "overlapping navbar/header",
+        "severity": "medium",
+        "message": "1 possible header overlap(s)",
+        "details": {
+          "overlaps": [
+            {
+              "header": "header.navbar",
+              "content": "main.work-page.work-detail-page [BACK TO WORK MASCOT LOGO / 2022-2026 QUICK SHOWCASE A curated visual archive collecting ma]",
+              "headerRect": {
+                "x": 0,
+                "y": 0,
+                "width": 360,
+                "height": 68,
+                "right": 360,
+                "bottom": 68
+              },
+              "contentRect": {
+                "x": 0,
+                "y": 0,
+                "width": 360,
+                "height": 13249,
+                "right": 360,
+                "bottom": 13249
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "audit": {
+      "title": "Quick Showcase - Mascot Logo Case Study | ATHAYA DESIGNED",
+      "url": "http://127.0.0.1:5173/work/quick-showcase",
+      "viewport": {
+        "width": 360,
+        "height": 800
+      },
+      "pageSize": {
+        "scrollWidth": 360,
+        "clientWidth": 360,
+        "scrollHeight": 13533
+      },
+      "horizontalOverflow": false,
+      "overflowingElements": [],
+      "clippedText": [],
+      "brokenImages": [],
+      "headerOverlap": [
+        {
+          "header": "header.navbar",
+          "content": "main.work-page.work-detail-page [BACK TO WORK MASCOT LOGO / 2022-2026 QUICK SHOWCASE A curated visual archive collecting ma]",
+          "headerRect": {
+            "x": 0,
+            "y": 0,
+            "width": 360,
+            "height": 68,
+            "right": 360,
+            "bottom": 68
+          },
+          "contentRect": {
+            "x": 0,
+            "y": 0,
+            "width": 360,
+            "height": 13249,
+            "right": 360,
+            "bottom": 13249
+          }
+        }
+      ],
+      "ctaOverflow": [],
+      "carouselOverflow": [],
+      "brokenWorkCards": [],
+      "brokenGalleries": [],
+      "pinnedIssues": [],
+      "footerOverflow": []
+    }
+  },
+  {
+    "route": "/fonts",
+    "viewport": "360x800",
+    "screenshot": "qa-screenshots/mobile/360x800__fonts.png",
+    "status": 200,
+    "durationMs": 2648,
+    "title": "ATHAYA DESIGNED Fonts - Display Typefaces for Sports Brands",
+    "issues": [
+      {
+        "type": "overlapping navbar/header",
+        "severity": "medium",
+        "message": "1 possible header overlap(s)",
+        "details": {
+          "overlaps": [
+            {
+              "header": "header.navbar",
+              "content": "main.fonts-page [ATHAYA DESIGNED FONTS ATHAYA DESIGNED FONTS. A growing collection of display fonts, sports]",
+              "headerRect": {
+                "x": 0,
+                "y": 0,
+                "width": 360,
+                "height": 68,
+                "right": 360,
+                "bottom": 68
+              },
+              "contentRect": {
+                "x": 0,
+                "y": 0,
+                "width": 360,
+                "height": 3412,
+                "right": 360,
+                "bottom": 3412
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "audit": {
+      "title": "ATHAYA DESIGNED Fonts - Display Typefaces for Sports Brands",
+      "url": "http://127.0.0.1:5173/fonts",
+      "viewport": {
+        "width": 360,
+        "height": 800
+      },
+      "pageSize": {
+        "scrollWidth": 360,
+        "clientWidth": 360,
+        "scrollHeight": 3696
+      },
+      "horizontalOverflow": false,
+      "overflowingElements": [],
+      "clippedText": [],
+      "brokenImages": [],
+      "headerOverlap": [
+        {
+          "header": "header.navbar",
+          "content": "main.fonts-page [ATHAYA DESIGNED FONTS ATHAYA DESIGNED FONTS. A growing collection of display fonts, sports]",
+          "headerRect": {
+            "x": 0,
+            "y": 0,
+            "width": 360,
+            "height": 68,
+            "right": 360,
+            "bottom": 68
+          },
+          "contentRect": {
+            "x": 0,
+            "y": 0,
+            "width": 360,
+            "height": 3412,
+            "right": 360,
+            "bottom": 3412
+          }
+        }
+      ],
+      "ctaOverflow": [],
+      "carouselOverflow": [],
+      "brokenWorkCards": [],
+      "brokenGalleries": [],
+      "pinnedIssues": [],
+      "footerOverflow": []
+    }
+  },
+  {
+    "route": "/fonts/azn-knuckles",
+    "viewport": "360x800",
+    "screenshot": "qa-screenshots/mobile/360x800__fonts__azn-knuckles.png",
+    "status": 200,
+    "durationMs": 2397,
+    "title": "AZN Knuckles - Display Typeface for Sports Graphics | ATHAYA DESIGNED",
+    "issues": [
+      {
+        "type": "overlapping navbar/header",
+        "severity": "medium",
+        "message": "1 possible header overlap(s)",
+        "details": {
+          "overlaps": [
+            {
+              "header": "header.navbar",
+              "content": "main.fonts-page.font-detail-page [BACK TO FONTS SPORTS LETTERING FONT AZN KNUCKLES Ironline Display is shaped for athletic i]",
+              "headerRect": {
+                "x": 0,
+                "y": 0,
+                "width": 360,
+                "height": 68,
+                "right": 360,
+                "bottom": 68
+              },
+              "contentRect": {
+                "x": 0,
+                "y": 0,
+                "width": 360,
+                "height": 3174,
+                "right": 360,
+                "bottom": 3174
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "audit": {
+      "title": "AZN Knuckles - Display Typeface for Sports Graphics | ATHAYA DESIGNED",
+      "url": "http://127.0.0.1:5173/fonts/azn-knuckles",
+      "viewport": {
+        "width": 360,
+        "height": 800
+      },
+      "pageSize": {
+        "scrollWidth": 360,
+        "clientWidth": 360,
+        "scrollHeight": 3458
+      },
+      "horizontalOverflow": false,
+      "overflowingElements": [],
+      "clippedText": [],
+      "brokenImages": [],
+      "headerOverlap": [
+        {
+          "header": "header.navbar",
+          "content": "main.fonts-page.font-detail-page [BACK TO FONTS SPORTS LETTERING FONT AZN KNUCKLES Ironline Display is shaped for athletic i]",
+          "headerRect": {
+            "x": 0,
+            "y": 0,
+            "width": 360,
+            "height": 68,
+            "right": 360,
+            "bottom": 68
+          },
+          "contentRect": {
+            "x": 0,
+            "y": 0,
+            "width": 360,
+            "height": 3174,
+            "right": 360,
+            "bottom": 3174
+          }
+        }
+      ],
+      "ctaOverflow": [],
+      "carouselOverflow": [],
+      "brokenWorkCards": [],
+      "brokenGalleries": [],
+      "pinnedIssues": [],
+      "footerOverflow": []
+    }
+  },
+  {
+    "route": "/about",
+    "viewport": "360x800",
+    "screenshot": "qa-screenshots/mobile/360x800__about.png",
+    "status": 200,
+    "durationMs": 2745,
+    "title": "About ATHAYA DESIGNED - Independent Sports Identity Designer",
+    "issues": [
+      {
+        "type": "overlapping navbar/header",
+        "severity": "medium",
+        "message": "1 possible header overlap(s)",
+        "details": {
+          "overlaps": [
+            {
+              "header": "header.navbar",
+              "content": "main.about-page [ABOUT ATHAYA DESIGNED INDEPENDENT IDENTITY DESIGN PRACTICE Character-driven identity desig]",
+              "headerRect": {
+                "x": 0,
+                "y": 0,
+                "width": 360,
+                "height": 68,
+                "right": 360,
+                "bottom": 68
+              },
+              "contentRect": {
+                "x": 0,
+                "y": 0,
+                "width": 360,
+                "height": 4963,
+                "right": 360,
+                "bottom": 4963
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "audit": {
+      "title": "About ATHAYA DESIGNED - Independent Sports Identity Designer",
+      "url": "http://127.0.0.1:5173/about",
+      "viewport": {
+        "width": 360,
+        "height": 800
+      },
+      "pageSize": {
+        "scrollWidth": 360,
+        "clientWidth": 360,
+        "scrollHeight": 5247
+      },
+      "horizontalOverflow": false,
+      "overflowingElements": [],
+      "clippedText": [],
+      "brokenImages": [],
+      "headerOverlap": [
+        {
+          "header": "header.navbar",
+          "content": "main.about-page [ABOUT ATHAYA DESIGNED INDEPENDENT IDENTITY DESIGN PRACTICE Character-driven identity desig]",
+          "headerRect": {
+            "x": 0,
+            "y": 0,
+            "width": 360,
+            "height": 68,
+            "right": 360,
+            "bottom": 68
+          },
+          "contentRect": {
+            "x": 0,
+            "y": 0,
+            "width": 360,
+            "height": 4963,
+            "right": 360,
+            "bottom": 4963
+          }
+        }
+      ],
+      "ctaOverflow": [],
+      "carouselOverflow": [],
+      "brokenWorkCards": [],
+      "brokenGalleries": [],
+      "pinnedIssues": [],
+      "footerOverflow": []
+    }
+  },
+  {
+    "route": "/services",
+    "viewport": "360x800",
+    "screenshot": "qa-screenshots/mobile/360x800__services.png",
+    "status": 200,
+    "durationMs": 2507,
+    "title": "Services - Mascot Logo, Athletic Identity & School Branding",
+    "issues": [
+      {
+        "type": "clipped text",
+        "severity": "medium",
+        "message": "4 visible text element(s) appear clipped",
+        "details": {
+          "elements": [
+            {
+              "element": "li.process-card.process-card--with-image [01 DISCOVER BRIEF]",
+              "rect": {
+                "x": 19,
+                "y": 2698,
+                "width": 321,
+                "height": 222,
+                "right": 341,
+                "bottom": 2920
+              },
+              "scrollWidth": 322,
+              "clientWidth": 319,
+              "scrollHeight": 222,
+              "clientHeight": 220
+            },
+            {
+              "element": "li.process-card.process-card--with-image [02 EXPLORE SKETCH]",
+              "rect": {
+                "x": 19,
+                "y": 2930,
+                "width": 321,
+                "height": 222,
+                "right": 341,
+                "bottom": 3152
+              },
+              "scrollWidth": 322,
+              "clientWidth": 319,
+              "scrollHeight": 222,
+              "clientHeight": 220
+            },
+            {
+              "element": "li.process-card.process-card--with-image [03 DESIGN OUTLINE]",
+              "rect": {
+                "x": 19,
+                "y": 3162,
+                "width": 321,
+                "height": 222,
+                "right": 341,
+                "bottom": 3384
+              },
+              "scrollWidth": 322,
+              "clientWidth": 319,
+              "scrollHeight": 222,
+              "clientHeight": 220
+            },
+            {
+              "element": "li.process-card.process-card--with-image [04 DELIVER ROLLOUT]",
+              "rect": {
+                "x": 19,
+                "y": 3394,
+                "width": 321,
+                "height": 222,
+                "right": 341,
+                "bottom": 3616
+              },
+              "scrollWidth": 322,
+              "clientWidth": 319,
+              "scrollHeight": 222,
+              "clientHeight": 220
+            }
+          ]
+        }
+      },
+      {
+        "type": "overlapping navbar/header",
+        "severity": "medium",
+        "message": "1 possible header overlap(s)",
+        "details": {
+          "overlaps": [
+            {
+              "header": "header.navbar",
+              "content": "main.services-page [SERVICES IDENTITY DESIGN SERVICES Premium identity design services for teams, schools, clu]",
+              "headerRect": {
+                "x": 0,
+                "y": 0,
+                "width": 360,
+                "height": 68,
+                "right": 360,
+                "bottom": 68
+              },
+              "contentRect": {
+                "x": 0,
+                "y": 0,
+                "width": 360,
+                "height": 4205,
+                "right": 360,
+                "bottom": 4205
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "audit": {
+      "title": "Services - Mascot Logo, Athletic Identity & School Branding",
+      "url": "http://127.0.0.1:5173/services",
+      "viewport": {
+        "width": 360,
+        "height": 800
+      },
+      "pageSize": {
+        "scrollWidth": 360,
+        "clientWidth": 360,
+        "scrollHeight": 4489
+      },
+      "horizontalOverflow": false,
+      "overflowingElements": [],
+      "clippedText": [
+        {
+          "element": "li.process-card.process-card--with-image [01 DISCOVER BRIEF]",
+          "rect": {
+            "x": 19,
+            "y": 2698,
+            "width": 321,
+            "height": 222,
+            "right": 341,
+            "bottom": 2920
+          },
+          "scrollWidth": 322,
+          "clientWidth": 319,
+          "scrollHeight": 222,
+          "clientHeight": 220
+        },
+        {
+          "element": "li.process-card.process-card--with-image [02 EXPLORE SKETCH]",
+          "rect": {
+            "x": 19,
+            "y": 2930,
+            "width": 321,
+            "height": 222,
+            "right": 341,
+            "bottom": 3152
+          },
+          "scrollWidth": 322,
+          "clientWidth": 319,
+          "scrollHeight": 222,
+          "clientHeight": 220
+        },
+        {
+          "element": "li.process-card.process-card--with-image [03 DESIGN OUTLINE]",
+          "rect": {
+            "x": 19,
+            "y": 3162,
+            "width": 321,
+            "height": 222,
+            "right": 341,
+            "bottom": 3384
+          },
+          "scrollWidth": 322,
+          "clientWidth": 319,
+          "scrollHeight": 222,
+          "clientHeight": 220
+        },
+        {
+          "element": "li.process-card.process-card--with-image [04 DELIVER ROLLOUT]",
+          "rect": {
+            "x": 19,
+            "y": 3394,
+            "width": 321,
+            "height": 222,
+            "right": 341,
+            "bottom": 3616
+          },
+          "scrollWidth": 322,
+          "clientWidth": 319,
+          "scrollHeight": 222,
+          "clientHeight": 220
+        }
+      ],
+      "brokenImages": [],
+      "headerOverlap": [
+        {
+          "header": "header.navbar",
+          "content": "main.services-page [SERVICES IDENTITY DESIGN SERVICES Premium identity design services for teams, schools, clu]",
+          "headerRect": {
+            "x": 0,
+            "y": 0,
+            "width": 360,
+            "height": 68,
+            "right": 360,
+            "bottom": 68
+          },
+          "contentRect": {
+            "x": 0,
+            "y": 0,
+            "width": 360,
+            "height": 4205,
+            "right": 360,
+            "bottom": 4205
+          }
+        }
+      ],
+      "ctaOverflow": [],
+      "carouselOverflow": [],
+      "brokenWorkCards": [],
+      "brokenGalleries": [],
+      "pinnedIssues": [],
+      "footerOverflow": []
+    }
+  },
+  {
+    "route": "/contact",
+    "viewport": "360x800",
+    "screenshot": "qa-screenshots/mobile/360x800__contact.png",
+    "status": 200,
+    "durationMs": 2542,
+    "title": "Start a Project - ATHAYA DESIGNED",
+    "issues": [
+      {
+        "type": "overlapping navbar/header",
+        "severity": "medium",
+        "message": "1 possible header overlap(s)",
+        "details": {
+          "overlaps": [
+            {
+              "header": "header.navbar",
+              "content": "main.contact-page [CONTACT START A PROJECT Tell me about your team, school, brand, or identity project. I wil]",
+              "headerRect": {
+                "x": 0,
+                "y": 0,
+                "width": 360,
+                "height": 68,
+                "right": 360,
+                "bottom": 68
+              },
+              "contentRect": {
+                "x": 0,
+                "y": 0,
+                "width": 360,
+                "height": 2320,
+                "right": 360,
+                "bottom": 2320
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "audit": {
+      "title": "Start a Project - ATHAYA DESIGNED",
+      "url": "http://127.0.0.1:5173/contact",
+      "viewport": {
+        "width": 360,
+        "height": 800
+      },
+      "pageSize": {
+        "scrollWidth": 360,
+        "clientWidth": 360,
+        "scrollHeight": 2604
+      },
+      "horizontalOverflow": false,
+      "overflowingElements": [],
+      "clippedText": [],
+      "brokenImages": [],
+      "headerOverlap": [
+        {
+          "header": "header.navbar",
+          "content": "main.contact-page [CONTACT START A PROJECT Tell me about your team, school, brand, or identity project. I wil]",
+          "headerRect": {
+            "x": 0,
+            "y": 0,
+            "width": 360,
+            "height": 68,
+            "right": 360,
+            "bottom": 68
+          },
+          "contentRect": {
+            "x": 0,
+            "y": 0,
+            "width": 360,
+            "height": 2320,
+            "right": 360,
+            "bottom": 2320
+          }
+        }
+      ],
+      "ctaOverflow": [],
+      "carouselOverflow": [],
+      "brokenWorkCards": [],
+      "brokenGalleries": [],
+      "pinnedIssues": [],
+      "footerOverflow": []
+    }
+  },
+  {
+    "route": "/admin",
+    "viewport": "360x800",
+    "screenshot": "qa-screenshots/mobile/360x800__admin.png",
+    "status": 200,
+    "durationMs": 1718,
+    "title": "ATHAYA DESIGNED - Sports Identity & Mascot Logo Design Studio",
+    "issues": [],
+    "audit": {
+      "title": "ATHAYA DESIGNED - Sports Identity & Mascot Logo Design Studio",
+      "url": "http://127.0.0.1:5173/admin",
+      "viewport": {
+        "width": 360,
+        "height": 800
+      },
+      "pageSize": {
+        "scrollWidth": 360,
+        "clientWidth": 360,
+        "scrollHeight": 800
+      },
+      "horizontalOverflow": false,
+      "overflowingElements": [],
+      "clippedText": [],
+      "brokenImages": [],
+      "headerOverlap": [],
+      "ctaOverflow": [],
+      "carouselOverflow": [],
+      "brokenWorkCards": [],
+      "brokenGalleries": [],
+      "pinnedIssues": [],
+      "footerOverflow": []
+    }
+  },
+  {
+    "route": "/",
+    "viewport": "390x844",
+    "screenshot": "qa-screenshots/mobile/390x844__home.png",
+    "status": 200,
+    "durationMs": 3914,
+    "title": "ATHAYA DESIGNED - Sports Identity & Mascot Logo Design Studio",
+    "issues": [
+      {
+        "type": "clipped text",
+        "severity": "medium",
+        "message": "2 visible text element(s) appear clipped",
+        "details": {
+          "elements": [
+            {
+              "element": "div.capability-marquee [IDENTITY MARKS / MASCOT & CHARACTER IDENTITIES / ATHLETIC & SCHOOL BRANDING / BRAND GUIDEL]",
+              "rect": {
+                "x": 21,
+                "y": 1159,
+                "width": 348,
+                "height": 16,
+                "right": 369,
+                "bottom": 1175
+              },
+              "scrollWidth": 2368,
+              "clientWidth": 348,
+              "scrollHeight": 16,
+              "clientHeight": 16
+            },
+            {
+              "element": "figcaption. [TNB previous logo]",
+              "rect": {
+                "x": 22,
+                "y": 2129,
+                "width": 1,
+                "height": 1,
+                "right": 23,
+                "bottom": 2130
+              },
+              "scrollWidth": 63,
+              "clientWidth": 1,
+              "scrollHeight": 63,
+              "clientHeight": 1
+            }
+          ]
+        }
+      },
+      {
+        "type": "overlapping navbar/header",
+        "severity": "medium",
+        "message": "1 possible header overlap(s)",
+        "details": {
+          "overlaps": [
+            {
+              "header": "header.navbar",
+              "content": "main. [01 / 07 ISHOWSPEED IDENTITY MARKS WITH CHARACTER, CRAFT, AND PRESENCE. START A PROJECT VIE]",
+              "headerRect": {
+                "x": 0,
+                "y": 0,
+                "width": 390,
+                "height": 68,
+                "right": 390,
+                "bottom": 68
+              },
+              "contentRect": {
+                "x": 0,
+                "y": 0,
+                "width": 390,
+                "height": 8962,
+                "right": 390,
+                "bottom": 8962
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "broken selected work cards",
+        "severity": "medium",
+        "message": "2 work/project card candidate(s) look broken",
+        "details": {
+          "elements": [
+            {
+              "element": "div.project-kicker [ISHOWSPEED]",
+              "rect": {
+                "x": 42,
+                "y": 526,
+                "width": 92,
+                "height": 17,
+                "right": 134,
+                "bottom": 542
+              }
+            },
+            {
+              "element": "div.project-dashes",
+              "rect": {
+                "x": 42,
+                "y": 554,
+                "width": 150,
+                "height": 2,
+                "right": 192,
+                "bottom": 556
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "audit": {
+      "title": "ATHAYA DESIGNED - Sports Identity & Mascot Logo Design Studio",
+      "url": "http://127.0.0.1:5173/",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "pageSize": {
+        "scrollWidth": 390,
+        "clientWidth": 390,
+        "scrollHeight": 9214
+      },
+      "horizontalOverflow": false,
+      "overflowingElements": [],
+      "clippedText": [
+        {
+          "element": "div.capability-marquee [IDENTITY MARKS / MASCOT & CHARACTER IDENTITIES / ATHLETIC & SCHOOL BRANDING / BRAND GUIDEL]",
+          "rect": {
+            "x": 21,
+            "y": 1159,
+            "width": 348,
+            "height": 16,
+            "right": 369,
+            "bottom": 1175
+          },
+          "scrollWidth": 2368,
+          "clientWidth": 348,
+          "scrollHeight": 16,
+          "clientHeight": 16
+        },
+        {
+          "element": "figcaption. [TNB previous logo]",
+          "rect": {
+            "x": 22,
+            "y": 2129,
+            "width": 1,
+            "height": 1,
+            "right": 23,
+            "bottom": 2130
+          },
+          "scrollWidth": 63,
+          "clientWidth": 1,
+          "scrollHeight": 63,
+          "clientHeight": 1
+        }
+      ],
+      "brokenImages": [],
+      "headerOverlap": [
+        {
+          "header": "header.navbar",
+          "content": "main. [01 / 07 ISHOWSPEED IDENTITY MARKS WITH CHARACTER, CRAFT, AND PRESENCE. START A PROJECT VIE]",
+          "headerRect": {
+            "x": 0,
+            "y": 0,
+            "width": 390,
+            "height": 68,
+            "right": 390,
+            "bottom": 68
+          },
+          "contentRect": {
+            "x": 0,
+            "y": 0,
+            "width": 390,
+            "height": 8962,
+            "right": 390,
+            "bottom": 8962
+          }
+        }
+      ],
+      "ctaOverflow": [],
+      "carouselOverflow": [],
+      "brokenWorkCards": [
+        {
+          "element": "div.project-kicker [ISHOWSPEED]",
+          "rect": {
+            "x": 42,
+            "y": 526,
+            "width": 92,
+            "height": 17,
+            "right": 134,
+            "bottom": 542
+          }
+        },
+        {
+          "element": "div.project-dashes",
+          "rect": {
+            "x": 42,
+            "y": 554,
+            "width": 150,
+            "height": 2,
+            "right": 192,
+            "bottom": 556
+          }
+        }
+      ],
+      "brokenGalleries": [],
+      "pinnedIssues": [],
+      "footerOverflow": []
+    }
+  },
+  {
+    "route": "/work",
+    "viewport": "390x844",
+    "screenshot": "qa-screenshots/mobile/390x844__work.png",
+    "status": 200,
+    "durationMs": 2466,
+    "title": "Selected Work - Sports Identity, Mascot Logos & Athletic Branding | ATHAYA DESIGNED",
+    "issues": [
+      {
+        "type": "overlapping navbar/header",
+        "severity": "medium",
+        "message": "1 possible header overlap(s)",
+        "details": {
+          "overlaps": [
+            {
+              "header": "header.navbar",
+              "content": "main.work-page [SELECTED WORK SELECTED IDENTITY WORK. A collection of mascot marks, athletic identities, s]",
+              "headerRect": {
+                "x": 0,
+                "y": 0,
+                "width": 390,
+                "height": 68,
+                "right": 390,
+                "bottom": 68
+              },
+              "contentRect": {
+                "x": 0,
+                "y": 0,
+                "width": 390,
+                "height": 3090,
+                "right": 390,
+                "bottom": 3090
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "audit": {
+      "title": "Selected Work - Sports Identity, Mascot Logos & Athletic Branding | ATHAYA DESIGNED",
+      "url": "http://127.0.0.1:5173/work",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "pageSize": {
+        "scrollWidth": 390,
+        "clientWidth": 390,
+        "scrollHeight": 3342
+      },
+      "horizontalOverflow": false,
+      "overflowingElements": [],
+      "clippedText": [],
+      "brokenImages": [],
+      "headerOverlap": [
+        {
+          "header": "header.navbar",
+          "content": "main.work-page [SELECTED WORK SELECTED IDENTITY WORK. A collection of mascot marks, athletic identities, s]",
+          "headerRect": {
+            "x": 0,
+            "y": 0,
+            "width": 390,
+            "height": 68,
+            "right": 390,
+            "bottom": 68
+          },
+          "contentRect": {
+            "x": 0,
+            "y": 0,
+            "width": 390,
+            "height": 3090,
+            "right": 390,
+            "bottom": 3090
+          }
+        }
+      ],
+      "ctaOverflow": [],
+      "carouselOverflow": [],
+      "brokenWorkCards": [],
+      "brokenGalleries": [],
+      "pinnedIssues": [],
+      "footerOverflow": []
+    }
+  },
+  {
+    "route": "/work/thenationsbest",
+    "viewport": "390x844",
+    "screenshot": "qa-screenshots/mobile/390x844__work__thenationsbest.png",
+    "status": 200,
+    "durationMs": 3741,
+    "title": "The Nations Best - Brand Identity Case Study | ATHAYA DESIGNED",
+    "issues": [
+      {
+        "type": "overlapping navbar/header",
+        "severity": "medium",
+        "message": "1 possible header overlap(s)",
+        "details": {
+          "overlaps": [
+            {
+              "header": "header.navbar",
+              "content": "main.work-page.work-detail-page [BACK TO WORK BRAND IDENTITY / 2022 THE NATIONS BEST A complete esports identity for The Na]",
+              "headerRect": {
+                "x": 0,
+                "y": 0,
+                "width": 390,
+                "height": 68,
+                "right": 390,
+                "bottom": 68
+              },
+              "contentRect": {
+                "x": 0,
+                "y": 0,
+                "width": 390,
+                "height": 10013,
+                "right": 390,
+                "bottom": 10013
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "audit": {
+      "title": "The Nations Best - Brand Identity Case Study | ATHAYA DESIGNED",
+      "url": "http://127.0.0.1:5173/work/thenationsbest",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "pageSize": {
+        "scrollWidth": 390,
+        "clientWidth": 390,
+        "scrollHeight": 10265
+      },
+      "horizontalOverflow": false,
+      "overflowingElements": [],
+      "clippedText": [],
+      "brokenImages": [],
+      "headerOverlap": [
+        {
+          "header": "header.navbar",
+          "content": "main.work-page.work-detail-page [BACK TO WORK BRAND IDENTITY / 2022 THE NATIONS BEST A complete esports identity for The Na]",
+          "headerRect": {
+            "x": 0,
+            "y": 0,
+            "width": 390,
+            "height": 68,
+            "right": 390,
+            "bottom": 68
+          },
+          "contentRect": {
+            "x": 0,
+            "y": 0,
+            "width": 390,
+            "height": 10013,
+            "right": 390,
+            "bottom": 10013
+          }
+        }
+      ],
+      "ctaOverflow": [],
+      "carouselOverflow": [],
+      "brokenWorkCards": [],
+      "brokenGalleries": [],
+      "pinnedIssues": [],
+      "footerOverflow": []
+    }
+  },
+  {
+    "route": "/work/dfdc-logofolio",
+    "viewport": "390x844",
+    "screenshot": "qa-screenshots/mobile/390x844__work__dfdc-logofolio.png",
+    "status": 200,
+    "durationMs": 4178,
+    "title": "DFDC Lettermark Logofolio - Lettermark Case Study | ATHAYA DESIGNED",
+    "issues": [
+      {
+        "type": "overlapping navbar/header",
+        "severity": "medium",
+        "message": "1 possible header overlap(s)",
+        "details": {
+          "overlaps": [
+            {
+              "header": "header.navbar",
+              "content": "main.work-page.work-detail-page [BACK TO WORK LETTERMARK / 2026 DFDC LETTERMARK LOGOFOLIO A collection of custom lettermark]",
+              "headerRect": {
+                "x": 0,
+                "y": 0,
+                "width": 390,
+                "height": 68,
+                "right": 390,
+                "bottom": 68
+              },
+              "contentRect": {
+                "x": 0,
+                "y": 0,
+                "width": 390,
+                "height": 13077,
+                "right": 390,
+                "bottom": 13077
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "audit": {
+      "title": "DFDC Lettermark Logofolio - Lettermark Case Study | ATHAYA DESIGNED",
+      "url": "http://127.0.0.1:5173/work/dfdc-logofolio",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "pageSize": {
+        "scrollWidth": 390,
+        "clientWidth": 390,
+        "scrollHeight": 13329
+      },
+      "horizontalOverflow": false,
+      "overflowingElements": [],
+      "clippedText": [],
+      "brokenImages": [],
+      "headerOverlap": [
+        {
+          "header": "header.navbar",
+          "content": "main.work-page.work-detail-page [BACK TO WORK LETTERMARK / 2026 DFDC LETTERMARK LOGOFOLIO A collection of custom lettermark]",
+          "headerRect": {
+            "x": 0,
+            "y": 0,
+            "width": 390,
+            "height": 68,
+            "right": 390,
+            "bottom": 68
+          },
+          "contentRect": {
+            "x": 0,
+            "y": 0,
+            "width": 390,
+            "height": 13077,
+            "right": 390,
+            "bottom": 13077
+          }
+        }
+      ],
+      "ctaOverflow": [],
+      "carouselOverflow": [],
+      "brokenWorkCards": [],
+      "brokenGalleries": [],
+      "pinnedIssues": [],
+      "footerOverflow": []
+    }
+  },
+  {
+    "route": "/work/quick-showcase",
+    "viewport": "390x844",
+    "screenshot": "qa-screenshots/mobile/390x844__work__quick-showcase.png",
+    "status": 200,
+    "durationMs": 4752,
+    "title": "Quick Showcase - Mascot Logo Case Study | ATHAYA DESIGNED",
+    "issues": [
+      {
+        "type": "overlapping navbar/header",
+        "severity": "medium",
+        "message": "1 possible header overlap(s)",
+        "details": {
+          "overlaps": [
+            {
+              "header": "header.navbar",
+              "content": "main.work-page.work-detail-page [BACK TO WORK MASCOT LOGO / 2022-2026 QUICK SHOWCASE A curated visual archive collecting ma]",
+              "headerRect": {
+                "x": 0,
+                "y": 0,
+                "width": 390,
+                "height": 68,
+                "right": 390,
+                "bottom": 68
+              },
+              "contentRect": {
+                "x": 0,
+                "y": 0,
+                "width": 390,
+                "height": 13997,
+                "right": 390,
+                "bottom": 13997
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "audit": {
+      "title": "Quick Showcase - Mascot Logo Case Study | ATHAYA DESIGNED",
+      "url": "http://127.0.0.1:5173/work/quick-showcase",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "pageSize": {
+        "scrollWidth": 390,
+        "clientWidth": 390,
+        "scrollHeight": 14249
+      },
+      "horizontalOverflow": false,
+      "overflowingElements": [],
+      "clippedText": [],
+      "brokenImages": [],
+      "headerOverlap": [
+        {
+          "header": "header.navbar",
+          "content": "main.work-page.work-detail-page [BACK TO WORK MASCOT LOGO / 2022-2026 QUICK SHOWCASE A curated visual archive collecting ma]",
+          "headerRect": {
+            "x": 0,
+            "y": 0,
+            "width": 390,
+            "height": 68,
+            "right": 390,
+            "bottom": 68
+          },
+          "contentRect": {
+            "x": 0,
+            "y": 0,
+            "width": 390,
+            "height": 13997,
+            "right": 390,
+            "bottom": 13997
+          }
+        }
+      ],
+      "ctaOverflow": [],
+      "carouselOverflow": [],
+      "brokenWorkCards": [],
+      "brokenGalleries": [],
+      "pinnedIssues": [],
+      "footerOverflow": []
+    }
+  },
+  {
+    "route": "/fonts",
+    "viewport": "390x844",
+    "screenshot": "qa-screenshots/mobile/390x844__fonts.png",
+    "status": 200,
+    "durationMs": 2396,
+    "title": "ATHAYA DESIGNED Fonts - Display Typefaces for Sports Brands",
+    "issues": [
+      {
+        "type": "overlapping navbar/header",
+        "severity": "medium",
+        "message": "1 possible header overlap(s)",
+        "details": {
+          "overlaps": [
+            {
+              "header": "header.navbar",
+              "content": "main.fonts-page [ATHAYA DESIGNED FONTS ATHAYA DESIGNED FONTS. A growing collection of display fonts, sports]",
+              "headerRect": {
+                "x": 0,
+                "y": 0,
+                "width": 390,
+                "height": 68,
+                "right": 390,
+                "bottom": 68
+              },
+              "contentRect": {
+                "x": 0,
+                "y": 0,
+                "width": 390,
+                "height": 3489,
+                "right": 390,
+                "bottom": 3489
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "audit": {
+      "title": "ATHAYA DESIGNED Fonts - Display Typefaces for Sports Brands",
+      "url": "http://127.0.0.1:5173/fonts",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "pageSize": {
+        "scrollWidth": 390,
+        "clientWidth": 390,
+        "scrollHeight": 3741
+      },
+      "horizontalOverflow": false,
+      "overflowingElements": [],
+      "clippedText": [],
+      "brokenImages": [],
+      "headerOverlap": [
+        {
+          "header": "header.navbar",
+          "content": "main.fonts-page [ATHAYA DESIGNED FONTS ATHAYA DESIGNED FONTS. A growing collection of display fonts, sports]",
+          "headerRect": {
+            "x": 0,
+            "y": 0,
+            "width": 390,
+            "height": 68,
+            "right": 390,
+            "bottom": 68
+          },
+          "contentRect": {
+            "x": 0,
+            "y": 0,
+            "width": 390,
+            "height": 3489,
+            "right": 390,
+            "bottom": 3489
+          }
+        }
+      ],
+      "ctaOverflow": [],
+      "carouselOverflow": [],
+      "brokenWorkCards": [],
+      "brokenGalleries": [],
+      "pinnedIssues": [],
+      "footerOverflow": []
+    }
+  },
+  {
+    "route": "/fonts/azn-knuckles",
+    "viewport": "390x844",
+    "screenshot": "qa-screenshots/mobile/390x844__fonts__azn-knuckles.png",
+    "status": 200,
+    "durationMs": 2205,
+    "title": "AZN Knuckles - Display Typeface for Sports Graphics | ATHAYA DESIGNED",
+    "issues": [
+      {
+        "type": "overlapping navbar/header",
+        "severity": "medium",
+        "message": "1 possible header overlap(s)",
+        "details": {
+          "overlaps": [
+            {
+              "header": "header.navbar",
+              "content": "main.fonts-page.font-detail-page [BACK TO FONTS SPORTS LETTERING FONT AZN KNUCKLES Ironline Display is shaped for athletic i]",
+              "headerRect": {
+                "x": 0,
+                "y": 0,
+                "width": 390,
+                "height": 68,
+                "right": 390,
+                "bottom": 68
+              },
+              "contentRect": {
+                "x": 0,
+                "y": 0,
+                "width": 390,
+                "height": 3240,
+                "right": 390,
+                "bottom": 3240
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "audit": {
+      "title": "AZN Knuckles - Display Typeface for Sports Graphics | ATHAYA DESIGNED",
+      "url": "http://127.0.0.1:5173/fonts/azn-knuckles",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "pageSize": {
+        "scrollWidth": 390,
+        "clientWidth": 390,
+        "scrollHeight": 3492
+      },
+      "horizontalOverflow": false,
+      "overflowingElements": [],
+      "clippedText": [],
+      "brokenImages": [],
+      "headerOverlap": [
+        {
+          "header": "header.navbar",
+          "content": "main.fonts-page.font-detail-page [BACK TO FONTS SPORTS LETTERING FONT AZN KNUCKLES Ironline Display is shaped for athletic i]",
+          "headerRect": {
+            "x": 0,
+            "y": 0,
+            "width": 390,
+            "height": 68,
+            "right": 390,
+            "bottom": 68
+          },
+          "contentRect": {
+            "x": 0,
+            "y": 0,
+            "width": 390,
+            "height": 3240,
+            "right": 390,
+            "bottom": 3240
+          }
+        }
+      ],
+      "ctaOverflow": [],
+      "carouselOverflow": [],
+      "brokenWorkCards": [],
+      "brokenGalleries": [],
+      "pinnedIssues": [],
+      "footerOverflow": []
+    }
+  },
+  {
+    "route": "/about",
+    "viewport": "390x844",
+    "screenshot": "qa-screenshots/mobile/390x844__about.png",
+    "status": 200,
+    "durationMs": 2595,
+    "title": "About ATHAYA DESIGNED - Independent Sports Identity Designer",
+    "issues": [
+      {
+        "type": "overlapping navbar/header",
+        "severity": "medium",
+        "message": "1 possible header overlap(s)",
+        "details": {
+          "overlaps": [
+            {
+              "header": "header.navbar",
+              "content": "main.about-page [ABOUT ATHAYA DESIGNED INDEPENDENT IDENTITY DESIGN PRACTICE Character-driven identity desig]",
+              "headerRect": {
+                "x": 0,
+                "y": 0,
+                "width": 390,
+                "height": 68,
+                "right": 390,
+                "bottom": 68
+              },
+              "contentRect": {
+                "x": 0,
+                "y": 0,
+                "width": 390,
+                "height": 5025,
+                "right": 390,
+                "bottom": 5025
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "audit": {
+      "title": "About ATHAYA DESIGNED - Independent Sports Identity Designer",
+      "url": "http://127.0.0.1:5173/about",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "pageSize": {
+        "scrollWidth": 390,
+        "clientWidth": 390,
+        "scrollHeight": 5277
+      },
+      "horizontalOverflow": false,
+      "overflowingElements": [],
+      "clippedText": [],
+      "brokenImages": [],
+      "headerOverlap": [
+        {
+          "header": "header.navbar",
+          "content": "main.about-page [ABOUT ATHAYA DESIGNED INDEPENDENT IDENTITY DESIGN PRACTICE Character-driven identity desig]",
+          "headerRect": {
+            "x": 0,
+            "y": 0,
+            "width": 390,
+            "height": 68,
+            "right": 390,
+            "bottom": 68
+          },
+          "contentRect": {
+            "x": 0,
+            "y": 0,
+            "width": 390,
+            "height": 5025,
+            "right": 390,
+            "bottom": 5025
+          }
+        }
+      ],
+      "ctaOverflow": [],
+      "carouselOverflow": [],
+      "brokenWorkCards": [],
+      "brokenGalleries": [],
+      "pinnedIssues": [],
+      "footerOverflow": []
+    }
+  },
+  {
+    "route": "/services",
+    "viewport": "390x844",
+    "screenshot": "qa-screenshots/mobile/390x844__services.png",
+    "status": 200,
+    "durationMs": 2365,
+    "title": "Services - Mascot Logo, Athletic Identity & School Branding",
+    "issues": [
+      {
+        "type": "clipped text",
+        "severity": "medium",
+        "message": "4 visible text element(s) appear clipped",
+        "details": {
+          "elements": [
+            {
+              "element": "li.process-card.process-card--with-image [01 DISCOVER BRIEF]",
+              "rect": {
+                "x": 21,
+                "y": 2629,
+                "width": 348,
+                "height": 222,
+                "right": 369,
+                "bottom": 2851
+              },
+              "scrollWidth": 349,
+              "clientWidth": 346,
+              "scrollHeight": 222,
+              "clientHeight": 220
+            },
+            {
+              "element": "li.process-card.process-card--with-image [02 EXPLORE SKETCH]",
+              "rect": {
+                "x": 21,
+                "y": 2861,
+                "width": 348,
+                "height": 222,
+                "right": 369,
+                "bottom": 3083
+              },
+              "scrollWidth": 349,
+              "clientWidth": 346,
+              "scrollHeight": 222,
+              "clientHeight": 220
+            },
+            {
+              "element": "li.process-card.process-card--with-image [03 DESIGN OUTLINE]",
+              "rect": {
+                "x": 21,
+                "y": 3093,
+                "width": 348,
+                "height": 222,
+                "right": 369,
+                "bottom": 3315
+              },
+              "scrollWidth": 349,
+              "clientWidth": 346,
+              "scrollHeight": 222,
+              "clientHeight": 220
+            },
+            {
+              "element": "li.process-card.process-card--with-image [04 DELIVER ROLLOUT]",
+              "rect": {
+                "x": 21,
+                "y": 3325,
+                "width": 348,
+                "height": 222,
+                "right": 369,
+                "bottom": 3547
+              },
+              "scrollWidth": 349,
+              "clientWidth": 346,
+              "scrollHeight": 222,
+              "clientHeight": 220
+            }
+          ]
+        }
+      },
+      {
+        "type": "overlapping navbar/header",
+        "severity": "medium",
+        "message": "1 possible header overlap(s)",
+        "details": {
+          "overlaps": [
+            {
+              "header": "header.navbar",
+              "content": "main.services-page [SERVICES IDENTITY DESIGN SERVICES Premium identity design services for teams, schools, clu]",
+              "headerRect": {
+                "x": 0,
+                "y": 0,
+                "width": 390,
+                "height": 68,
+                "right": 390,
+                "bottom": 68
+              },
+              "contentRect": {
+                "x": 0,
+                "y": 0,
+                "width": 390,
+                "height": 4137,
+                "right": 390,
+                "bottom": 4137
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "audit": {
+      "title": "Services - Mascot Logo, Athletic Identity & School Branding",
+      "url": "http://127.0.0.1:5173/services",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "pageSize": {
+        "scrollWidth": 390,
+        "clientWidth": 390,
+        "scrollHeight": 4389
+      },
+      "horizontalOverflow": false,
+      "overflowingElements": [],
+      "clippedText": [
+        {
+          "element": "li.process-card.process-card--with-image [01 DISCOVER BRIEF]",
+          "rect": {
+            "x": 21,
+            "y": 2629,
+            "width": 348,
+            "height": 222,
+            "right": 369,
+            "bottom": 2851
+          },
+          "scrollWidth": 349,
+          "clientWidth": 346,
+          "scrollHeight": 222,
+          "clientHeight": 220
+        },
+        {
+          "element": "li.process-card.process-card--with-image [02 EXPLORE SKETCH]",
+          "rect": {
+            "x": 21,
+            "y": 2861,
+            "width": 348,
+            "height": 222,
+            "right": 369,
+            "bottom": 3083
+          },
+          "scrollWidth": 349,
+          "clientWidth": 346,
+          "scrollHeight": 222,
+          "clientHeight": 220
+        },
+        {
+          "element": "li.process-card.process-card--with-image [03 DESIGN OUTLINE]",
+          "rect": {
+            "x": 21,
+            "y": 3093,
+            "width": 348,
+            "height": 222,
+            "right": 369,
+            "bottom": 3315
+          },
+          "scrollWidth": 349,
+          "clientWidth": 346,
+          "scrollHeight": 222,
+          "clientHeight": 220
+        },
+        {
+          "element": "li.process-card.process-card--with-image [04 DELIVER ROLLOUT]",
+          "rect": {
+            "x": 21,
+            "y": 3325,
+            "width": 348,
+            "height": 222,
+            "right": 369,
+            "bottom": 3547
+          },
+          "scrollWidth": 349,
+          "clientWidth": 346,
+          "scrollHeight": 222,
+          "clientHeight": 220
+        }
+      ],
+      "brokenImages": [],
+      "headerOverlap": [
+        {
+          "header": "header.navbar",
+          "content": "main.services-page [SERVICES IDENTITY DESIGN SERVICES Premium identity design services for teams, schools, clu]",
+          "headerRect": {
+            "x": 0,
+            "y": 0,
+            "width": 390,
+            "height": 68,
+            "right": 390,
+            "bottom": 68
+          },
+          "contentRect": {
+            "x": 0,
+            "y": 0,
+            "width": 390,
+            "height": 4137,
+            "right": 390,
+            "bottom": 4137
+          }
+        }
+      ],
+      "ctaOverflow": [],
+      "carouselOverflow": [],
+      "brokenWorkCards": [],
+      "brokenGalleries": [],
+      "pinnedIssues": [],
+      "footerOverflow": []
+    }
+  },
+  {
+    "route": "/contact",
+    "viewport": "390x844",
+    "screenshot": "qa-screenshots/mobile/390x844__contact.png",
+    "status": 200,
+    "durationMs": 1902,
+    "title": "Start a Project - ATHAYA DESIGNED",
+    "issues": [
+      {
+        "type": "overlapping navbar/header",
+        "severity": "medium",
+        "message": "1 possible header overlap(s)",
+        "details": {
+          "overlaps": [
+            {
+              "header": "header.navbar",
+              "content": "main.contact-page [CONTACT START A PROJECT Tell me about your team, school, brand, or identity project. I wil]",
+              "headerRect": {
+                "x": 0,
+                "y": 0,
+                "width": 390,
+                "height": 68,
+                "right": 390,
+                "bottom": 68
+              },
+              "contentRect": {
+                "x": 0,
+                "y": 0,
+                "width": 390,
+                "height": 2266,
+                "right": 390,
+                "bottom": 2266
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "audit": {
+      "title": "Start a Project - ATHAYA DESIGNED",
+      "url": "http://127.0.0.1:5173/contact",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "pageSize": {
+        "scrollWidth": 390,
+        "clientWidth": 390,
+        "scrollHeight": 2518
+      },
+      "horizontalOverflow": false,
+      "overflowingElements": [],
+      "clippedText": [],
+      "brokenImages": [],
+      "headerOverlap": [
+        {
+          "header": "header.navbar",
+          "content": "main.contact-page [CONTACT START A PROJECT Tell me about your team, school, brand, or identity project. I wil]",
+          "headerRect": {
+            "x": 0,
+            "y": 0,
+            "width": 390,
+            "height": 68,
+            "right": 390,
+            "bottom": 68
+          },
+          "contentRect": {
+            "x": 0,
+            "y": 0,
+            "width": 390,
+            "height": 2266,
+            "right": 390,
+            "bottom": 2266
+          }
+        }
+      ],
+      "ctaOverflow": [],
+      "carouselOverflow": [],
+      "brokenWorkCards": [],
+      "brokenGalleries": [],
+      "pinnedIssues": [],
+      "footerOverflow": []
+    }
+  },
+  {
+    "route": "/admin",
+    "viewport": "390x844",
+    "screenshot": "qa-screenshots/mobile/390x844__admin.png",
+    "status": 200,
+    "durationMs": 1697,
+    "title": "ATHAYA DESIGNED - Sports Identity & Mascot Logo Design Studio",
+    "issues": [],
+    "audit": {
+      "title": "ATHAYA DESIGNED - Sports Identity & Mascot Logo Design Studio",
+      "url": "http://127.0.0.1:5173/admin",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "pageSize": {
+        "scrollWidth": 390,
+        "clientWidth": 390,
+        "scrollHeight": 844
+      },
+      "horizontalOverflow": false,
+      "overflowingElements": [],
+      "clippedText": [],
+      "brokenImages": [],
+      "headerOverlap": [],
+      "ctaOverflow": [],
+      "carouselOverflow": [],
+      "brokenWorkCards": [],
+      "brokenGalleries": [],
+      "pinnedIssues": [],
+      "footerOverflow": []
+    }
+  },
+  {
+    "route": "/",
+    "viewport": "430x932",
+    "screenshot": "qa-screenshots/mobile/430x932__home.png",
+    "status": 200,
+    "durationMs": 3676,
+    "title": "ATHAYA DESIGNED - Sports Identity & Mascot Logo Design Studio",
+    "issues": [
+      {
+        "type": "clipped text",
+        "severity": "medium",
+        "message": "2 visible text element(s) appear clipped",
+        "details": {
+          "elements": [
+            {
+              "element": "div.capability-marquee [IDENTITY MARKS / MASCOT & CHARACTER IDENTITIES / ATHLETIC & SCHOOL BRANDING / BRAND GUIDEL]",
+              "rect": {
+                "x": 23,
+                "y": 1211,
+                "width": 384,
+                "height": 16,
+                "right": 407,
+                "bottom": 1227
+              },
+              "scrollWidth": 2368,
+              "clientWidth": 384,
+              "scrollHeight": 16,
+              "clientHeight": 16
+            },
+            {
+              "element": "figcaption. [TNB previous logo]",
+              "rect": {
+                "x": 24,
+                "y": 2158,
+                "width": 1,
+                "height": 1,
+                "right": 25,
+                "bottom": 2159
+              },
+              "scrollWidth": 63,
+              "clientWidth": 1,
+              "scrollHeight": 63,
+              "clientHeight": 1
+            }
+          ]
+        }
+      },
+      {
+        "type": "overlapping navbar/header",
+        "severity": "medium",
+        "message": "1 possible header overlap(s)",
+        "details": {
+          "overlaps": [
+            {
+              "header": "header.navbar",
+              "content": "main. [01 / 07 ISHOWSPEED IDENTITY MARKS WITH CHARACTER, CRAFT, AND PRESENCE. START A PROJECT VIE]",
+              "headerRect": {
+                "x": 0,
+                "y": 0,
+                "width": 430,
+                "height": 68,
+                "right": 430,
+                "bottom": 68
+              },
+              "contentRect": {
+                "x": 0,
+                "y": 0,
+                "width": 430,
+                "height": 9281,
+                "right": 430,
+                "bottom": 9281
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "broken selected work cards",
+        "severity": "medium",
+        "message": "2 work/project card candidate(s) look broken",
+        "details": {
+          "elements": [
+            {
+              "element": "div.project-kicker [ISHOWSPEED]",
+              "rect": {
+                "x": 46,
+                "y": 558,
+                "width": 101,
+                "height": 18,
+                "right": 148,
+                "bottom": 576
+              }
+            },
+            {
+              "element": "div.project-dashes",
+              "rect": {
+                "x": 46,
+                "y": 588,
+                "width": 150,
+                "height": 2,
+                "right": 196,
+                "bottom": 590
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "audit": {
+      "title": "ATHAYA DESIGNED - Sports Identity & Mascot Logo Design Studio",
+      "url": "http://127.0.0.1:5173/",
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "pageSize": {
+        "scrollWidth": 430,
+        "clientWidth": 430,
+        "scrollHeight": 9533
+      },
+      "horizontalOverflow": false,
+      "overflowingElements": [],
+      "clippedText": [
+        {
+          "element": "div.capability-marquee [IDENTITY MARKS / MASCOT & CHARACTER IDENTITIES / ATHLETIC & SCHOOL BRANDING / BRAND GUIDEL]",
+          "rect": {
+            "x": 23,
+            "y": 1211,
+            "width": 384,
+            "height": 16,
+            "right": 407,
+            "bottom": 1227
+          },
+          "scrollWidth": 2368,
+          "clientWidth": 384,
+          "scrollHeight": 16,
+          "clientHeight": 16
+        },
+        {
+          "element": "figcaption. [TNB previous logo]",
+          "rect": {
+            "x": 24,
+            "y": 2158,
+            "width": 1,
+            "height": 1,
+            "right": 25,
+            "bottom": 2159
+          },
+          "scrollWidth": 63,
+          "clientWidth": 1,
+          "scrollHeight": 63,
+          "clientHeight": 1
+        }
+      ],
+      "brokenImages": [],
+      "headerOverlap": [
+        {
+          "header": "header.navbar",
+          "content": "main. [01 / 07 ISHOWSPEED IDENTITY MARKS WITH CHARACTER, CRAFT, AND PRESENCE. START A PROJECT VIE]",
+          "headerRect": {
+            "x": 0,
+            "y": 0,
+            "width": 430,
+            "height": 68,
+            "right": 430,
+            "bottom": 68
+          },
+          "contentRect": {
+            "x": 0,
+            "y": 0,
+            "width": 430,
+            "height": 9281,
+            "right": 430,
+            "bottom": 9281
+          }
+        }
+      ],
+      "ctaOverflow": [],
+      "carouselOverflow": [],
+      "brokenWorkCards": [
+        {
+          "element": "div.project-kicker [ISHOWSPEED]",
+          "rect": {
+            "x": 46,
+            "y": 558,
+            "width": 101,
+            "height": 18,
+            "right": 148,
+            "bottom": 576
+          }
+        },
+        {
+          "element": "div.project-dashes",
+          "rect": {
+            "x": 46,
+            "y": 588,
+            "width": 150,
+            "height": 2,
+            "right": 196,
+            "bottom": 590
+          }
+        }
+      ],
+      "brokenGalleries": [],
+      "pinnedIssues": [],
+      "footerOverflow": []
+    }
+  },
+  {
+    "route": "/work",
+    "viewport": "430x932",
+    "screenshot": "qa-screenshots/mobile/430x932__work.png",
+    "status": 200,
+    "durationMs": 2319,
+    "title": "Selected Work - Sports Identity, Mascot Logos & Athletic Branding | ATHAYA DESIGNED",
+    "issues": [
+      {
+        "type": "overlapping navbar/header",
+        "severity": "medium",
+        "message": "1 possible header overlap(s)",
+        "details": {
+          "overlaps": [
+            {
+              "header": "header.navbar",
+              "content": "main.work-page [SELECTED WORK SELECTED IDENTITY WORK. A collection of mascot marks, athletic identities, s]",
+              "headerRect": {
+                "x": 0,
+                "y": 0,
+                "width": 430,
+                "height": 68,
+                "right": 430,
+                "bottom": 68
+              },
+              "contentRect": {
+                "x": 0,
+                "y": 0,
+                "width": 430,
+                "height": 3307,
+                "right": 430,
+                "bottom": 3307
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "audit": {
+      "title": "Selected Work - Sports Identity, Mascot Logos & Athletic Branding | ATHAYA DESIGNED",
+      "url": "http://127.0.0.1:5173/work",
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "pageSize": {
+        "scrollWidth": 430,
+        "clientWidth": 430,
+        "scrollHeight": 3559
+      },
+      "horizontalOverflow": false,
+      "overflowingElements": [],
+      "clippedText": [],
+      "brokenImages": [],
+      "headerOverlap": [
+        {
+          "header": "header.navbar",
+          "content": "main.work-page [SELECTED WORK SELECTED IDENTITY WORK. A collection of mascot marks, athletic identities, s]",
+          "headerRect": {
+            "x": 0,
+            "y": 0,
+            "width": 430,
+            "height": 68,
+            "right": 430,
+            "bottom": 68
+          },
+          "contentRect": {
+            "x": 0,
+            "y": 0,
+            "width": 430,
+            "height": 3307,
+            "right": 430,
+            "bottom": 3307
+          }
+        }
+      ],
+      "ctaOverflow": [],
+      "carouselOverflow": [],
+      "brokenWorkCards": [],
+      "brokenGalleries": [],
+      "pinnedIssues": [],
+      "footerOverflow": []
+    }
+  },
+  {
+    "route": "/work/thenationsbest",
+    "viewport": "430x932",
+    "screenshot": "qa-screenshots/mobile/430x932__work__thenationsbest.png",
+    "status": 200,
+    "durationMs": 3619,
+    "title": "The Nations Best - Brand Identity Case Study | ATHAYA DESIGNED",
+    "issues": [
+      {
+        "type": "overlapping navbar/header",
+        "severity": "medium",
+        "message": "1 possible header overlap(s)",
+        "details": {
+          "overlaps": [
+            {
+              "header": "header.navbar",
+              "content": "main.work-page.work-detail-page [BACK TO WORK BRAND IDENTITY / 2022 THE NATIONS BEST A complete esports identity for The Na]",
+              "headerRect": {
+                "x": 0,
+                "y": 0,
+                "width": 430,
+                "height": 68,
+                "right": 430,
+                "bottom": 68
+              },
+              "contentRect": {
+                "x": 0,
+                "y": 0,
+                "width": 430,
+                "height": 10536,
+                "right": 430,
+                "bottom": 10536
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "audit": {
+      "title": "The Nations Best - Brand Identity Case Study | ATHAYA DESIGNED",
+      "url": "http://127.0.0.1:5173/work/thenationsbest",
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "pageSize": {
+        "scrollWidth": 430,
+        "clientWidth": 430,
+        "scrollHeight": 10788
+      },
+      "horizontalOverflow": false,
+      "overflowingElements": [],
+      "clippedText": [],
+      "brokenImages": [],
+      "headerOverlap": [
+        {
+          "header": "header.navbar",
+          "content": "main.work-page.work-detail-page [BACK TO WORK BRAND IDENTITY / 2022 THE NATIONS BEST A complete esports identity for The Na]",
+          "headerRect": {
+            "x": 0,
+            "y": 0,
+            "width": 430,
+            "height": 68,
+            "right": 430,
+            "bottom": 68
+          },
+          "contentRect": {
+            "x": 0,
+            "y": 0,
+            "width": 430,
+            "height": 10536,
+            "right": 430,
+            "bottom": 10536
+          }
+        }
+      ],
+      "ctaOverflow": [],
+      "carouselOverflow": [],
+      "brokenWorkCards": [],
+      "brokenGalleries": [],
+      "pinnedIssues": [],
+      "footerOverflow": []
+    }
+  },
+  {
+    "route": "/work/dfdc-logofolio",
+    "viewport": "430x932",
+    "screenshot": "qa-screenshots/mobile/430x932__work__dfdc-logofolio.png",
+    "status": 200,
+    "durationMs": 4046,
+    "title": "DFDC Lettermark Logofolio - Lettermark Case Study | ATHAYA DESIGNED",
+    "issues": [
+      {
+        "type": "overlapping navbar/header",
+        "severity": "medium",
+        "message": "1 possible header overlap(s)",
+        "details": {
+          "overlaps": [
+            {
+              "header": "header.navbar",
+              "content": "main.work-page.work-detail-page [BACK TO WORK LETTERMARK / 2026 DFDC LETTERMARK LOGOFOLIO A collection of custom lettermark]",
+              "headerRect": {
+                "x": 0,
+                "y": 0,
+                "width": 430,
+                "height": 68,
+                "right": 430,
+                "bottom": 68
+              },
+              "contentRect": {
+                "x": 0,
+                "y": 0,
+                "width": 430,
+                "height": 13967,
+                "right": 430,
+                "bottom": 13967
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "audit": {
+      "title": "DFDC Lettermark Logofolio - Lettermark Case Study | ATHAYA DESIGNED",
+      "url": "http://127.0.0.1:5173/work/dfdc-logofolio",
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "pageSize": {
+        "scrollWidth": 430,
+        "clientWidth": 430,
+        "scrollHeight": 14219
+      },
+      "horizontalOverflow": false,
+      "overflowingElements": [],
+      "clippedText": [],
+      "brokenImages": [],
+      "headerOverlap": [
+        {
+          "header": "header.navbar",
+          "content": "main.work-page.work-detail-page [BACK TO WORK LETTERMARK / 2026 DFDC LETTERMARK LOGOFOLIO A collection of custom lettermark]",
+          "headerRect": {
+            "x": 0,
+            "y": 0,
+            "width": 430,
+            "height": 68,
+            "right": 430,
+            "bottom": 68
+          },
+          "contentRect": {
+            "x": 0,
+            "y": 0,
+            "width": 430,
+            "height": 13967,
+            "right": 430,
+            "bottom": 13967
+          }
+        }
+      ],
+      "ctaOverflow": [],
+      "carouselOverflow": [],
+      "brokenWorkCards": [],
+      "brokenGalleries": [],
+      "pinnedIssues": [],
+      "footerOverflow": []
+    }
+  },
+  {
+    "route": "/work/quick-showcase",
+    "viewport": "430x932",
+    "screenshot": "qa-screenshots/mobile/430x932__work__quick-showcase.png",
+    "status": 200,
+    "durationMs": 4765,
+    "title": "Quick Showcase - Mascot Logo Case Study | ATHAYA DESIGNED",
+    "issues": [
+      {
+        "type": "overlapping navbar/header",
+        "severity": "medium",
+        "message": "1 possible header overlap(s)",
+        "details": {
+          "overlaps": [
+            {
+              "header": "header.navbar",
+              "content": "main.work-page.work-detail-page [BACK TO WORK MASCOT LOGO / 2022-2026 QUICK SHOWCASE A curated visual archive collecting ma]",
+              "headerRect": {
+                "x": 0,
+                "y": 0,
+                "width": 430,
+                "height": 68,
+                "right": 430,
+                "bottom": 68
+              },
+              "contentRect": {
+                "x": 0,
+                "y": 0,
+                "width": 430,
+                "height": 15094,
+                "right": 430,
+                "bottom": 15094
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "audit": {
+      "title": "Quick Showcase - Mascot Logo Case Study | ATHAYA DESIGNED",
+      "url": "http://127.0.0.1:5173/work/quick-showcase",
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "pageSize": {
+        "scrollWidth": 430,
+        "clientWidth": 430,
+        "scrollHeight": 15346
+      },
+      "horizontalOverflow": false,
+      "overflowingElements": [],
+      "clippedText": [],
+      "brokenImages": [],
+      "headerOverlap": [
+        {
+          "header": "header.navbar",
+          "content": "main.work-page.work-detail-page [BACK TO WORK MASCOT LOGO / 2022-2026 QUICK SHOWCASE A curated visual archive collecting ma]",
+          "headerRect": {
+            "x": 0,
+            "y": 0,
+            "width": 430,
+            "height": 68,
+            "right": 430,
+            "bottom": 68
+          },
+          "contentRect": {
+            "x": 0,
+            "y": 0,
+            "width": 430,
+            "height": 15094,
+            "right": 430,
+            "bottom": 15094
+          }
+        }
+      ],
+      "ctaOverflow": [],
+      "carouselOverflow": [],
+      "brokenWorkCards": [],
+      "brokenGalleries": [],
+      "pinnedIssues": [],
+      "footerOverflow": []
+    }
+  },
+  {
+    "route": "/fonts",
+    "viewport": "430x932",
+    "screenshot": "qa-screenshots/mobile/430x932__fonts.png",
+    "status": 200,
+    "durationMs": 2307,
+    "title": "ATHAYA DESIGNED Fonts - Display Typefaces for Sports Brands",
+    "issues": [
+      {
+        "type": "overlapping navbar/header",
+        "severity": "medium",
+        "message": "1 possible header overlap(s)",
+        "details": {
+          "overlaps": [
+            {
+              "header": "header.navbar",
+              "content": "main.fonts-page [ATHAYA DESIGNED FONTS ATHAYA DESIGNED FONTS. A growing collection of display fonts, sports]",
+              "headerRect": {
+                "x": 0,
+                "y": 0,
+                "width": 430,
+                "height": 68,
+                "right": 430,
+                "bottom": 68
+              },
+              "contentRect": {
+                "x": 0,
+                "y": 0,
+                "width": 430,
+                "height": 3521,
+                "right": 430,
+                "bottom": 3521
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "audit": {
+      "title": "ATHAYA DESIGNED Fonts - Display Typefaces for Sports Brands",
+      "url": "http://127.0.0.1:5173/fonts",
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "pageSize": {
+        "scrollWidth": 430,
+        "clientWidth": 430,
+        "scrollHeight": 3773
+      },
+      "horizontalOverflow": false,
+      "overflowingElements": [],
+      "clippedText": [],
+      "brokenImages": [],
+      "headerOverlap": [
+        {
+          "header": "header.navbar",
+          "content": "main.fonts-page [ATHAYA DESIGNED FONTS ATHAYA DESIGNED FONTS. A growing collection of display fonts, sports]",
+          "headerRect": {
+            "x": 0,
+            "y": 0,
+            "width": 430,
+            "height": 68,
+            "right": 430,
+            "bottom": 68
+          },
+          "contentRect": {
+            "x": 0,
+            "y": 0,
+            "width": 430,
+            "height": 3521,
+            "right": 430,
+            "bottom": 3521
+          }
+        }
+      ],
+      "ctaOverflow": [],
+      "carouselOverflow": [],
+      "brokenWorkCards": [],
+      "brokenGalleries": [],
+      "pinnedIssues": [],
+      "footerOverflow": []
+    }
+  },
+  {
+    "route": "/fonts/azn-knuckles",
+    "viewport": "430x932",
+    "screenshot": "qa-screenshots/mobile/430x932__fonts__azn-knuckles.png",
+    "status": 200,
+    "durationMs": 2206,
+    "title": "AZN Knuckles - Display Typeface for Sports Graphics | ATHAYA DESIGNED",
+    "issues": [
+      {
+        "type": "overlapping navbar/header",
+        "severity": "medium",
+        "message": "1 possible header overlap(s)",
+        "details": {
+          "overlaps": [
+            {
+              "header": "header.navbar",
+              "content": "main.fonts-page.font-detail-page [BACK TO FONTS SPORTS LETTERING FONT AZN KNUCKLES Ironline Display is shaped for athletic i]",
+              "headerRect": {
+                "x": 0,
+                "y": 0,
+                "width": 430,
+                "height": 68,
+                "right": 430,
+                "bottom": 68
+              },
+              "contentRect": {
+                "x": 0,
+                "y": 0,
+                "width": 430,
+                "height": 3301,
+                "right": 430,
+                "bottom": 3301
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "audit": {
+      "title": "AZN Knuckles - Display Typeface for Sports Graphics | ATHAYA DESIGNED",
+      "url": "http://127.0.0.1:5173/fonts/azn-knuckles",
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "pageSize": {
+        "scrollWidth": 430,
+        "clientWidth": 430,
+        "scrollHeight": 3553
+      },
+      "horizontalOverflow": false,
+      "overflowingElements": [],
+      "clippedText": [],
+      "brokenImages": [],
+      "headerOverlap": [
+        {
+          "header": "header.navbar",
+          "content": "main.fonts-page.font-detail-page [BACK TO FONTS SPORTS LETTERING FONT AZN KNUCKLES Ironline Display is shaped for athletic i]",
+          "headerRect": {
+            "x": 0,
+            "y": 0,
+            "width": 430,
+            "height": 68,
+            "right": 430,
+            "bottom": 68
+          },
+          "contentRect": {
+            "x": 0,
+            "y": 0,
+            "width": 430,
+            "height": 3301,
+            "right": 430,
+            "bottom": 3301
+          }
+        }
+      ],
+      "ctaOverflow": [],
+      "carouselOverflow": [],
+      "brokenWorkCards": [],
+      "brokenGalleries": [],
+      "pinnedIssues": [],
+      "footerOverflow": []
+    }
+  },
+  {
+    "route": "/about",
+    "viewport": "430x932",
+    "screenshot": "qa-screenshots/mobile/430x932__about.png",
+    "status": 200,
+    "durationMs": 2623,
+    "title": "About ATHAYA DESIGNED - Independent Sports Identity Designer",
+    "issues": [
+      {
+        "type": "overlapping navbar/header",
+        "severity": "medium",
+        "message": "1 possible header overlap(s)",
+        "details": {
+          "overlaps": [
+            {
+              "header": "header.navbar",
+              "content": "main.about-page [ABOUT ATHAYA DESIGNED INDEPENDENT IDENTITY DESIGN PRACTICE Character-driven identity desig]",
+              "headerRect": {
+                "x": 0,
+                "y": 0,
+                "width": 430,
+                "height": 68,
+                "right": 430,
+                "bottom": 68
+              },
+              "contentRect": {
+                "x": 0,
+                "y": 0,
+                "width": 430,
+                "height": 5112,
+                "right": 430,
+                "bottom": 5112
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "audit": {
+      "title": "About ATHAYA DESIGNED - Independent Sports Identity Designer",
+      "url": "http://127.0.0.1:5173/about",
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "pageSize": {
+        "scrollWidth": 430,
+        "clientWidth": 430,
+        "scrollHeight": 5364
+      },
+      "horizontalOverflow": false,
+      "overflowingElements": [],
+      "clippedText": [],
+      "brokenImages": [],
+      "headerOverlap": [
+        {
+          "header": "header.navbar",
+          "content": "main.about-page [ABOUT ATHAYA DESIGNED INDEPENDENT IDENTITY DESIGN PRACTICE Character-driven identity desig]",
+          "headerRect": {
+            "x": 0,
+            "y": 0,
+            "width": 430,
+            "height": 68,
+            "right": 430,
+            "bottom": 68
+          },
+          "contentRect": {
+            "x": 0,
+            "y": 0,
+            "width": 430,
+            "height": 5112,
+            "right": 430,
+            "bottom": 5112
+          }
+        }
+      ],
+      "ctaOverflow": [],
+      "carouselOverflow": [],
+      "brokenWorkCards": [],
+      "brokenGalleries": [],
+      "pinnedIssues": [],
+      "footerOverflow": []
+    }
+  },
+  {
+    "route": "/services",
+    "viewport": "430x932",
+    "screenshot": "qa-screenshots/mobile/430x932__services.png",
+    "status": 200,
+    "durationMs": 2374,
+    "title": "Services - Mascot Logo, Athletic Identity & School Branding",
+    "issues": [
+      {
+        "type": "clipped text",
+        "severity": "medium",
+        "message": "4 visible text element(s) appear clipped",
+        "details": {
+          "elements": [
+            {
+              "element": "li.process-card.process-card--with-image [01 DISCOVER BRIEF]",
+              "rect": {
+                "x": 23,
+                "y": 2664,
+                "width": 384,
+                "height": 222,
+                "right": 407,
+                "bottom": 2886
+              },
+              "scrollWidth": 385,
+              "clientWidth": 382,
+              "scrollHeight": 222,
+              "clientHeight": 220
+            },
+            {
+              "element": "li.process-card.process-card--with-image [02 EXPLORE SKETCH]",
+              "rect": {
+                "x": 23,
+                "y": 2896,
+                "width": 384,
+                "height": 222,
+                "right": 407,
+                "bottom": 3118
+              },
+              "scrollWidth": 385,
+              "clientWidth": 382,
+              "scrollHeight": 222,
+              "clientHeight": 220
+            },
+            {
+              "element": "li.process-card.process-card--with-image [03 DESIGN OUTLINE]",
+              "rect": {
+                "x": 23,
+                "y": 3128,
+                "width": 384,
+                "height": 222,
+                "right": 407,
+                "bottom": 3350
+              },
+              "scrollWidth": 385,
+              "clientWidth": 382,
+              "scrollHeight": 222,
+              "clientHeight": 220
+            },
+            {
+              "element": "li.process-card.process-card--with-image [04 DELIVER ROLLOUT]",
+              "rect": {
+                "x": 23,
+                "y": 3360,
+                "width": 384,
+                "height": 222,
+                "right": 407,
+                "bottom": 3582
+              },
+              "scrollWidth": 385,
+              "clientWidth": 382,
+              "scrollHeight": 222,
+              "clientHeight": 220
+            }
+          ]
+        }
+      },
+      {
+        "type": "overlapping navbar/header",
+        "severity": "medium",
+        "message": "1 possible header overlap(s)",
+        "details": {
+          "overlaps": [
+            {
+              "header": "header.navbar",
+              "content": "main.services-page [SERVICES IDENTITY DESIGN SERVICES Premium identity design services for teams, schools, clu]",
+              "headerRect": {
+                "x": 0,
+                "y": 0,
+                "width": 430,
+                "height": 68,
+                "right": 430,
+                "bottom": 68
+              },
+              "contentRect": {
+                "x": 0,
+                "y": 0,
+                "width": 430,
+                "height": 4121,
+                "right": 430,
+                "bottom": 4121
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "audit": {
+      "title": "Services - Mascot Logo, Athletic Identity & School Branding",
+      "url": "http://127.0.0.1:5173/services",
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "pageSize": {
+        "scrollWidth": 430,
+        "clientWidth": 430,
+        "scrollHeight": 4373
+      },
+      "horizontalOverflow": false,
+      "overflowingElements": [],
+      "clippedText": [
+        {
+          "element": "li.process-card.process-card--with-image [01 DISCOVER BRIEF]",
+          "rect": {
+            "x": 23,
+            "y": 2664,
+            "width": 384,
+            "height": 222,
+            "right": 407,
+            "bottom": 2886
+          },
+          "scrollWidth": 385,
+          "clientWidth": 382,
+          "scrollHeight": 222,
+          "clientHeight": 220
+        },
+        {
+          "element": "li.process-card.process-card--with-image [02 EXPLORE SKETCH]",
+          "rect": {
+            "x": 23,
+            "y": 2896,
+            "width": 384,
+            "height": 222,
+            "right": 407,
+            "bottom": 3118
+          },
+          "scrollWidth": 385,
+          "clientWidth": 382,
+          "scrollHeight": 222,
+          "clientHeight": 220
+        },
+        {
+          "element": "li.process-card.process-card--with-image [03 DESIGN OUTLINE]",
+          "rect": {
+            "x": 23,
+            "y": 3128,
+            "width": 384,
+            "height": 222,
+            "right": 407,
+            "bottom": 3350
+          },
+          "scrollWidth": 385,
+          "clientWidth": 382,
+          "scrollHeight": 222,
+          "clientHeight": 220
+        },
+        {
+          "element": "li.process-card.process-card--with-image [04 DELIVER ROLLOUT]",
+          "rect": {
+            "x": 23,
+            "y": 3360,
+            "width": 384,
+            "height": 222,
+            "right": 407,
+            "bottom": 3582
+          },
+          "scrollWidth": 385,
+          "clientWidth": 382,
+          "scrollHeight": 222,
+          "clientHeight": 220
+        }
+      ],
+      "brokenImages": [],
+      "headerOverlap": [
+        {
+          "header": "header.navbar",
+          "content": "main.services-page [SERVICES IDENTITY DESIGN SERVICES Premium identity design services for teams, schools, clu]",
+          "headerRect": {
+            "x": 0,
+            "y": 0,
+            "width": 430,
+            "height": 68,
+            "right": 430,
+            "bottom": 68
+          },
+          "contentRect": {
+            "x": 0,
+            "y": 0,
+            "width": 430,
+            "height": 4121,
+            "right": 430,
+            "bottom": 4121
+          }
+        }
+      ],
+      "ctaOverflow": [],
+      "carouselOverflow": [],
+      "brokenWorkCards": [],
+      "brokenGalleries": [],
+      "pinnedIssues": [],
+      "footerOverflow": []
+    }
+  },
+  {
+    "route": "/contact",
+    "viewport": "430x932",
+    "screenshot": "qa-screenshots/mobile/430x932__contact.png",
+    "status": 200,
+    "durationMs": 1918,
+    "title": "Start a Project - ATHAYA DESIGNED",
+    "issues": [
+      {
+        "type": "overlapping navbar/header",
+        "severity": "medium",
+        "message": "1 possible header overlap(s)",
+        "details": {
+          "overlaps": [
+            {
+              "header": "header.navbar",
+              "content": "main.contact-page [CONTACT START A PROJECT Tell me about your team, school, brand, or identity project. I wil]",
+              "headerRect": {
+                "x": 0,
+                "y": 0,
+                "width": 430,
+                "height": 68,
+                "right": 430,
+                "bottom": 68
+              },
+              "contentRect": {
+                "x": 0,
+                "y": 0,
+                "width": 430,
+                "height": 2203,
+                "right": 430,
+                "bottom": 2203
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "audit": {
+      "title": "Start a Project - ATHAYA DESIGNED",
+      "url": "http://127.0.0.1:5173/contact",
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "pageSize": {
+        "scrollWidth": 430,
+        "clientWidth": 430,
+        "scrollHeight": 2455
+      },
+      "horizontalOverflow": false,
+      "overflowingElements": [],
+      "clippedText": [],
+      "brokenImages": [],
+      "headerOverlap": [
+        {
+          "header": "header.navbar",
+          "content": "main.contact-page [CONTACT START A PROJECT Tell me about your team, school, brand, or identity project. I wil]",
+          "headerRect": {
+            "x": 0,
+            "y": 0,
+            "width": 430,
+            "height": 68,
+            "right": 430,
+            "bottom": 68
+          },
+          "contentRect": {
+            "x": 0,
+            "y": 0,
+            "width": 430,
+            "height": 2203,
+            "right": 430,
+            "bottom": 2203
+          }
+        }
+      ],
+      "ctaOverflow": [],
+      "carouselOverflow": [],
+      "brokenWorkCards": [],
+      "brokenGalleries": [],
+      "pinnedIssues": [],
+      "footerOverflow": []
+    }
+  },
+  {
+    "route": "/admin",
+    "viewport": "430x932",
+    "screenshot": "qa-screenshots/mobile/430x932__admin.png",
+    "status": 200,
+    "durationMs": 2690,
+    "title": "ATHAYA DESIGNED - Sports Identity & Mascot Logo Design Studio",
+    "issues": [],
+    "audit": {
+      "title": "ATHAYA DESIGNED - Sports Identity & Mascot Logo Design Studio",
+      "url": "http://127.0.0.1:5173/admin",
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "pageSize": {
+        "scrollWidth": 430,
+        "clientWidth": 430,
+        "scrollHeight": 932
+      },
+      "horizontalOverflow": false,
+      "overflowingElements": [],
+      "clippedText": [],
+      "brokenImages": [],
+      "headerOverlap": [],
+      "ctaOverflow": [],
+      "carouselOverflow": [],
+      "brokenWorkCards": [],
+      "brokenGalleries": [],
+      "pinnedIssues": [],
+      "footerOverflow": []
+    }
+  },
+  {
+    "route": "/",
+    "viewport": "480x900",
+    "screenshot": "qa-screenshots/mobile/480x900__home.png",
+    "status": 200,
+    "durationMs": 6111,
+    "title": "ATHAYA DESIGNED - Sports Identity & Mascot Logo Design Studio",
+    "issues": [
+      {
+        "type": "clipped text",
+        "severity": "medium",
+        "message": "2 visible text element(s) appear clipped",
+        "details": {
+          "elements": [
+            {
+              "element": "div.capability-marquee [IDENTITY MARKS / MASCOT & CHARACTER IDENTITIES / ATHLETIC & SCHOOL BRANDING / BRAND GUIDEL]",
+              "rect": {
+                "x": 24,
+                "y": 1235,
+                "width": 432,
+                "height": 16,
+                "right": 456,
+                "bottom": 1251
+              },
+              "scrollWidth": 2368,
+              "clientWidth": 432,
+              "scrollHeight": 16,
+              "clientHeight": 16
+            },
+            {
+              "element": "figcaption. [TNB previous logo]",
+              "rect": {
+                "x": 25,
+                "y": 2181,
+                "width": 1,
+                "height": 1,
+                "right": 26,
+                "bottom": 2182
+              },
+              "scrollWidth": 63,
+              "clientWidth": 1,
+              "scrollHeight": 63,
+              "clientHeight": 1
+            }
+          ]
+        }
+      },
+      {
+        "type": "overlapping navbar/header",
+        "severity": "medium",
+        "message": "1 possible header overlap(s)",
+        "details": {
+          "overlaps": [
+            {
+              "header": "header.navbar",
+              "content": "main. [01 / 07 ISHOWSPEED IDENTITY MARKS WITH CHARACTER, CRAFT, AND PRESENCE. START A PROJECT VIE]",
+              "headerRect": {
+                "x": 0,
+                "y": 0,
+                "width": 480,
+                "height": 68,
+                "right": 480,
+                "bottom": 68
+              },
+              "contentRect": {
+                "x": 0,
+                "y": 0,
+                "width": 480,
+                "height": 9662,
+                "right": 480,
+                "bottom": 9662
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "broken selected work cards",
+        "severity": "medium",
+        "message": "2 work/project card candidate(s) look broken",
+        "details": {
+          "elements": [
+            {
+              "element": "div.project-kicker [ISHOWSPEED]",
+              "rect": {
+                "x": 114,
+                "y": 572,
+                "width": 101,
+                "height": 18,
+                "right": 215,
+                "bottom": 590
+              }
+            },
+            {
+              "element": "div.project-dashes",
+              "rect": {
+                "x": 282,
+                "y": 588,
+                "width": 150,
+                "height": 2,
+                "right": 432,
+                "bottom": 590
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "audit": {
+      "title": "ATHAYA DESIGNED - Sports Identity & Mascot Logo Design Studio",
+      "url": "http://127.0.0.1:5173/",
+      "viewport": {
+        "width": 480,
+        "height": 900
+      },
+      "pageSize": {
+        "scrollWidth": 480,
+        "clientWidth": 480,
+        "scrollHeight": 9914
+      },
+      "horizontalOverflow": false,
+      "overflowingElements": [],
+      "clippedText": [
+        {
+          "element": "div.capability-marquee [IDENTITY MARKS / MASCOT & CHARACTER IDENTITIES / ATHLETIC & SCHOOL BRANDING / BRAND GUIDEL]",
+          "rect": {
+            "x": 24,
+            "y": 1235,
+            "width": 432,
+            "height": 16,
+            "right": 456,
+            "bottom": 1251
+          },
+          "scrollWidth": 2368,
+          "clientWidth": 432,
+          "scrollHeight": 16,
+          "clientHeight": 16
+        },
+        {
+          "element": "figcaption. [TNB previous logo]",
+          "rect": {
+            "x": 25,
+            "y": 2181,
+            "width": 1,
+            "height": 1,
+            "right": 26,
+            "bottom": 2182
+          },
+          "scrollWidth": 63,
+          "clientWidth": 1,
+          "scrollHeight": 63,
+          "clientHeight": 1
+        }
+      ],
+      "brokenImages": [],
+      "headerOverlap": [
+        {
+          "header": "header.navbar",
+          "content": "main. [01 / 07 ISHOWSPEED IDENTITY MARKS WITH CHARACTER, CRAFT, AND PRESENCE. START A PROJECT VIE]",
+          "headerRect": {
+            "x": 0,
+            "y": 0,
+            "width": 480,
+            "height": 68,
+            "right": 480,
+            "bottom": 68
+          },
+          "contentRect": {
+            "x": 0,
+            "y": 0,
+            "width": 480,
+            "height": 9662,
+            "right": 480,
+            "bottom": 9662
+          }
+        }
+      ],
+      "ctaOverflow": [],
+      "carouselOverflow": [],
+      "brokenWorkCards": [
+        {
+          "element": "div.project-kicker [ISHOWSPEED]",
+          "rect": {
+            "x": 114,
+            "y": 572,
+            "width": 101,
+            "height": 18,
+            "right": 215,
+            "bottom": 590
+          }
+        },
+        {
+          "element": "div.project-dashes",
+          "rect": {
+            "x": 282,
+            "y": 588,
+            "width": 150,
+            "height": 2,
+            "right": 432,
+            "bottom": 590
+          }
+        }
+      ],
+      "brokenGalleries": [],
+      "pinnedIssues": [],
+      "footerOverflow": []
+    }
+  },
+  {
+    "route": "/work",
+    "viewport": "480x900",
+    "screenshot": "qa-screenshots/mobile/480x900__work.png",
+    "status": 200,
+    "durationMs": 2717,
+    "title": "Selected Work - Sports Identity, Mascot Logos & Athletic Branding | ATHAYA DESIGNED",
+    "issues": [
+      {
+        "type": "overlapping navbar/header",
+        "severity": "medium",
+        "message": "1 possible header overlap(s)",
+        "details": {
+          "overlaps": [
+            {
+              "header": "header.navbar",
+              "content": "main.work-page [SELECTED WORK SELECTED IDENTITY WORK. A collection of mascot marks, athletic identities, s]",
+              "headerRect": {
+                "x": 0,
+                "y": 0,
+                "width": 480,
+                "height": 68,
+                "right": 480,
+                "bottom": 68
+              },
+              "contentRect": {
+                "x": 0,
+                "y": 0,
+                "width": 480,
+                "height": 3636,
+                "right": 480,
+                "bottom": 3636
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "audit": {
+      "title": "Selected Work - Sports Identity, Mascot Logos & Athletic Branding | ATHAYA DESIGNED",
+      "url": "http://127.0.0.1:5173/work",
+      "viewport": {
+        "width": 480,
+        "height": 900
+      },
+      "pageSize": {
+        "scrollWidth": 480,
+        "clientWidth": 480,
+        "scrollHeight": 3888
+      },
+      "horizontalOverflow": false,
+      "overflowingElements": [],
+      "clippedText": [],
+      "brokenImages": [],
+      "headerOverlap": [
+        {
+          "header": "header.navbar",
+          "content": "main.work-page [SELECTED WORK SELECTED IDENTITY WORK. A collection of mascot marks, athletic identities, s]",
+          "headerRect": {
+            "x": 0,
+            "y": 0,
+            "width": 480,
+            "height": 68,
+            "right": 480,
+            "bottom": 68
+          },
+          "contentRect": {
+            "x": 0,
+            "y": 0,
+            "width": 480,
+            "height": 3636,
+            "right": 480,
+            "bottom": 3636
+          }
+        }
+      ],
+      "ctaOverflow": [],
+      "carouselOverflow": [],
+      "brokenWorkCards": [],
+      "brokenGalleries": [],
+      "pinnedIssues": [],
+      "footerOverflow": []
+    }
+  },
+  {
+    "route": "/work/thenationsbest",
+    "viewport": "480x900",
+    "screenshot": "qa-screenshots/mobile/480x900__work__thenationsbest.png",
+    "status": 200,
+    "durationMs": 4082,
+    "title": "The Nations Best - Brand Identity Case Study | ATHAYA DESIGNED",
+    "issues": [
+      {
+        "type": "overlapping navbar/header",
+        "severity": "medium",
+        "message": "1 possible header overlap(s)",
+        "details": {
+          "overlaps": [
+            {
+              "header": "header.navbar",
+              "content": "main.work-page.work-detail-page [BACK TO WORK BRAND IDENTITY / 2022 THE NATIONS BEST A complete esports identity for The Na]",
+              "headerRect": {
+                "x": 0,
+                "y": 0,
+                "width": 480,
+                "height": 68,
+                "right": 480,
+                "bottom": 68
+              },
+              "contentRect": {
+                "x": 0,
+                "y": 0,
+                "width": 480,
+                "height": 11244,
+                "right": 480,
+                "bottom": 11244
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "audit": {
+      "title": "The Nations Best - Brand Identity Case Study | ATHAYA DESIGNED",
+      "url": "http://127.0.0.1:5173/work/thenationsbest",
+      "viewport": {
+        "width": 480,
+        "height": 900
+      },
+      "pageSize": {
+        "scrollWidth": 480,
+        "clientWidth": 480,
+        "scrollHeight": 11496
+      },
+      "horizontalOverflow": false,
+      "overflowingElements": [],
+      "clippedText": [],
+      "brokenImages": [],
+      "headerOverlap": [
+        {
+          "header": "header.navbar",
+          "content": "main.work-page.work-detail-page [BACK TO WORK BRAND IDENTITY / 2022 THE NATIONS BEST A complete esports identity for The Na]",
+          "headerRect": {
+            "x": 0,
+            "y": 0,
+            "width": 480,
+            "height": 68,
+            "right": 480,
+            "bottom": 68
+          },
+          "contentRect": {
+            "x": 0,
+            "y": 0,
+            "width": 480,
+            "height": 11244,
+            "right": 480,
+            "bottom": 11244
+          }
+        }
+      ],
+      "ctaOverflow": [],
+      "carouselOverflow": [],
+      "brokenWorkCards": [],
+      "brokenGalleries": [],
+      "pinnedIssues": [],
+      "footerOverflow": []
+    }
+  },
+  {
+    "route": "/work/dfdc-logofolio",
+    "viewport": "480x900",
+    "screenshot": "qa-screenshots/mobile/480x900__work__dfdc-logofolio.png",
+    "status": 200,
+    "durationMs": 4804,
+    "title": "DFDC Lettermark Logofolio - Lettermark Case Study | ATHAYA DESIGNED",
+    "issues": [
+      {
+        "type": "overlapping navbar/header",
+        "severity": "medium",
+        "message": "1 possible header overlap(s)",
+        "details": {
+          "overlaps": [
+            {
+              "header": "header.navbar",
+              "content": "main.work-page.work-detail-page [BACK TO WORK LETTERMARK / 2026 DFDC LETTERMARK LOGOFOLIO A collection of custom lettermark]",
+              "headerRect": {
+                "x": 0,
+                "y": 0,
+                "width": 480,
+                "height": 68,
+                "right": 480,
+                "bottom": 68
+              },
+              "contentRect": {
+                "x": 0,
+                "y": 0,
+                "width": 480,
+                "height": 15041,
+                "right": 480,
+                "bottom": 15041
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "audit": {
+      "title": "DFDC Lettermark Logofolio - Lettermark Case Study | ATHAYA DESIGNED",
+      "url": "http://127.0.0.1:5173/work/dfdc-logofolio",
+      "viewport": {
+        "width": 480,
+        "height": 900
+      },
+      "pageSize": {
+        "scrollWidth": 480,
+        "clientWidth": 480,
+        "scrollHeight": 15293
+      },
+      "horizontalOverflow": false,
+      "overflowingElements": [],
+      "clippedText": [],
+      "brokenImages": [],
+      "headerOverlap": [
+        {
+          "header": "header.navbar",
+          "content": "main.work-page.work-detail-page [BACK TO WORK LETTERMARK / 2026 DFDC LETTERMARK LOGOFOLIO A collection of custom lettermark]",
+          "headerRect": {
+            "x": 0,
+            "y": 0,
+            "width": 480,
+            "height": 68,
+            "right": 480,
+            "bottom": 68
+          },
+          "contentRect": {
+            "x": 0,
+            "y": 0,
+            "width": 480,
+            "height": 15041,
+            "right": 480,
+            "bottom": 15041
+          }
+        }
+      ],
+      "ctaOverflow": [],
+      "carouselOverflow": [],
+      "brokenWorkCards": [],
+      "brokenGalleries": [],
+      "pinnedIssues": [],
+      "footerOverflow": []
+    }
+  },
+  {
+    "route": "/work/quick-showcase",
+    "viewport": "480x900",
+    "screenshot": "qa-screenshots/mobile/480x900__work__quick-showcase.png",
+    "status": 200,
+    "durationMs": 5801,
+    "title": "Quick Showcase - Mascot Logo Case Study | ATHAYA DESIGNED",
+    "issues": [
+      {
+        "type": "overlapping navbar/header",
+        "severity": "medium",
+        "message": "1 possible header overlap(s)",
+        "details": {
+          "overlaps": [
+            {
+              "header": "header.navbar",
+              "content": "main.work-page.work-detail-page [BACK TO WORK MASCOT LOGO / 2022-2026 QUICK SHOWCASE A curated visual archive collecting ma]",
+              "headerRect": {
+                "x": 0,
+                "y": 0,
+                "width": 480,
+                "height": 68,
+                "right": 480,
+                "bottom": 68
+              },
+              "contentRect": {
+                "x": 0,
+                "y": 0,
+                "width": 480,
+                "height": 16397,
+                "right": 480,
+                "bottom": 16397
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "audit": {
+      "title": "Quick Showcase - Mascot Logo Case Study | ATHAYA DESIGNED",
+      "url": "http://127.0.0.1:5173/work/quick-showcase",
+      "viewport": {
+        "width": 480,
+        "height": 900
+      },
+      "pageSize": {
+        "scrollWidth": 480,
+        "clientWidth": 480,
+        "scrollHeight": 16649
+      },
+      "horizontalOverflow": false,
+      "overflowingElements": [],
+      "clippedText": [],
+      "brokenImages": [],
+      "headerOverlap": [
+        {
+          "header": "header.navbar",
+          "content": "main.work-page.work-detail-page [BACK TO WORK MASCOT LOGO / 2022-2026 QUICK SHOWCASE A curated visual archive collecting ma]",
+          "headerRect": {
+            "x": 0,
+            "y": 0,
+            "width": 480,
+            "height": 68,
+            "right": 480,
+            "bottom": 68
+          },
+          "contentRect": {
+            "x": 0,
+            "y": 0,
+            "width": 480,
+            "height": 16397,
+            "right": 480,
+            "bottom": 16397
+          }
+        }
+      ],
+      "ctaOverflow": [],
+      "carouselOverflow": [],
+      "brokenWorkCards": [],
+      "brokenGalleries": [],
+      "pinnedIssues": [],
+      "footerOverflow": []
+    }
+  },
+  {
+    "route": "/fonts",
+    "viewport": "480x900",
+    "screenshot": "qa-screenshots/mobile/480x900__fonts.png",
+    "status": 200,
+    "durationMs": 2463,
+    "title": "ATHAYA DESIGNED Fonts - Display Typefaces for Sports Brands",
+    "issues": [
+      {
+        "type": "overlapping navbar/header",
+        "severity": "medium",
+        "message": "1 possible header overlap(s)",
+        "details": {
+          "overlaps": [
+            {
+              "header": "header.navbar",
+              "content": "main.fonts-page [ATHAYA DESIGNED FONTS ATHAYA DESIGNED FONTS. A growing collection of display fonts, sports]",
+              "headerRect": {
+                "x": 0,
+                "y": 0,
+                "width": 480,
+                "height": 68,
+                "right": 480,
+                "bottom": 68
+              },
+              "contentRect": {
+                "x": 0,
+                "y": 0,
+                "width": 480,
+                "height": 3577,
+                "right": 480,
+                "bottom": 3577
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "audit": {
+      "title": "ATHAYA DESIGNED Fonts - Display Typefaces for Sports Brands",
+      "url": "http://127.0.0.1:5173/fonts",
+      "viewport": {
+        "width": 480,
+        "height": 900
+      },
+      "pageSize": {
+        "scrollWidth": 480,
+        "clientWidth": 480,
+        "scrollHeight": 3829
+      },
+      "horizontalOverflow": false,
+      "overflowingElements": [],
+      "clippedText": [],
+      "brokenImages": [],
+      "headerOverlap": [
+        {
+          "header": "header.navbar",
+          "content": "main.fonts-page [ATHAYA DESIGNED FONTS ATHAYA DESIGNED FONTS. A growing collection of display fonts, sports]",
+          "headerRect": {
+            "x": 0,
+            "y": 0,
+            "width": 480,
+            "height": 68,
+            "right": 480,
+            "bottom": 68
+          },
+          "contentRect": {
+            "x": 0,
+            "y": 0,
+            "width": 480,
+            "height": 3577,
+            "right": 480,
+            "bottom": 3577
+          }
+        }
+      ],
+      "ctaOverflow": [],
+      "carouselOverflow": [],
+      "brokenWorkCards": [],
+      "brokenGalleries": [],
+      "pinnedIssues": [],
+      "footerOverflow": []
+    }
+  },
+  {
+    "route": "/fonts/azn-knuckles",
+    "viewport": "480x900",
+    "screenshot": "qa-screenshots/mobile/480x900__fonts__azn-knuckles.png",
+    "status": 200,
+    "durationMs": 2266,
+    "title": "AZN Knuckles - Display Typeface for Sports Graphics | ATHAYA DESIGNED",
+    "issues": [
+      {
+        "type": "overlapping navbar/header",
+        "severity": "medium",
+        "message": "1 possible header overlap(s)",
+        "details": {
+          "overlaps": [
+            {
+              "header": "header.navbar",
+              "content": "main.fonts-page.font-detail-page [BACK TO FONTS SPORTS LETTERING FONT AZN KNUCKLES Ironline Display is shaped for athletic i]",
+              "headerRect": {
+                "x": 0,
+                "y": 0,
+                "width": 480,
+                "height": 68,
+                "right": 480,
+                "bottom": 68
+              },
+              "contentRect": {
+                "x": 0,
+                "y": 0,
+                "width": 480,
+                "height": 3467,
+                "right": 480,
+                "bottom": 3467
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "audit": {
+      "title": "AZN Knuckles - Display Typeface for Sports Graphics | ATHAYA DESIGNED",
+      "url": "http://127.0.0.1:5173/fonts/azn-knuckles",
+      "viewport": {
+        "width": 480,
+        "height": 900
+      },
+      "pageSize": {
+        "scrollWidth": 480,
+        "clientWidth": 480,
+        "scrollHeight": 3719
+      },
+      "horizontalOverflow": false,
+      "overflowingElements": [],
+      "clippedText": [],
+      "brokenImages": [],
+      "headerOverlap": [
+        {
+          "header": "header.navbar",
+          "content": "main.fonts-page.font-detail-page [BACK TO FONTS SPORTS LETTERING FONT AZN KNUCKLES Ironline Display is shaped for athletic i]",
+          "headerRect": {
+            "x": 0,
+            "y": 0,
+            "width": 480,
+            "height": 68,
+            "right": 480,
+            "bottom": 68
+          },
+          "contentRect": {
+            "x": 0,
+            "y": 0,
+            "width": 480,
+            "height": 3467,
+            "right": 480,
+            "bottom": 3467
+          }
+        }
+      ],
+      "ctaOverflow": [],
+      "carouselOverflow": [],
+      "brokenWorkCards": [],
+      "brokenGalleries": [],
+      "pinnedIssues": [],
+      "footerOverflow": []
+    }
+  },
+  {
+    "route": "/about",
+    "viewport": "480x900",
+    "screenshot": "qa-screenshots/mobile/480x900__about.png",
+    "status": 200,
+    "durationMs": 2689,
+    "title": "About ATHAYA DESIGNED - Independent Sports Identity Designer",
+    "issues": [
+      {
+        "type": "overlapping navbar/header",
+        "severity": "medium",
+        "message": "1 possible header overlap(s)",
+        "details": {
+          "overlaps": [
+            {
+              "header": "header.navbar",
+              "content": "main.about-page [ABOUT ATHAYA DESIGNED INDEPENDENT IDENTITY DESIGN PRACTICE Character-driven identity desig]",
+              "headerRect": {
+                "x": 0,
+                "y": 0,
+                "width": 480,
+                "height": 68,
+                "right": 480,
+                "bottom": 68
+              },
+              "contentRect": {
+                "x": 0,
+                "y": 0,
+                "width": 480,
+                "height": 4928,
+                "right": 480,
+                "bottom": 4928
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "audit": {
+      "title": "About ATHAYA DESIGNED - Independent Sports Identity Designer",
+      "url": "http://127.0.0.1:5173/about",
+      "viewport": {
+        "width": 480,
+        "height": 900
+      },
+      "pageSize": {
+        "scrollWidth": 480,
+        "clientWidth": 480,
+        "scrollHeight": 5180
+      },
+      "horizontalOverflow": false,
+      "overflowingElements": [],
+      "clippedText": [],
+      "brokenImages": [],
+      "headerOverlap": [
+        {
+          "header": "header.navbar",
+          "content": "main.about-page [ABOUT ATHAYA DESIGNED INDEPENDENT IDENTITY DESIGN PRACTICE Character-driven identity desig]",
+          "headerRect": {
+            "x": 0,
+            "y": 0,
+            "width": 480,
+            "height": 68,
+            "right": 480,
+            "bottom": 68
+          },
+          "contentRect": {
+            "x": 0,
+            "y": 0,
+            "width": 480,
+            "height": 4928,
+            "right": 480,
+            "bottom": 4928
+          }
+        }
+      ],
+      "ctaOverflow": [],
+      "carouselOverflow": [],
+      "brokenWorkCards": [],
+      "brokenGalleries": [],
+      "pinnedIssues": [],
+      "footerOverflow": []
+    }
+  },
+  {
+    "route": "/services",
+    "viewport": "480x900",
+    "screenshot": "qa-screenshots/mobile/480x900__services.png",
+    "status": 200,
+    "durationMs": 2443,
+    "title": "Services - Mascot Logo, Athletic Identity & School Branding",
+    "issues": [
+      {
+        "type": "clipped text",
+        "severity": "medium",
+        "message": "4 visible text element(s) appear clipped",
+        "details": {
+          "elements": [
+            {
+              "element": "li.process-card.process-card--with-image [01 DISCOVER BRIEF]",
+              "rect": {
+                "x": 24,
+                "y": 2591,
+                "width": 432,
+                "height": 222,
+                "right": 456,
+                "bottom": 2813
+              },
+              "scrollWidth": 434,
+              "clientWidth": 430,
+              "scrollHeight": 222,
+              "clientHeight": 220
+            },
+            {
+              "element": "li.process-card.process-card--with-image [02 EXPLORE SKETCH]",
+              "rect": {
+                "x": 24,
+                "y": 2823,
+                "width": 432,
+                "height": 222,
+                "right": 456,
+                "bottom": 3045
+              },
+              "scrollWidth": 434,
+              "clientWidth": 430,
+              "scrollHeight": 222,
+              "clientHeight": 220
+            },
+            {
+              "element": "li.process-card.process-card--with-image [03 DESIGN OUTLINE]",
+              "rect": {
+                "x": 24,
+                "y": 3055,
+                "width": 432,
+                "height": 222,
+                "right": 456,
+                "bottom": 3277
+              },
+              "scrollWidth": 434,
+              "clientWidth": 430,
+              "scrollHeight": 222,
+              "clientHeight": 220
+            },
+            {
+              "element": "li.process-card.process-card--with-image [04 DELIVER ROLLOUT]",
+              "rect": {
+                "x": 24,
+                "y": 3287,
+                "width": 432,
+                "height": 222,
+                "right": 456,
+                "bottom": 3509
+              },
+              "scrollWidth": 434,
+              "clientWidth": 430,
+              "scrollHeight": 222,
+              "clientHeight": 220
+            }
+          ]
+        }
+      },
+      {
+        "type": "overlapping navbar/header",
+        "severity": "medium",
+        "message": "1 possible header overlap(s)",
+        "details": {
+          "overlaps": [
+            {
+              "header": "header.navbar",
+              "content": "main.services-page [SERVICES IDENTITY DESIGN SERVICES Premium identity design services for teams, schools, clu]",
+              "headerRect": {
+                "x": 0,
+                "y": 0,
+                "width": 480,
+                "height": 68,
+                "right": 480,
+                "bottom": 68
+              },
+              "contentRect": {
+                "x": 0,
+                "y": 0,
+                "width": 480,
+                "height": 4048,
+                "right": 480,
+                "bottom": 4048
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "audit": {
+      "title": "Services - Mascot Logo, Athletic Identity & School Branding",
+      "url": "http://127.0.0.1:5173/services",
+      "viewport": {
+        "width": 480,
+        "height": 900
+      },
+      "pageSize": {
+        "scrollWidth": 480,
+        "clientWidth": 480,
+        "scrollHeight": 4300
+      },
+      "horizontalOverflow": false,
+      "overflowingElements": [],
+      "clippedText": [
+        {
+          "element": "li.process-card.process-card--with-image [01 DISCOVER BRIEF]",
+          "rect": {
+            "x": 24,
+            "y": 2591,
+            "width": 432,
+            "height": 222,
+            "right": 456,
+            "bottom": 2813
+          },
+          "scrollWidth": 434,
+          "clientWidth": 430,
+          "scrollHeight": 222,
+          "clientHeight": 220
+        },
+        {
+          "element": "li.process-card.process-card--with-image [02 EXPLORE SKETCH]",
+          "rect": {
+            "x": 24,
+            "y": 2823,
+            "width": 432,
+            "height": 222,
+            "right": 456,
+            "bottom": 3045
+          },
+          "scrollWidth": 434,
+          "clientWidth": 430,
+          "scrollHeight": 222,
+          "clientHeight": 220
+        },
+        {
+          "element": "li.process-card.process-card--with-image [03 DESIGN OUTLINE]",
+          "rect": {
+            "x": 24,
+            "y": 3055,
+            "width": 432,
+            "height": 222,
+            "right": 456,
+            "bottom": 3277
+          },
+          "scrollWidth": 434,
+          "clientWidth": 430,
+          "scrollHeight": 222,
+          "clientHeight": 220
+        },
+        {
+          "element": "li.process-card.process-card--with-image [04 DELIVER ROLLOUT]",
+          "rect": {
+            "x": 24,
+            "y": 3287,
+            "width": 432,
+            "height": 222,
+            "right": 456,
+            "bottom": 3509
+          },
+          "scrollWidth": 434,
+          "clientWidth": 430,
+          "scrollHeight": 222,
+          "clientHeight": 220
+        }
+      ],
+      "brokenImages": [],
+      "headerOverlap": [
+        {
+          "header": "header.navbar",
+          "content": "main.services-page [SERVICES IDENTITY DESIGN SERVICES Premium identity design services for teams, schools, clu]",
+          "headerRect": {
+            "x": 0,
+            "y": 0,
+            "width": 480,
+            "height": 68,
+            "right": 480,
+            "bottom": 68
+          },
+          "contentRect": {
+            "x": 0,
+            "y": 0,
+            "width": 480,
+            "height": 4048,
+            "right": 480,
+            "bottom": 4048
+          }
+        }
+      ],
+      "ctaOverflow": [],
+      "carouselOverflow": [],
+      "brokenWorkCards": [],
+      "brokenGalleries": [],
+      "pinnedIssues": [],
+      "footerOverflow": []
+    }
+  },
+  {
+    "route": "/contact",
+    "viewport": "480x900",
+    "screenshot": "qa-screenshots/mobile/480x900__contact.png",
+    "status": 200,
+    "durationMs": 1993,
+    "title": "Start a Project - ATHAYA DESIGNED",
+    "issues": [
+      {
+        "type": "overlapping navbar/header",
+        "severity": "medium",
+        "message": "1 possible header overlap(s)",
+        "details": {
+          "overlaps": [
+            {
+              "header": "header.navbar",
+              "content": "main.contact-page [CONTACT START A PROJECT Tell me about your team, school, brand, or identity project. I wil]",
+              "headerRect": {
+                "x": 0,
+                "y": 0,
+                "width": 480,
+                "height": 68,
+                "right": 480,
+                "bottom": 68
+              },
+              "contentRect": {
+                "x": 0,
+                "y": 0,
+                "width": 480,
+                "height": 2151,
+                "right": 480,
+                "bottom": 2151
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "audit": {
+      "title": "Start a Project - ATHAYA DESIGNED",
+      "url": "http://127.0.0.1:5173/contact",
+      "viewport": {
+        "width": 480,
+        "height": 900
+      },
+      "pageSize": {
+        "scrollWidth": 480,
+        "clientWidth": 480,
+        "scrollHeight": 2403
+      },
+      "horizontalOverflow": false,
+      "overflowingElements": [],
+      "clippedText": [],
+      "brokenImages": [],
+      "headerOverlap": [
+        {
+          "header": "header.navbar",
+          "content": "main.contact-page [CONTACT START A PROJECT Tell me about your team, school, brand, or identity project. I wil]",
+          "headerRect": {
+            "x": 0,
+            "y": 0,
+            "width": 480,
+            "height": 68,
+            "right": 480,
+            "bottom": 68
+          },
+          "contentRect": {
+            "x": 0,
+            "y": 0,
+            "width": 480,
+            "height": 2151,
+            "right": 480,
+            "bottom": 2151
+          }
+        }
+      ],
+      "ctaOverflow": [],
+      "carouselOverflow": [],
+      "brokenWorkCards": [],
+      "brokenGalleries": [],
+      "pinnedIssues": [],
+      "footerOverflow": []
+    }
+  },
+  {
+    "route": "/admin",
+    "viewport": "480x900",
+    "screenshot": "qa-screenshots/mobile/480x900__admin.png",
+    "status": 200,
+    "durationMs": 2027,
+    "title": "ATHAYA DESIGNED - Sports Identity & Mascot Logo Design Studio",
+    "issues": [],
+    "audit": {
+      "title": "ATHAYA DESIGNED - Sports Identity & Mascot Logo Design Studio",
+      "url": "http://127.0.0.1:5173/admin",
+      "viewport": {
+        "width": 480,
+        "height": 900
+      },
+      "pageSize": {
+        "scrollWidth": 480,
+        "clientWidth": 480,
+        "scrollHeight": 900
+      },
+      "horizontalOverflow": false,
+      "overflowingElements": [],
+      "clippedText": [],
+      "brokenImages": [],
+      "headerOverlap": [],
+      "ctaOverflow": [],
+      "carouselOverflow": [],
+      "brokenWorkCards": [],
+      "brokenGalleries": [],
+      "pinnedIssues": [],
+      "footerOverflow": []
+    }
+  },
+  {
+    "route": "/",
+    "viewport": "768x1024",
+    "screenshot": "qa-screenshots/mobile/768x1024__home.png",
+    "status": 200,
+    "durationMs": 5066,
+    "title": "ATHAYA DESIGNED - Sports Identity & Mascot Logo Design Studio",
+    "issues": [
+      {
+        "type": "clipped text",
+        "severity": "medium",
+        "message": "2 visible text element(s) appear clipped",
+        "details": {
+          "elements": [
+            {
+              "element": "div.capability-marquee [IDENTITY MARKS / MASCOT & CHARACTER IDENTITIES / ATHLETIC & SCHOOL BRANDING / BRAND GUIDEL]",
+              "rect": {
+                "x": 210,
+                "y": 1184,
+                "width": 534,
+                "height": 16,
+                "right": 744,
+                "bottom": 1200
+              },
+              "scrollWidth": 2368,
+              "clientWidth": 534,
+              "scrollHeight": 16,
+              "clientHeight": 16
+            },
+            {
+              "element": "figcaption. [TNB previous logo]",
+              "rect": {
+                "x": 25,
+                "y": 1924,
+                "width": 1,
+                "height": 1,
+                "right": 26,
+                "bottom": 1925
+              },
+              "scrollWidth": 63,
+              "clientWidth": 1,
+              "scrollHeight": 63,
+              "clientHeight": 1
+            }
+          ]
+        }
+      },
+      {
+        "type": "overlapping navbar/header",
+        "severity": "medium",
+        "message": "1 possible header overlap(s)",
+        "details": {
+          "overlaps": [
+            {
+              "header": "header.navbar [BOOK A DISCOVERY CALL]",
+              "content": "main. [01 / 07 ISHOWSPEED IDENTITY MARKS WITH CHARACTER, CRAFT, AND PRESENCE. START A PROJECT VIE]",
+              "headerRect": {
+                "x": 0,
+                "y": 0,
+                "width": 768,
+                "height": 68,
+                "right": 768,
+                "bottom": 68
+              },
+              "contentRect": {
+                "x": 0,
+                "y": 0,
+                "width": 768,
+                "height": 8597,
+                "right": 768,
+                "bottom": 8597
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "broken selected work cards",
+        "severity": "medium",
+        "message": "2 work/project card candidate(s) look broken",
+        "details": {
+          "elements": [
+            {
+              "element": "div.project-kicker [ISHOWSPEED]",
+              "rect": {
+                "x": 114,
+                "y": 622,
+                "width": 444,
+                "height": 18,
+                "right": 558,
+                "bottom": 640
+              }
+            },
+            {
+              "element": "div.project-dashes",
+              "rect": {
+                "x": 570,
+                "y": 630,
+                "width": 150,
+                "height": 10,
+                "right": 720,
+                "bottom": 640
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "audit": {
+      "title": "ATHAYA DESIGNED - Sports Identity & Mascot Logo Design Studio",
+      "url": "http://127.0.0.1:5173/",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "pageSize": {
+        "scrollWidth": 768,
+        "clientWidth": 768,
+        "scrollHeight": 8869
+      },
+      "horizontalOverflow": false,
+      "overflowingElements": [],
+      "clippedText": [
+        {
+          "element": "div.capability-marquee [IDENTITY MARKS / MASCOT & CHARACTER IDENTITIES / ATHLETIC & SCHOOL BRANDING / BRAND GUIDEL]",
+          "rect": {
+            "x": 210,
+            "y": 1184,
+            "width": 534,
+            "height": 16,
+            "right": 744,
+            "bottom": 1200
+          },
+          "scrollWidth": 2368,
+          "clientWidth": 534,
+          "scrollHeight": 16,
+          "clientHeight": 16
+        },
+        {
+          "element": "figcaption. [TNB previous logo]",
+          "rect": {
+            "x": 25,
+            "y": 1924,
+            "width": 1,
+            "height": 1,
+            "right": 26,
+            "bottom": 1925
+          },
+          "scrollWidth": 63,
+          "clientWidth": 1,
+          "scrollHeight": 63,
+          "clientHeight": 1
+        }
+      ],
+      "brokenImages": [],
+      "headerOverlap": [
+        {
+          "header": "header.navbar [BOOK A DISCOVERY CALL]",
+          "content": "main. [01 / 07 ISHOWSPEED IDENTITY MARKS WITH CHARACTER, CRAFT, AND PRESENCE. START A PROJECT VIE]",
+          "headerRect": {
+            "x": 0,
+            "y": 0,
+            "width": 768,
+            "height": 68,
+            "right": 768,
+            "bottom": 68
+          },
+          "contentRect": {
+            "x": 0,
+            "y": 0,
+            "width": 768,
+            "height": 8597,
+            "right": 768,
+            "bottom": 8597
+          }
+        }
+      ],
+      "ctaOverflow": [],
+      "carouselOverflow": [],
+      "brokenWorkCards": [
+        {
+          "element": "div.project-kicker [ISHOWSPEED]",
+          "rect": {
+            "x": 114,
+            "y": 622,
+            "width": 444,
+            "height": 18,
+            "right": 558,
+            "bottom": 640
+          }
+        },
+        {
+          "element": "div.project-dashes",
+          "rect": {
+            "x": 570,
+            "y": 630,
+            "width": 150,
+            "height": 10,
+            "right": 720,
+            "bottom": 640
+          }
+        }
+      ],
+      "brokenGalleries": [],
+      "pinnedIssues": [],
+      "footerOverflow": []
+    }
+  },
+  {
+    "route": "/work",
+    "viewport": "768x1024",
+    "screenshot": "qa-screenshots/mobile/768x1024__work.png",
+    "status": 200,
+    "durationMs": 2975,
+    "title": "Selected Work - Sports Identity, Mascot Logos & Athletic Branding | ATHAYA DESIGNED",
+    "issues": [
+      {
+        "type": "overlapping navbar/header",
+        "severity": "medium",
+        "message": "1 possible header overlap(s)",
+        "details": {
+          "overlaps": [
+            {
+              "header": "header.navbar [BOOK A DISCOVERY CALL]",
+              "content": "main.work-page [SELECTED WORK SELECTED IDENTITY WORK. A collection of mascot marks, athletic identities, s]",
+              "headerRect": {
+                "x": 0,
+                "y": 0,
+                "width": 768,
+                "height": 68,
+                "right": 768,
+                "bottom": 68
+              },
+              "contentRect": {
+                "x": 0,
+                "y": 0,
+                "width": 768,
+                "height": 3933,
+                "right": 768,
+                "bottom": 3933
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "audit": {
+      "title": "Selected Work - Sports Identity, Mascot Logos & Athletic Branding | ATHAYA DESIGNED",
+      "url": "http://127.0.0.1:5173/work",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "pageSize": {
+        "scrollWidth": 768,
+        "clientWidth": 768,
+        "scrollHeight": 4205
+      },
+      "horizontalOverflow": false,
+      "overflowingElements": [],
+      "clippedText": [],
+      "brokenImages": [],
+      "headerOverlap": [
+        {
+          "header": "header.navbar [BOOK A DISCOVERY CALL]",
+          "content": "main.work-page [SELECTED WORK SELECTED IDENTITY WORK. A collection of mascot marks, athletic identities, s]",
+          "headerRect": {
+            "x": 0,
+            "y": 0,
+            "width": 768,
+            "height": 68,
+            "right": 768,
+            "bottom": 68
+          },
+          "contentRect": {
+            "x": 0,
+            "y": 0,
+            "width": 768,
+            "height": 3933,
+            "right": 768,
+            "bottom": 3933
+          }
+        }
+      ],
+      "ctaOverflow": [],
+      "carouselOverflow": [],
+      "brokenWorkCards": [],
+      "brokenGalleries": [],
+      "pinnedIssues": [],
+      "footerOverflow": []
+    }
+  },
+  {
+    "route": "/work/thenationsbest",
+    "viewport": "768x1024",
+    "screenshot": "qa-screenshots/mobile/768x1024__work__thenationsbest.png",
+    "status": 200,
+    "durationMs": 5364,
+    "title": "The Nations Best - Brand Identity Case Study | ATHAYA DESIGNED",
+    "issues": [
+      {
+        "type": "overlapping navbar/header",
+        "severity": "medium",
+        "message": "1 possible header overlap(s)",
+        "details": {
+          "overlaps": [
+            {
+              "header": "header.navbar [BOOK A DISCOVERY CALL]",
+              "content": "main.work-page.work-detail-page [BACK TO WORK BRAND IDENTITY / 2022 THE NATIONS BEST A complete esports identity for The Na]",
+              "headerRect": {
+                "x": 0,
+                "y": 0,
+                "width": 768,
+                "height": 68,
+                "right": 768,
+                "bottom": 68
+              },
+              "contentRect": {
+                "x": 0,
+                "y": 0,
+                "width": 768,
+                "height": 15507,
+                "right": 768,
+                "bottom": 15507
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "broken selected work cards",
+        "severity": "medium",
+        "message": "1 work/project card candidate(s) look broken",
+        "details": {
+          "elements": [
+            {
+              "element": "figure.work-gallery__item.work-gallery__item--wide",
+              "rect": {
+                "x": 24,
+                "y": 2679,
+                "width": 762,
+                "height": 476,
+                "right": 786,
+                "bottom": 3155
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "audit": {
+      "title": "The Nations Best - Brand Identity Case Study | ATHAYA DESIGNED",
+      "url": "http://127.0.0.1:5173/work/thenationsbest",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "pageSize": {
+        "scrollWidth": 768,
+        "clientWidth": 768,
+        "scrollHeight": 15779
+      },
+      "horizontalOverflow": false,
+      "overflowingElements": [],
+      "clippedText": [],
+      "brokenImages": [],
+      "headerOverlap": [
+        {
+          "header": "header.navbar [BOOK A DISCOVERY CALL]",
+          "content": "main.work-page.work-detail-page [BACK TO WORK BRAND IDENTITY / 2022 THE NATIONS BEST A complete esports identity for The Na]",
+          "headerRect": {
+            "x": 0,
+            "y": 0,
+            "width": 768,
+            "height": 68,
+            "right": 768,
+            "bottom": 68
+          },
+          "contentRect": {
+            "x": 0,
+            "y": 0,
+            "width": 768,
+            "height": 15507,
+            "right": 768,
+            "bottom": 15507
+          }
+        }
+      ],
+      "ctaOverflow": [],
+      "carouselOverflow": [],
+      "brokenWorkCards": [
+        {
+          "element": "figure.work-gallery__item.work-gallery__item--wide",
+          "rect": {
+            "x": 24,
+            "y": 2679,
+            "width": 762,
+            "height": 476,
+            "right": 786,
+            "bottom": 3155
+          }
+        }
+      ],
+      "brokenGalleries": [],
+      "pinnedIssues": [],
+      "footerOverflow": []
+    }
+  },
+  {
+    "route": "/work/dfdc-logofolio",
+    "viewport": "768x1024",
+    "screenshot": "qa-screenshots/mobile/768x1024__work__dfdc-logofolio.png",
+    "status": 200,
+    "durationMs": 5925,
+    "title": "DFDC Lettermark Logofolio - Lettermark Case Study | ATHAYA DESIGNED",
+    "issues": [
+      {
+        "type": "overlapping navbar/header",
+        "severity": "medium",
+        "message": "1 possible header overlap(s)",
+        "details": {
+          "overlaps": [
+            {
+              "header": "header.navbar [BOOK A DISCOVERY CALL]",
+              "content": "main.work-page.work-detail-page [BACK TO WORK LETTERMARK / 2026 DFDC LETTERMARK LOGOFOLIO A collection of custom lettermark]",
+              "headerRect": {
+                "x": 0,
+                "y": 0,
+                "width": 768,
+                "height": 68,
+                "right": 768,
+                "bottom": 68
+              },
+              "contentRect": {
+                "x": 0,
+                "y": 0,
+                "width": 768,
+                "height": 21611,
+                "right": 768,
+                "bottom": 21611
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "broken selected work cards",
+        "severity": "medium",
+        "message": "1 work/project card candidate(s) look broken",
+        "details": {
+          "elements": [
+            {
+              "element": "figure.work-gallery__item.work-gallery__item--wide",
+              "rect": {
+                "x": 24,
+                "y": 2689,
+                "width": 762,
+                "height": 476,
+                "right": 786,
+                "bottom": 3166
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "audit": {
+      "title": "DFDC Lettermark Logofolio - Lettermark Case Study | ATHAYA DESIGNED",
+      "url": "http://127.0.0.1:5173/work/dfdc-logofolio",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "pageSize": {
+        "scrollWidth": 768,
+        "clientWidth": 768,
+        "scrollHeight": 21883
+      },
+      "horizontalOverflow": false,
+      "overflowingElements": [],
+      "clippedText": [],
+      "brokenImages": [],
+      "headerOverlap": [
+        {
+          "header": "header.navbar [BOOK A DISCOVERY CALL]",
+          "content": "main.work-page.work-detail-page [BACK TO WORK LETTERMARK / 2026 DFDC LETTERMARK LOGOFOLIO A collection of custom lettermark]",
+          "headerRect": {
+            "x": 0,
+            "y": 0,
+            "width": 768,
+            "height": 68,
+            "right": 768,
+            "bottom": 68
+          },
+          "contentRect": {
+            "x": 0,
+            "y": 0,
+            "width": 768,
+            "height": 21611,
+            "right": 768,
+            "bottom": 21611
+          }
+        }
+      ],
+      "ctaOverflow": [],
+      "carouselOverflow": [],
+      "brokenWorkCards": [
+        {
+          "element": "figure.work-gallery__item.work-gallery__item--wide",
+          "rect": {
+            "x": 24,
+            "y": 2689,
+            "width": 762,
+            "height": 476,
+            "right": 786,
+            "bottom": 3166
+          }
+        }
+      ],
+      "brokenGalleries": [],
+      "pinnedIssues": [],
+      "footerOverflow": []
+    }
+  },
+  {
+    "route": "/work/quick-showcase",
+    "viewport": "768x1024",
+    "screenshot": "qa-screenshots/mobile/768x1024__work__quick-showcase.png",
+    "status": 200,
+    "durationMs": 7915,
+    "title": "Quick Showcase - Mascot Logo Case Study | ATHAYA DESIGNED",
+    "issues": [
+      {
+        "type": "overlapping navbar/header",
+        "severity": "medium",
+        "message": "1 possible header overlap(s)",
+        "details": {
+          "overlaps": [
+            {
+              "header": "header.navbar [BOOK A DISCOVERY CALL]",
+              "content": "main.work-page.work-detail-page [BACK TO WORK MASCOT LOGO / 2022-2026 QUICK SHOWCASE A curated visual archive collecting ma]",
+              "headerRect": {
+                "x": 0,
+                "y": 0,
+                "width": 768,
+                "height": 68,
+                "right": 768,
+                "bottom": 68
+              },
+              "contentRect": {
+                "x": 0,
+                "y": 0,
+                "width": 768,
+                "height": 24223,
+                "right": 768,
+                "bottom": 24223
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "broken selected work cards",
+        "severity": "medium",
+        "message": "1 work/project card candidate(s) look broken",
+        "details": {
+          "elements": [
+            {
+              "element": "figure.work-gallery__item.work-gallery__item--wide",
+              "rect": {
+                "x": 24,
+                "y": 1977,
+                "width": 762,
+                "height": 476,
+                "right": 786,
+                "bottom": 2453
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "audit": {
+      "title": "Quick Showcase - Mascot Logo Case Study | ATHAYA DESIGNED",
+      "url": "http://127.0.0.1:5173/work/quick-showcase",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "pageSize": {
+        "scrollWidth": 768,
+        "clientWidth": 768,
+        "scrollHeight": 24495
+      },
+      "horizontalOverflow": false,
+      "overflowingElements": [],
+      "clippedText": [],
+      "brokenImages": [],
+      "headerOverlap": [
+        {
+          "header": "header.navbar [BOOK A DISCOVERY CALL]",
+          "content": "main.work-page.work-detail-page [BACK TO WORK MASCOT LOGO / 2022-2026 QUICK SHOWCASE A curated visual archive collecting ma]",
+          "headerRect": {
+            "x": 0,
+            "y": 0,
+            "width": 768,
+            "height": 68,
+            "right": 768,
+            "bottom": 68
+          },
+          "contentRect": {
+            "x": 0,
+            "y": 0,
+            "width": 768,
+            "height": 24223,
+            "right": 768,
+            "bottom": 24223
+          }
+        }
+      ],
+      "ctaOverflow": [],
+      "carouselOverflow": [],
+      "brokenWorkCards": [
+        {
+          "element": "figure.work-gallery__item.work-gallery__item--wide",
+          "rect": {
+            "x": 24,
+            "y": 1977,
+            "width": 762,
+            "height": 476,
+            "right": 786,
+            "bottom": 2453
+          }
+        }
+      ],
+      "brokenGalleries": [],
+      "pinnedIssues": [],
+      "footerOverflow": []
+    }
+  },
+  {
+    "route": "/fonts",
+    "viewport": "768x1024",
+    "screenshot": "qa-screenshots/mobile/768x1024__fonts.png",
+    "status": 200,
+    "durationMs": 2588,
+    "title": "ATHAYA DESIGNED Fonts - Display Typefaces for Sports Brands",
+    "issues": [
+      {
+        "type": "overlapping navbar/header",
+        "severity": "medium",
+        "message": "1 possible header overlap(s)",
+        "details": {
+          "overlaps": [
+            {
+              "header": "header.navbar [BOOK A DISCOVERY CALL]",
+              "content": "main.fonts-page [ATHAYA DESIGNED FONTS ATHAYA DESIGNED FONTS. A growing collection of display fonts, sports]",
+              "headerRect": {
+                "x": 0,
+                "y": 0,
+                "width": 768,
+                "height": 68,
+                "right": 768,
+                "bottom": 68
+              },
+              "contentRect": {
+                "x": 0,
+                "y": 0,
+                "width": 768,
+                "height": 3717,
+                "right": 768,
+                "bottom": 3717
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "audit": {
+      "title": "ATHAYA DESIGNED Fonts - Display Typefaces for Sports Brands",
+      "url": "http://127.0.0.1:5173/fonts",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "pageSize": {
+        "scrollWidth": 768,
+        "clientWidth": 768,
+        "scrollHeight": 3989
+      },
+      "horizontalOverflow": false,
+      "overflowingElements": [],
+      "clippedText": [],
+      "brokenImages": [],
+      "headerOverlap": [
+        {
+          "header": "header.navbar [BOOK A DISCOVERY CALL]",
+          "content": "main.fonts-page [ATHAYA DESIGNED FONTS ATHAYA DESIGNED FONTS. A growing collection of display fonts, sports]",
+          "headerRect": {
+            "x": 0,
+            "y": 0,
+            "width": 768,
+            "height": 68,
+            "right": 768,
+            "bottom": 68
+          },
+          "contentRect": {
+            "x": 0,
+            "y": 0,
+            "width": 768,
+            "height": 3717,
+            "right": 768,
+            "bottom": 3717
+          }
+        }
+      ],
+      "ctaOverflow": [],
+      "carouselOverflow": [],
+      "brokenWorkCards": [],
+      "brokenGalleries": [],
+      "pinnedIssues": [],
+      "footerOverflow": []
+    }
+  },
+  {
+    "route": "/fonts/azn-knuckles",
+    "viewport": "768x1024",
+    "screenshot": "qa-screenshots/mobile/768x1024__fonts__azn-knuckles.png",
+    "status": 200,
+    "durationMs": 2118,
+    "title": "AZN Knuckles - Display Typeface for Sports Graphics | ATHAYA DESIGNED",
+    "issues": [
+      {
+        "type": "overlapping navbar/header",
+        "severity": "medium",
+        "message": "1 possible header overlap(s)",
+        "details": {
+          "overlaps": [
+            {
+              "header": "header.navbar [BOOK A DISCOVERY CALL]",
+              "content": "main.fonts-page.font-detail-page [BACK TO FONTS SPORTS LETTERING FONT AZN KNUCKLES Ironline Display is shaped for athletic i]",
+              "headerRect": {
+                "x": 0,
+                "y": 0,
+                "width": 768,
+                "height": 68,
+                "right": 768,
+                "bottom": 68
+              },
+              "contentRect": {
+                "x": 0,
+                "y": 0,
+                "width": 768,
+                "height": 3693,
+                "right": 768,
+                "bottom": 3693
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "audit": {
+      "title": "AZN Knuckles - Display Typeface for Sports Graphics | ATHAYA DESIGNED",
+      "url": "http://127.0.0.1:5173/fonts/azn-knuckles",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "pageSize": {
+        "scrollWidth": 768,
+        "clientWidth": 768,
+        "scrollHeight": 3965
+      },
+      "horizontalOverflow": false,
+      "overflowingElements": [],
+      "clippedText": [],
+      "brokenImages": [],
+      "headerOverlap": [
+        {
+          "header": "header.navbar [BOOK A DISCOVERY CALL]",
+          "content": "main.fonts-page.font-detail-page [BACK TO FONTS SPORTS LETTERING FONT AZN KNUCKLES Ironline Display is shaped for athletic i]",
+          "headerRect": {
+            "x": 0,
+            "y": 0,
+            "width": 768,
+            "height": 68,
+            "right": 768,
+            "bottom": 68
+          },
+          "contentRect": {
+            "x": 0,
+            "y": 0,
+            "width": 768,
+            "height": 3693,
+            "right": 768,
+            "bottom": 3693
+          }
+        }
+      ],
+      "ctaOverflow": [],
+      "carouselOverflow": [],
+      "brokenWorkCards": [],
+      "brokenGalleries": [],
+      "pinnedIssues": [],
+      "footerOverflow": []
+    }
+  },
+  {
+    "route": "/about",
+    "viewport": "768x1024",
+    "screenshot": "qa-screenshots/mobile/768x1024__about.png",
+    "status": 200,
+    "durationMs": 2482,
+    "title": "About ATHAYA DESIGNED - Independent Sports Identity Designer",
+    "issues": [
+      {
+        "type": "overlapping navbar/header",
+        "severity": "medium",
+        "message": "1 possible header overlap(s)",
+        "details": {
+          "overlaps": [
+            {
+              "header": "header.navbar [BOOK A DISCOVERY CALL]",
+              "content": "main.about-page [ABOUT ATHAYA DESIGNED INDEPENDENT IDENTITY DESIGN PRACTICE Character-driven identity desig]",
+              "headerRect": {
+                "x": 0,
+                "y": 0,
+                "width": 768,
+                "height": 68,
+                "right": 768,
+                "bottom": 68
+              },
+              "contentRect": {
+                "x": 0,
+                "y": 0,
+                "width": 768,
+                "height": 3793,
+                "right": 768,
+                "bottom": 3793
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "audit": {
+      "title": "About ATHAYA DESIGNED - Independent Sports Identity Designer",
+      "url": "http://127.0.0.1:5173/about",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "pageSize": {
+        "scrollWidth": 768,
+        "clientWidth": 768,
+        "scrollHeight": 4065
+      },
+      "horizontalOverflow": false,
+      "overflowingElements": [],
+      "clippedText": [],
+      "brokenImages": [],
+      "headerOverlap": [
+        {
+          "header": "header.navbar [BOOK A DISCOVERY CALL]",
+          "content": "main.about-page [ABOUT ATHAYA DESIGNED INDEPENDENT IDENTITY DESIGN PRACTICE Character-driven identity desig]",
+          "headerRect": {
+            "x": 0,
+            "y": 0,
+            "width": 768,
+            "height": 68,
+            "right": 768,
+            "bottom": 68
+          },
+          "contentRect": {
+            "x": 0,
+            "y": 0,
+            "width": 768,
+            "height": 3793,
+            "right": 768,
+            "bottom": 3793
+          }
+        }
+      ],
+      "ctaOverflow": [],
+      "carouselOverflow": [],
+      "brokenWorkCards": [],
+      "brokenGalleries": [],
+      "pinnedIssues": [],
+      "footerOverflow": []
+    }
+  },
+  {
+    "route": "/services",
+    "viewport": "768x1024",
+    "screenshot": "qa-screenshots/mobile/768x1024__services.png",
+    "status": 200,
+    "durationMs": 2176,
+    "title": "Services - Mascot Logo, Athletic Identity & School Branding",
+    "issues": [
+      {
+        "type": "clipped text",
+        "severity": "medium",
+        "message": "4 visible text element(s) appear clipped",
+        "details": {
+          "elements": [
+            {
+              "element": "li.process-card.process-card--with-image [01 DISCOVER BRIEF]",
+              "rect": {
+                "x": 24,
+                "y": 1881,
+                "width": 352,
+                "height": 212,
+                "right": 376,
+                "bottom": 2093
+              },
+              "scrollWidth": 354,
+              "clientWidth": 350,
+              "scrollHeight": 212,
+              "clientHeight": 210
+            },
+            {
+              "element": "li.process-card.process-card--with-image [02 EXPLORE SKETCH]",
+              "rect": {
+                "x": 392,
+                "y": 1881,
+                "width": 352,
+                "height": 212,
+                "right": 744,
+                "bottom": 2093
+              },
+              "scrollWidth": 354,
+              "clientWidth": 350,
+              "scrollHeight": 212,
+              "clientHeight": 210
+            },
+            {
+              "element": "li.process-card.process-card--with-image [03 DESIGN OUTLINE]",
+              "rect": {
+                "x": 24,
+                "y": 2109,
+                "width": 352,
+                "height": 212,
+                "right": 376,
+                "bottom": 2321
+              },
+              "scrollWidth": 354,
+              "clientWidth": 350,
+              "scrollHeight": 212,
+              "clientHeight": 210
+            },
+            {
+              "element": "li.process-card.process-card--with-image [04 DELIVER ROLLOUT]",
+              "rect": {
+                "x": 392,
+                "y": 2109,
+                "width": 352,
+                "height": 212,
+                "right": 744,
+                "bottom": 2321
+              },
+              "scrollWidth": 354,
+              "clientWidth": 350,
+              "scrollHeight": 212,
+              "clientHeight": 210
+            }
+          ]
+        }
+      },
+      {
+        "type": "overlapping navbar/header",
+        "severity": "medium",
+        "message": "1 possible header overlap(s)",
+        "details": {
+          "overlaps": [
+            {
+              "header": "header.navbar [BOOK A DISCOVERY CALL]",
+              "content": "main.services-page [SERVICES IDENTITY DESIGN SERVICES Premium identity design services for teams, schools, clu]",
+              "headerRect": {
+                "x": 0,
+                "y": 0,
+                "width": 768,
+                "height": 68,
+                "right": 768,
+                "bottom": 68
+              },
+              "contentRect": {
+                "x": 0,
+                "y": 0,
+                "width": 768,
+                "height": 2761,
+                "right": 768,
+                "bottom": 2761
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "audit": {
+      "title": "Services - Mascot Logo, Athletic Identity & School Branding",
+      "url": "http://127.0.0.1:5173/services",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "pageSize": {
+        "scrollWidth": 768,
+        "clientWidth": 768,
+        "scrollHeight": 3034
+      },
+      "horizontalOverflow": false,
+      "overflowingElements": [],
+      "clippedText": [
+        {
+          "element": "li.process-card.process-card--with-image [01 DISCOVER BRIEF]",
+          "rect": {
+            "x": 24,
+            "y": 1881,
+            "width": 352,
+            "height": 212,
+            "right": 376,
+            "bottom": 2093
+          },
+          "scrollWidth": 354,
+          "clientWidth": 350,
+          "scrollHeight": 212,
+          "clientHeight": 210
+        },
+        {
+          "element": "li.process-card.process-card--with-image [02 EXPLORE SKETCH]",
+          "rect": {
+            "x": 392,
+            "y": 1881,
+            "width": 352,
+            "height": 212,
+            "right": 744,
+            "bottom": 2093
+          },
+          "scrollWidth": 354,
+          "clientWidth": 350,
+          "scrollHeight": 212,
+          "clientHeight": 210
+        },
+        {
+          "element": "li.process-card.process-card--with-image [03 DESIGN OUTLINE]",
+          "rect": {
+            "x": 24,
+            "y": 2109,
+            "width": 352,
+            "height": 212,
+            "right": 376,
+            "bottom": 2321
+          },
+          "scrollWidth": 354,
+          "clientWidth": 350,
+          "scrollHeight": 212,
+          "clientHeight": 210
+        },
+        {
+          "element": "li.process-card.process-card--with-image [04 DELIVER ROLLOUT]",
+          "rect": {
+            "x": 392,
+            "y": 2109,
+            "width": 352,
+            "height": 212,
+            "right": 744,
+            "bottom": 2321
+          },
+          "scrollWidth": 354,
+          "clientWidth": 350,
+          "scrollHeight": 212,
+          "clientHeight": 210
+        }
+      ],
+      "brokenImages": [],
+      "headerOverlap": [
+        {
+          "header": "header.navbar [BOOK A DISCOVERY CALL]",
+          "content": "main.services-page [SERVICES IDENTITY DESIGN SERVICES Premium identity design services for teams, schools, clu]",
+          "headerRect": {
+            "x": 0,
+            "y": 0,
+            "width": 768,
+            "height": 68,
+            "right": 768,
+            "bottom": 68
+          },
+          "contentRect": {
+            "x": 0,
+            "y": 0,
+            "width": 768,
+            "height": 2761,
+            "right": 768,
+            "bottom": 2761
+          }
+        }
+      ],
+      "ctaOverflow": [],
+      "carouselOverflow": [],
+      "brokenWorkCards": [],
+      "brokenGalleries": [],
+      "pinnedIssues": [],
+      "footerOverflow": []
+    }
+  },
+  {
+    "route": "/contact",
+    "viewport": "768x1024",
+    "screenshot": "qa-screenshots/mobile/768x1024__contact.png",
+    "status": 200,
+    "durationMs": 1937,
+    "title": "Start a Project - ATHAYA DESIGNED",
+    "issues": [
+      {
+        "type": "overlapping navbar/header",
+        "severity": "medium",
+        "message": "1 possible header overlap(s)",
+        "details": {
+          "overlaps": [
+            {
+              "header": "header.navbar [BOOK A DISCOVERY CALL]",
+              "content": "main.contact-page [CONTACT START A PROJECT Tell me about your team, school, brand, or identity project. I wil]",
+              "headerRect": {
+                "x": 0,
+                "y": 0,
+                "width": 768,
+                "height": 68,
+                "right": 768,
+                "bottom": 68
+              },
+              "contentRect": {
+                "x": 0,
+                "y": 0,
+                "width": 768,
+                "height": 1645,
+                "right": 768,
+                "bottom": 1645
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "audit": {
+      "title": "Start a Project - ATHAYA DESIGNED",
+      "url": "http://127.0.0.1:5173/contact",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "pageSize": {
+        "scrollWidth": 768,
+        "clientWidth": 768,
+        "scrollHeight": 1918
+      },
+      "horizontalOverflow": false,
+      "overflowingElements": [],
+      "clippedText": [],
+      "brokenImages": [],
+      "headerOverlap": [
+        {
+          "header": "header.navbar [BOOK A DISCOVERY CALL]",
+          "content": "main.contact-page [CONTACT START A PROJECT Tell me about your team, school, brand, or identity project. I wil]",
+          "headerRect": {
+            "x": 0,
+            "y": 0,
+            "width": 768,
+            "height": 68,
+            "right": 768,
+            "bottom": 68
+          },
+          "contentRect": {
+            "x": 0,
+            "y": 0,
+            "width": 768,
+            "height": 1645,
+            "right": 768,
+            "bottom": 1645
+          }
+        }
+      ],
+      "ctaOverflow": [],
+      "carouselOverflow": [],
+      "brokenWorkCards": [],
+      "brokenGalleries": [],
+      "pinnedIssues": [],
+      "footerOverflow": []
+    }
+  },
+  {
+    "route": "/admin",
+    "viewport": "768x1024",
+    "screenshot": "qa-screenshots/mobile/768x1024__admin.png",
+    "status": 200,
+    "durationMs": 1725,
+    "title": "ATHAYA DESIGNED - Sports Identity & Mascot Logo Design Studio",
+    "issues": [],
+    "audit": {
+      "title": "ATHAYA DESIGNED - Sports Identity & Mascot Logo Design Studio",
+      "url": "http://127.0.0.1:5173/admin",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "pageSize": {
+        "scrollWidth": 768,
+        "clientWidth": 768,
+        "scrollHeight": 1024
+      },
+      "horizontalOverflow": false,
+      "overflowingElements": [],
+      "clippedText": [],
+      "brokenImages": [],
+      "headerOverlap": [],
+      "ctaOverflow": [],
+      "carouselOverflow": [],
+      "brokenWorkCards": [],
+      "brokenGalleries": [],
+      "pinnedIssues": [],
+      "footerOverflow": []
+    }
+  }
+]

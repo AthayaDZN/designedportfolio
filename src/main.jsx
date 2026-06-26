@@ -1033,7 +1033,7 @@ function render() {
         <div class="work-grid">
           ${selectedWork.map((item, index) => `
             <a href="/work/${item.slug}" class="work-card" data-reveal data-router-link>
-              <img ${imageAttrs(item.image, `${item.title} ${item.category} project preview by ATHAYA DESIGNED`, { loading: "lazy" })} />
+              <img ${imageAttrs(item.image, `${item.title} ${item.category} project preview by ATHAYA DESIGNED`)} />
               <div class="work-card-content"><span>${item.category} / ${item.year}</span><strong>${item.title}</strong><em>${arrowIcon()}</em></div>
             </a>
           `).join("")}
@@ -1054,7 +1054,7 @@ function render() {
             .map(
               (image, index) => `
                 <figure class="approach-image approach-image--${index + 1}">
-                  <img ${imageAttrs(image, `ATHAYA DESIGNED character-driven identity process detail ${index + 1}`, { loading: "lazy" })} />
+                  <img ${imageAttrs(image, `ATHAYA DESIGNED character-driven identity process detail ${index + 1}`)} />
                 </figure>
               `,
             )
@@ -1183,7 +1183,7 @@ function renderWorkArchive() {
 function renderArchiveCard(work, index) {
   return `
     <a class="work-card work-archive-card ${index === 0 || index === works.length - 1 ? "work-archive-card--wide" : ""}" href="/work/${work.slug}" data-category="${work.category} ${work.services.join(" ")}" data-reveal data-router-link>
-      <img ${imageAttrs(work.coverImage, `${work.title} ${work.category} case study preview by ATHAYA DESIGNED`, { loading: index < 2 ? "eager" : "lazy", fetchPriority: index === 0 ? "high" : undefined })} />
+      <img ${imageAttrs(work.coverImage, `${work.title} ${work.category} case study preview by ATHAYA DESIGNED`, { loading: "eager", fetchPriority: index === 0 ? "high" : undefined })} />
       <div class="work-card-content">
         <span>${work.category} / ${work.year}</span>
         <strong>${work.title}</strong>
@@ -1404,7 +1404,7 @@ function renderWorkDetail(slug) {
       <section class="work-gallery" aria-label="${work.title} gallery">
         ${work.gallery.map((image, index) => `
           <figure class="${index === 0 ? "work-gallery__item work-gallery__item--wide" : "work-gallery__item"}" data-image-reveal>
-            <img ${imageAttrs(image, `${work.title} identity application ${index + 1} by ATHAYA DESIGNED`, { loading: "lazy" })} />
+            <img ${imageAttrs(image, `${work.title} identity application ${index + 1} by ATHAYA DESIGNED`)} />
           </figure>
         `).join("")}
       </section>
