@@ -117,10 +117,10 @@ const heroSlideStates = {
 };
 
 function getHeroSlideState(slide) {
-  if (window.matchMedia("(max-width: 640px)").matches && slide.dataset.slideState !== "active") {
+  if (window.matchMedia("(max-width: 640px)").matches) {
     return {
-      opacity: 0,
-      transform: "translateX(-50%) scale(0.94) rotateY(0deg)",
+      opacity: slide.dataset.slideState === "active" ? 1 : 0,
+      transform: "translateX(0) scale(1) rotateY(0deg)",
     };
   }
 

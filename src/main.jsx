@@ -691,6 +691,75 @@ function renderCaseCollage(images = [], heading) {
   `;
 }
 
+function renderCaseMobileStats(stats = []) {
+  const visibleStats = stats.filter((stat) => stat?.value || stat?.label).slice(0, 3);
+  if (!visibleStats.length) return "";
+
+  return `
+    <div class="case-mobile-story__stats">
+      ${visibleStats.map((stat) => `<span><strong>${stat.value}</strong><em>${stat.label}</em></span>`).join("")}
+    </div>
+  `;
+}
+
+function renderCaseMobilePreview(chapter) {
+  const image = chapter.images.find((item) => getCaseImagePath(item)) || chapter.images[0];
+  if (!image) return "";
+
+  const imagePath = getCaseImagePath(image);
+  const type = image.type || "custom";
+  const labelText = image.label || chapter.heading || chapter.title || "Featured case study image";
+
+  return `
+    <figure class="case-mobile-story__preview case-collage-item--${type}" data-visual="${type}" data-image-reveal>
+      ${imagePath
+        ? `<img ${imageAttrs(imagePath, `${chapter.title} ${chapter.category} brand application by ATHAYA DESIGNED`, { loading: "lazy" })} />`
+        : `<div class="identity-visual identity-visual--${type}">
+            <span class="visual-mark">${labelText}</span>
+            ${image.detail ? `<span class="visual-detail">${image.detail}</span>` : ""}
+          </div>`}
+      <figcaption>${labelText}</figcaption>
+    </figure>
+  `;
+}
+
+function renderCaseMobileStoryStack() {
+  const caseStudySlug = homeContent.featuredCaseStudy?.selectedWorkSlug || "thenationsbest";
+
+  return `
+    <div class="case-mobile-story" aria-label="Featured case study story">
+      <div class="case-mobile-story__intro" data-reveal>
+        ${label("Featured Case Study")}
+        <h2>${chapters[0]?.heading || homeContent.featuredCaseStudy?.title || "Case Study"}</h2>
+        <p>Scroll the breakdown</p>
+      </div>
+      <div class="case-mobile-story__chapters">
+        ${chapters
+          .map(
+            (item) => `
+              <article class="case-mobile-story__chapter" data-reveal>
+                <div class="case-mobile-story__meta">
+                  <span class="case-mobile-story__number">${item.number}</span>
+                  <div>
+                    <h3>${item.title}</h3>
+                    <span>${item.category}</span>
+                  </div>
+                </div>
+                ${renderCaseMobilePreview(item)}
+                <p>${item.copy}</p>
+                ${renderCaseMobileStats(item.stats)}
+              </article>
+            `,
+          )
+          .join("")}
+      </div>
+      <div class="case-mobile-story__cta" data-reveal>
+        ${btn("View Case Study", `/work/${caseStudySlug}`)}
+      </div>
+    </div>
+  `;
+}
+
 function renderCasePanel(chapter) {
   const caseStudySlug = homeContent.featuredCaseStudy?.selectedWorkSlug || "thenationsbest";
   return `
@@ -782,7 +851,10 @@ function renderHeroSlides() {
       const isActive = state === "active";
       return `
         <div class="hero-slide hero-slide--${state}" data-hero-slide data-slide-index="${index}" data-slide-state="${state}" aria-hidden="${state === "active" ? "false" : "true"}">
-          <img ${imageAttrs(image, `${item.title} ${item.category} identity application by ATHAYA DESIGNED`, { loading: isActive ? "eager" : "lazy", fetchPriority: isActive ? "high" : "low" })} />
+          <img ${imageAttrs(image, "", { className: "hero-slide__backdrop", loading: isActive ? "eager" : "lazy", fetchPriority: isActive ? "high" : "low", ariaHidden: true })} />
+          <img ${imageAttrs(image, "", { className: "hero-slide__support hero-slide__support--top", loading: isActive ? "eager" : "lazy", fetchPriority: isActive ? "high" : "low", ariaHidden: true })} />
+          <img ${imageAttrs(image, `${item.title} ${item.category} identity application by ATHAYA DESIGNED`, { className: "hero-slide__image", loading: isActive ? "eager" : "lazy", fetchPriority: isActive ? "high" : "low" })} />
+          <img ${imageAttrs(image, "", { className: "hero-slide__support hero-slide__support--bottom", loading: isActive ? "eager" : "lazy", fetchPriority: isActive ? "high" : "low", ariaHidden: true })} />
         </div>
       `;
     })
@@ -1028,6 +1100,7 @@ function render() {
             </div>
           </div>
         </div>
+        ${renderCaseMobileStoryStack()}
       </section>
 
       <section class="selected-work" id="selected-work">
