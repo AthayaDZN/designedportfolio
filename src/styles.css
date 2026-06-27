@@ -3448,8 +3448,7 @@ img {
   .case-mobile-story__preview {
     position: relative;
     width: 100%;
-    aspect-ratio: 16 / 9;
-    max-height: 260px;
+    aspect-ratio: 1 / 1;
     margin: 0;
     overflow: hidden;
     border: 1px solid rgba(243, 238, 231, 0.12);
@@ -3599,6 +3598,11 @@ img {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
+  .approach-image {
+    aspect-ratio: 4 / 5;
+    min-height: 0;
+  }
+
   .prefooter-cta {
     gap: 20px;
     padding-top: 34px;
@@ -3690,6 +3694,16 @@ img {
 
   .font-card__media {
     aspect-ratio: 4 / 3;
+  }
+
+  .font-card__media img[src*="1782305972007"] {
+    transform: scale(1.18);
+    transform-origin: center;
+  }
+
+  .font-card__media img[src*="1-o-1782387182736"] {
+    transform: scale(1.1);
+    transform-origin: center;
   }
 
   .font-card__topline {
@@ -3879,13 +3893,11 @@ img {
     min-height: 300px;
   }
 
-  .case-collage,
-  .approach-strip {
+  .case-collage {
     grid-template-columns: 1fr;
   }
 
-  .case-collage-item,
-  .approach-image {
+  .case-collage-item {
     min-height: 220px;
   }
 
