@@ -554,8 +554,9 @@ img {
 }
 
 .featured-hero {
-  width: min(var(--container), 100%);
-  margin: 0 auto;
+  width: 100%;
+  max-width: none;
+  margin: 0;
   padding: clamp(66px, 5.6vw, 86px) var(--page-pad) 0;
 }
 
@@ -846,8 +847,9 @@ img {
 .approach,
 .prefooter-cta,
 .footer {
-  width: min(var(--container), 100%);
-  margin: 0 auto;
+  width: 100%;
+  max-width: none;
+  margin: 0;
   padding-left: var(--page-pad);
   padding-right: var(--page-pad);
 }
